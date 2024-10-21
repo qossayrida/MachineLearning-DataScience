@@ -56,6 +56,18 @@ Collection.visualize_summary_distribution_one(df_dropped)
 Collection.visualize_summary_distribution_two(df_dropped)
 
 #############################################################################
+#                           Model Popularity
+#############################################################################
+
+Collection.analyze_ev_model_popularity(df_dropped)
+
+#############################################################################
+#    Investigate the relationship between every pair of numeric features
+#############################################################################
+
+Collection.investigate_correlations(df_dropped)
+
+#############################################################################
 #                            save data and exit
 #############################################################################
 

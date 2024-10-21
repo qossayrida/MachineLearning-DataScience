@@ -1,7 +1,9 @@
+import numpy as np
 import pandas as pd
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 import geopandas as gpd
+import seaborn as sns
 import matplotlib.pyplot as plt
 
 # 1. Document Missing Values
@@ -176,6 +178,93 @@ def visualize_summary_distribution_two(dataframe, shapefile=r"tl_2023_53_cousub\
     # Show the map
     plt.show()
 
+
+
+# 7.Analyze the popularity of different EV models (categorical data) and identify any trends.
+def analyze_ev_model_popularity(dataframe):
+    # Check if 'Make' and 'Model' columns exist
+    if 'Make' not in dataframe.columns or 'Model' not in dataframe.columns:
+        print("Error: 'Make' or 'Model' column not found in the DataFrame.")
+        print("Available columns:", dataframe.columns)
+        return
+
+    # Group by 'Make' and 'Model' and count occurrences
+    model_popularity = dataframe.groupby(['Make', 'Model']).size().reset_index(name='Count')
+
+    # Sort the models by popularity (count) in descending order
+    model_popularity = model_popularity.sort_values(by='Count', ascending=False)
+
+    # Get the top 15 models and combine the rest into 'Other Models'
+    top_models = model_popularity.head(15)
+    other_models_count = model_popularity['Count'].sum() - top_models['Count'].sum()
+
+    # Create a new DataFrame for pie chart data
+    other_models_df = pd.DataFrame({'Make': ['Other Models'], 'Model': [''], 'Count': [other_models_count]})
+    pie_chart_data = pd.concat([top_models, other_models_df], ignore_index=True)
+
+    # Print the top 5 models with aligned formatting (with header)
+    print("\n\nTop 5 Electric Vehicle Models by Popularity:")
+    print(f"{'Make':<15} {'Model':<15} {'Count':<7}")
+    for index, row in top_models.head(5).iterrows():
+        print(f"{row['Make']:<15} {row['Model']:<15} {row['Count']:<7}")
+
+    # Create a pie chart for top models and 'Other Models'
+    plt.figure(figsize=(10, 10))
+    plt.pie(pie_chart_data['Count'],
+            labels=pie_chart_data['Make'] + (": " + pie_chart_data['Model'].replace('', ' ')),
+            autopct='%1.1f%%',
+            startangle=140,
+            colors=plt.cm.tab20.colors)
+
+    # Set the title and display the pie chart
+    plt.title('Electric Vehicle Models by Popularity\n')
+    plt.axis('equal')  # Equal aspect ratio ensures the pie chart is circular
+    plt.show()
+
+
+# 8. Investigate the relationship between every pair of numeric features.
+
+def investigate_correlations(df, method='pearson'):
+
+    # Extract numeric features from the DataFrame
+    numeric_df = df.select_dtypes(include='number')
+
+    # Calculate correlation matrix
+    correlation_matrix = numeric_df.corr(method=method)
+
+    # Visualize the correlation matrix using a heatmap
+    plt.figure(figsize=(12, 8))
+    sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f", linewidths=0.5)
+    plt.title(f'Correlation Matrix ({method.capitalize()} method)', fontsize=16)
+    plt.show()
+
+    # Explain the results
+    explain_correlations(correlation_matrix)
+
+    return correlation_matrix
+
+
+def explain_correlations(correlation_matrix, threshold=0.8):
+
+    print("\n### Correlation Analysis ###\n")
+    corr_matrix_no_self = correlation_matrix.copy()
+
+    # Remove self-correlations
+    np.fill_diagonal(corr_matrix_no_self.values, np.nan)
+
+    strong_correlations = corr_matrix_no_self[(corr_matrix_no_self > threshold) | (corr_matrix_no_self < -threshold)]
+
+    if strong_correlations.isnull().all().all():
+        print(
+            f"No strong correlations (greater than {threshold} or less than -{threshold}) found between numeric features.")
+    else:
+        print(f"Significant Correlations (greater than {threshold} or less than -{threshold}):\n")
+        for i, row in strong_correlations.iterrows():
+            for j, value in row.items():
+                if not pd.isna(value):
+                    print(f" - {i} and {j} have a correlation of {value:.2f}")
+
+    print("\nCorrelations closer to 1 indicate a strong positive relationship, while correlations closer to -1 indicate a strong negative relationship. Correlations close to 0 suggest no linear relationship.")
 
 #####################################################################################
 #                                     Checker
