@@ -1,7 +1,5 @@
 # Electric Vehicle Population Data Analysis
 
----
-
 ## Overview
 
 This project analyzes the **Electric Vehicle Population Data** provided by the State of Washington, accessible on [Data.gov](https://catalog.data.gov/dataset/electric-vehicle-population-data). The dataset contains information on battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs) registered in Washington State. It includes 17 features per vehicle, such as VIN, county and city of registration, make, model, electric type, and electric range. This project focuses on data preprocessing, exploratory data analysis (EDA), and effectively communicating insights.
@@ -57,8 +55,6 @@ The project report (`report.pdf`) includes detailed discussions on:
 
 This project is for academic use only as part of the ENCS5341 course at the Electrical and Computer Engineering Department.
 
-
----
 
 
 ## 🔗 Links
