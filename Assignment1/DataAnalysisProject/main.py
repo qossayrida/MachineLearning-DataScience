@@ -84,6 +84,11 @@ To avoid this increase sleep time after each plot to 2 seconds
 
 Collection.explore_data_visualizations(df_dropped, numerical_features=['DOL Vehicle ID', 'Electric Range'])
 
+#############################################################################
+#
+#############################################################################
+
+Collection.visualize_ev_distribution_by_location(df_dropped)
 
 
 #############################################################################

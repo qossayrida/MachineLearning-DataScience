@@ -277,7 +277,6 @@ def investigate_correlations(df, method='pearson', threshold=0.8):
 """
 def explore_data_visualizations(dataframe, numerical_features=None):
 
-
     # Select numerical columns
     if numerical_features is None:
         numerical_features = dataframe.select_dtypes(include=['float64', 'int64']).columns
@@ -285,7 +284,7 @@ def explore_data_visualizations(dataframe, numerical_features=None):
         numerical_features = [col for col in numerical_features if col in dataframe.columns]
 
     # 1. Histograms for numerical features
-    def plot_histograms(dataframe):
+    def plot_histograms():
         for col in numerical_features:
             plt.figure(figsize=(8, 6))
             plt.hist(dataframe[col], bins=20, color='skyblue', edgecolor='black')
@@ -298,7 +297,7 @@ def explore_data_visualizations(dataframe, numerical_features=None):
             time.sleep(0.5)
 
     # 2. Scatter plots between selected pairs of numerical features
-    def plot_scatter_matrix(dataframe):
+    def plot_scatter_matrix():
         num_cols = len(numerical_features)
 
         # Create separate scatter plots for each pair of numerical columns
@@ -316,7 +315,7 @@ def explore_data_visualizations(dataframe, numerical_features=None):
                 time.sleep(0.5)
 
     # 3. Boxplot for each numerical feature by a chosen categorical feature
-    def plot_boxplots(dataframe,categorical_feature):
+    def plot_boxplots(categorical_feature):
         for num_col in numerical_features:
             plt.figure(figsize=(10, 6))
             sns.boxplot(data=dataframe, x=categorical_feature, y=num_col, color="lightblue", fliersize=3)
@@ -331,19 +330,72 @@ def explore_data_visualizations(dataframe, numerical_features=None):
 
     # Execute the visualizations
     print("Generating histograms for specified numerical features...")
-    plot_histograms(dataframe)
+    plot_histograms()
 
     print("Generating scatter plot matrix for specified numerical features...")
-    plot_scatter_matrix(dataframe)
+    plot_scatter_matrix()
 
     if 'Make' in dataframe.columns:
         print("Generating boxplots for numerical features by 'Make' (categorical feature)...")
-        plot_boxplots(dataframe, 'Make')
+        plot_boxplots('Make')
     else:
         print("Generating boxplots for numerical features by 'Make_Model' (categorical feature)...")
-        plot_boxplots(dataframe, 'Make_Model')
+        plot_boxplots('Make_Model')
 
 
+
+# 10.
+"""
+    Visualizes the distribution of electric vehicles across different locations.
+
+    Parameters:
+    - dataframe (pd.DataFrame): DataFrame containing the data to visualize.
+    - top_n (int): Number of top locations to display.
+"""
+
+
+def visualize_ev_distribution_by_location(dataframe, top_n=10, top_makes=15):
+    # Determine column names based on existence
+    location_type = 'County_City' if 'County_City' in dataframe.columns else 'City'
+    make_type = 'Make_Model' if 'Make_Model' in dataframe.columns else 'Make'
+
+    # Count EVs per location and select top N locations
+    location_counts = dataframe[location_type].value_counts().head(top_n)
+
+    # Step 1: Bar chart for the top locations by EV counts
+    plt.figure(figsize=(10, 6))
+    location_counts.plot(kind='bar', color='skyblue', edgecolor='black')
+    plt.title(f"Top {top_n} Locations by EV Counts ({location_type})", fontsize=16, weight='bold')
+    plt.xlabel(location_type, fontsize=14)
+    plt.ylabel("Electric Vehicle Count", fontsize=14)
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.show()
+
+    # Filter for top locations for the stacked bar chart
+    top_locations_df = dataframe[dataframe[location_type].isin(location_counts.index)]
+
+    # Count EVs by location and make, then filter for the most common makes
+    make_counts = top_locations_df[make_type].value_counts().head(top_makes)
+    filtered_df = top_locations_df[top_locations_df[make_type].isin(make_counts.index)]
+
+    # Group and unstack data for stacked bar chart
+    make_location_counts = filtered_df.groupby([location_type, make_type]).size().unstack().fillna(0)
+
+    # Step 2: Stacked bar chart of EV makes across top locations
+    plt.figure(figsize=(14, 8))
+    make_location_counts.plot(kind='bar', stacked=True, figsize=(14, 8), colormap='tab20')
+
+    # Customizations for clarity
+    plt.title(f"Distribution of EV Makes Across Top {top_n} {location_type}s", fontsize=16, weight='bold')
+    plt.xlabel(location_type, fontsize=14)
+    plt.ylabel("Electric Vehicle Count", fontsize=14)
+    plt.xticks(rotation=45, ha='right')
+    plt.legend(title=make_type, fontsize=10, loc='upper left', bbox_to_anchor=(1, 1), ncol=1)
+    plt.tight_layout()
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.show()
 
 
 #####################################################################################
