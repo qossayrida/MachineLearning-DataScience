@@ -5,6 +5,8 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 import geopandas as gpd
 import seaborn as sns
 import matplotlib.pyplot as plt
+import time
+
 
 # 1. Document Missing Values
 def document_missing_values(dataframe):
@@ -209,7 +211,7 @@ def analyze_ev_model_popularity(dataframe):
         print(f"{row['Make']:<15} {row['Model']:<15} {row['Count']:<7}")
 
     # Create a pie chart for top models and 'Other Models'
-    plt.figure(figsize=(10, 10))
+    plt.figure(figsize=(12, 10))
     plt.pie(pie_chart_data['Count'],
             labels=pie_chart_data['Make'] + (": " + pie_chart_data['Model'].replace('', ' ')),
             autopct='%1.1f%%',
@@ -224,8 +226,7 @@ def analyze_ev_model_popularity(dataframe):
 
 # 8. Investigate the relationship between every pair of numeric features.
 
-def investigate_correlations(df, method='pearson'):
-
+def investigate_correlations(df, method='pearson', threshold=0.8):
     # Extract numeric features from the DataFrame
     numeric_df = df.select_dtypes(include='number')
 
@@ -233,30 +234,26 @@ def investigate_correlations(df, method='pearson'):
     correlation_matrix = numeric_df.corr(method=method)
 
     # Visualize the correlation matrix using a heatmap
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(14, 13))
     sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f", linewidths=0.5)
     plt.title(f'Correlation Matrix ({method.capitalize()} method)', fontsize=16)
     plt.show()
 
     # Explain the results
-    explain_correlations(correlation_matrix)
-
-    return correlation_matrix
-
-
-def explain_correlations(correlation_matrix, threshold=0.8):
-
     print("\n### Correlation Analysis ###\n")
     corr_matrix_no_self = correlation_matrix.copy()
 
     # Remove self-correlations
     np.fill_diagonal(corr_matrix_no_self.values, np.nan)
 
-    strong_correlations = corr_matrix_no_self[(corr_matrix_no_self > threshold) | (corr_matrix_no_self < -threshold)]
+    strong_correlations = corr_matrix_no_self[
+        (corr_matrix_no_self > threshold) | (corr_matrix_no_self < -threshold)
+    ]
 
     if strong_correlations.isnull().all().all():
         print(
-            f"No strong correlations (greater than {threshold} or less than -{threshold}) found between numeric features.")
+            f"No strong correlations (greater than {threshold} or less than -{threshold}) found between numeric features."
+        )
     else:
         print(f"Significant Correlations (greater than {threshold} or less than -{threshold}):\n")
         for i, row in strong_correlations.iterrows():
@@ -265,6 +262,89 @@ def explain_correlations(correlation_matrix, threshold=0.8):
                     print(f" - {i} and {j} have a correlation of {value:.2f}")
 
     print("\nCorrelations closer to 1 indicate a strong positive relationship, while correlations closer to -1 indicate a strong negative relationship. Correlations close to 0 suggest no linear relationship.")
+
+    return correlation_matrix
+
+
+# 9.
+"""
+    Create data exploration visualizations, including histograms for specified numerical features,
+    scatter plots for selected feature pairs, and boxplots to understand distributions by a specified categorical feature.
+
+    Parameters:
+    - dataframe (pd.DataFrame): DataFrame containing the data to visualize.
+    - numerical_features (list): List of numerical column names to visualize. If None, uses all numerical columns.
+"""
+def explore_data_visualizations(dataframe, numerical_features=None):
+
+
+    # Select numerical columns
+    if numerical_features is None:
+        numerical_features = dataframe.select_dtypes(include=['float64', 'int64']).columns
+    else:
+        numerical_features = [col for col in numerical_features if col in dataframe.columns]
+
+    # 1. Histograms for numerical features
+    def plot_histograms(dataframe):
+        for col in numerical_features:
+            plt.figure(figsize=(8, 6))
+            plt.hist(dataframe[col], bins=20, color='skyblue', edgecolor='black')
+            plt.title(f"Distribution of {col}", fontsize=16, weight='bold')
+            plt.xlabel(col, fontsize=14)
+            plt.ylabel("Frequency", fontsize=14)
+            plt.grid(True, linestyle='--', alpha=0.7)
+            plt.tight_layout()
+            plt.show()
+            time.sleep(0.5)
+
+    # 2. Scatter plots between selected pairs of numerical features
+    def plot_scatter_matrix(dataframe):
+        num_cols = len(numerical_features)
+
+        # Create separate scatter plots for each pair of numerical columns
+        for i in range(num_cols):
+            for j in range(i + 1, num_cols):
+                plt.figure(figsize=(8, 6))
+                sns.scatterplot(data=dataframe, x=numerical_features[i], y=numerical_features[j], alpha=0.6, s=50, color="teal",
+                                edgecolor='black')
+                plt.title(f"Scatter Plot of {numerical_features[i]} vs {numerical_features[j]}", fontsize=16, weight='bold')
+                plt.xlabel(numerical_features[i], fontsize=14)
+                plt.ylabel(numerical_features[j], fontsize=14)
+                plt.grid(True, linestyle='--', alpha=0.5)
+                plt.tight_layout()
+                plt.show()
+                time.sleep(0.5)
+
+    # 3. Boxplot for each numerical feature by a chosen categorical feature
+    def plot_boxplots(dataframe,categorical_feature):
+        for num_col in numerical_features:
+            plt.figure(figsize=(10, 6))
+            sns.boxplot(data=dataframe, x=categorical_feature, y=num_col, color="lightblue", fliersize=3)
+            plt.title(f"Boxplot of {num_col} by {categorical_feature}", fontsize=16, weight='bold')
+            plt.xlabel(categorical_feature, fontsize=14)
+            plt.ylabel(num_col, fontsize=14)
+            plt.xticks(rotation=45, ha='right')
+            plt.grid(True, linestyle='--', alpha=0.5)
+            plt.tight_layout()
+            plt.show()
+            time.sleep(0.5)
+
+    # Execute the visualizations
+    print("Generating histograms for specified numerical features...")
+    plot_histograms(dataframe)
+
+    print("Generating scatter plot matrix for specified numerical features...")
+    plot_scatter_matrix(dataframe)
+
+    if 'Make' in dataframe.columns:
+        print("Generating boxplots for numerical features by 'Make' (categorical feature)...")
+        plot_boxplots(dataframe, 'Make')
+    else:
+        print("Generating boxplots for numerical features by 'Make_Model' (categorical feature)...")
+        plot_boxplots(dataframe, 'Make_Model')
+
+
+
 
 #####################################################################################
 #                                     Checker

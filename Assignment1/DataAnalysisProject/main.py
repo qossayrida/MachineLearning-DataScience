@@ -67,6 +67,25 @@ Collection.analyze_ev_model_popularity(df_dropped)
 
 Collection.investigate_correlations(df_dropped)
 
+
+#############################################################################
+#
+#############################################################################
+"""
+Numerical features in our data:
+['Postal Code', 'Model Year', 'Electric Range', 'Base MSRP',
+'Legislative District', 'DOL Vehicle ID', '2020 Census Tract']
+
+If you don't pass numerical_features list the code will plot for all numerical features 
+This causes this error to appear:
+HTTP Error 429: Too Many Requests, usually indicates that too many requests have been sent to the server 
+To avoid this increase sleep time after each plot to 2 seconds
+"""
+
+Collection.explore_data_visualizations(df_dropped, numerical_features=['DOL Vehicle ID', 'Electric Range'])
+
+
+
 #############################################################################
 #                            save data and exit
 #############################################################################
