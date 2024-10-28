@@ -398,6 +398,46 @@ def visualize_ev_distribution_by_location(dataframe, top_n=10, top_makes=15):
     plt.show()
 
 
+
+
+
+# 11.
+
+def temporal_analysis(dataframe):
+
+    # Set default column names based on user preference if not provided
+    make_model_col = 'Make_Model' if 'Make_Model' in dataframe.columns else 'Make'
+
+    # 1. Analyze EV adoption rates over time
+    model_year_counts = dataframe['Model Year'].value_counts().sort_index()
+
+    plt.figure(figsize=(10, 6))
+    sns.lineplot(x=model_year_counts.index, y=model_year_counts.values, marker="o", color="teal")
+    plt.title("Electric Vehicle Adoption Rates Over Time", fontsize=16, weight='bold')
+    plt.xlabel("Model Year", fontsize=14)
+    plt.ylabel("Number of EVs", fontsize=14)
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.tight_layout()
+    plt.show()
+
+    # 2. Analyze model popularity trends over time
+    top_models = dataframe[make_model_col].value_counts().nlargest(5).index  # Top 5 most popular models
+    popular_models_df = dataframe[dataframe[make_model_col].isin(top_models)]
+
+    plt.figure(figsize=(12, 8))
+    sns.countplot(data=popular_models_df, x="Model Year", hue=make_model_col, palette="pastel")
+    plt.title("Top 5 EV Model Popularity Over Time", fontsize=16, weight='bold')
+    plt.xlabel("Model Year", fontsize=14)
+    plt.ylabel("Count of Vehicles", fontsize=14)
+    plt.legend(title="Model", fontsize=10, title_fontsize='13')
+    plt.xticks(rotation=45)
+    plt.grid(True, linestyle='--', alpha=0.5)
+    plt.tight_layout()
+    plt.show()
+
+    print("Temporal analysis completed: trends in EV adoption and model popularity analyzed.")
+
+
 #####################################################################################
 #                                     Checker
 #####################################################################################

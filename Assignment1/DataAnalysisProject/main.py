@@ -8,6 +8,7 @@ import Collection
 df = pd.read_csv("Electric_Vehicle_Population_Data.csv")
 
 
+
 #############################################################################
 #                         Document Missing Values
 #############################################################################
@@ -90,6 +91,12 @@ Collection.explore_data_visualizations(df_dropped, numerical_features=['DOL Vehi
 
 Collection.visualize_ev_distribution_by_location(df_dropped)
 
+
+#############################################################################
+#
+#############################################################################
+
+Collection.temporal_analysis(df_dropped)
 
 #############################################################################
 #                            save data and exit
