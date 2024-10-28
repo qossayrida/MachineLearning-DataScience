@@ -74,6 +74,3 @@ Collection.investigate_correlations(df_dropped)
 df_dropped_encode_normalize.to_csv('Cleaned_Electric_Vehicle_Data.csv', index=False)
 print("\n\nCleaned data saved.")
 
-
-
-
