@@ -53,6 +53,7 @@ def handle_missing_values(dataframe):
 
 
 # 3. Feature Encoding
+"""
 def encode_categorical_features(dataframe):
     # Ensure a deep copy of the dataframe to avoid SettingWithCopyWarning
     dataframe = dataframe.copy()
@@ -67,7 +68,22 @@ def encode_categorical_features(dataframe):
     dataframe = dataframe.drop(columns=['Make', 'Model', 'County', 'City'])
 
     return dataframe
+"""
 
+
+def encode_and_save_to_csv(data, column_name, output_file='encoded_data.csv'):
+    # Check if the column exists in the DataFrame
+    if column_name not in data.columns:
+        print(f"Column '{column_name}' not found in the DataFrame.")
+        return
+
+    # Perform one-hot encoding on the specified column with integer output (0 and 1)
+    data_encoded = pd.get_dummies(data, columns=[column_name], drop_first=True, dtype=int)
+
+    # Save the encoded DataFrame to a CSV file
+    data_encoded.to_csv(output_file, index=False)
+
+    return data_encoded
 
 
 # 4. Normalize Numerical Features
@@ -77,6 +93,9 @@ def normalize_numerical_features(dataframe, method='min-max', feature_list=None)
         numerical_columns = feature_list
     else:
         numerical_columns = dataframe.select_dtypes(include=['float64', 'int64']).columns
+
+    # Save a copy of the original features to compare later
+    original_values = dataframe[numerical_columns].copy()
 
     # Choose the normalization method: Min-Max or Z-Score
     if method == 'min-max':
@@ -90,8 +109,13 @@ def normalize_numerical_features(dataframe, method='min-max', feature_list=None)
     # Apply the scaler to the specified columns
     dataframe[numerical_columns] = scaler.fit_transform(dataframe[numerical_columns])
 
-    return dataframe
+    # Print the head of the original and normalized features
+    print("\nOriginal values (head):")
+    print(original_values.head())
+    print("\nNormalized values (head):")
+    print(dataframe[numerical_columns].head())
 
+    return dataframe
 
 
 # 5. Calculate summary statistics (mean, median, standard deviation)
@@ -184,12 +208,6 @@ def visualize_summary_distribution_two(dataframe, shapefile=r"tl_2023_53_cousub\
 
 # 7.Analyze the popularity of different EV models (categorical data) and identify any trends.
 def analyze_ev_model_popularity(dataframe):
-    # Check if 'Make' and 'Model' columns exist
-    if 'Make' not in dataframe.columns or 'Model' not in dataframe.columns:
-        print("Error: 'Make' or 'Model' column not found in the DataFrame.")
-        print("Available columns:", dataframe.columns)
-        return
-
     # Group by 'Make' and 'Model' and count occurrences
     model_popularity = dataframe.groupby(['Make', 'Model']).size().reset_index(name='Count')
 
@@ -225,7 +243,6 @@ def analyze_ev_model_popularity(dataframe):
 
 
 # 8. Investigate the relationship between every pair of numeric features.
-
 def investigate_correlations(df, method='pearson', threshold=0.8):
     # Extract numeric features from the DataFrame
     numeric_df = df.select_dtypes(include='number')
@@ -252,7 +269,7 @@ def investigate_correlations(df, method='pearson', threshold=0.8):
 
     if strong_correlations.isnull().all().all():
         print(
-            f"No strong correlations (greater than {threshold} or less than -{threshold}) found between numeric features."
+            f"No strong correlations (greater than {threshold} or less than -{threshold}) found between numeric features.\n"
         )
     else:
         print(f"Significant Correlations (greater than {threshold} or less than -{threshold}):\n")
@@ -261,87 +278,62 @@ def investigate_correlations(df, method='pearson', threshold=0.8):
                 if not pd.isna(value):
                     print(f" - {i} and {j} have a correlation of {value:.2f}")
 
-    print("\nCorrelations closer to 1 indicate a strong positive relationship, while correlations closer to -1 indicate a strong negative relationship. Correlations close to 0 suggest no linear relationship.")
-
     return correlation_matrix
 
 
-# 9.
-"""
-    Create data exploration visualizations, including histograms for specified numerical features,
-    scatter plots for selected feature pairs, and boxplots to understand distributions by a specified categorical feature.
+def explore_data_visualizations(dataframe, histogram_features=None, scatter_pairs=None, boxplot_features=None):
 
-    Parameters:
-    - dataframe (pd.DataFrame): DataFrame containing the data to visualize.
-    - numerical_features (list): List of numerical column names to visualize. If None, uses all numerical columns.
-"""
-def explore_data_visualizations(dataframe, numerical_features=None):
-
-    # Select numerical columns
-    if numerical_features is None:
-        numerical_features = dataframe.select_dtypes(include=['float64', 'int64']).columns
-    else:
-        numerical_features = [col for col in numerical_features if col in dataframe.columns]
-
-    # 1. Histograms for numerical features
-    def plot_histograms():
-        for col in numerical_features:
+    # Plot histograms for specified numerical features
+    def plot_histograms(features):
+        for feature in features:
             plt.figure(figsize=(8, 6))
-            plt.hist(dataframe[col], bins=20, color='skyblue', edgecolor='black')
-            plt.title(f"Distribution of {col}", fontsize=16, weight='bold')
-            plt.xlabel(col, fontsize=14)
+            plt.hist(dataframe[feature], bins=20, color='skyblue', edgecolor='black')
+            plt.title(f"Distribution of {feature}", fontsize=16, weight='bold')
+            plt.xlabel(feature, fontsize=14)
             plt.ylabel("Frequency", fontsize=14)
             plt.grid(True, linestyle='--', alpha=0.7)
             plt.tight_layout()
             plt.show()
-            time.sleep(0.5)
 
-    # 2. Scatter plots between selected pairs of numerical features
-    def plot_scatter_matrix():
-        num_cols = len(numerical_features)
-
-        # Create separate scatter plots for each pair of numerical columns
-        for i in range(num_cols):
-            for j in range(i + 1, num_cols):
+    # Scatter plot for each pair in scatter_pairs
+    def plot_scatter(pairs):
+        for pair in pairs:
+            if len(pair) == 2:
                 plt.figure(figsize=(8, 6))
-                sns.scatterplot(data=dataframe, x=numerical_features[i], y=numerical_features[j], alpha=0.6, s=50, color="teal",
-                                edgecolor='black')
-                plt.title(f"Scatter Plot of {numerical_features[i]} vs {numerical_features[j]}", fontsize=16, weight='bold')
-                plt.xlabel(numerical_features[i], fontsize=14)
-                plt.ylabel(numerical_features[j], fontsize=14)
+                sns.scatterplot(data=dataframe, x=pair[0], y=pair[1], color="teal", s=50, edgecolor='black', alpha=0.6)
+                plt.title(f"{pair[0]} vs. {pair[1]}", fontsize=16, weight='bold')
+                plt.xlabel(pair[0], fontsize=14)
+                plt.ylabel(pair[1], fontsize=14)
                 plt.grid(True, linestyle='--', alpha=0.5)
                 plt.tight_layout()
                 plt.show()
-                time.sleep(0.5)
+            else:
+                print("Each scatter pair must contain exactly two features.")
 
-    # 3. Boxplot for each numerical feature by a chosen categorical feature
-    def plot_boxplots(categorical_feature):
-        for num_col in numerical_features:
+    # Boxplot for specified numerical features grouped by a categorical feature
+    def plot_boxplots(numerical_features, categorical_feature):
+        for num_feature in numerical_features:
             plt.figure(figsize=(10, 6))
-            sns.boxplot(data=dataframe, x=categorical_feature, y=num_col, color="lightblue", fliersize=3)
-            plt.title(f"Boxplot of {num_col} by {categorical_feature}", fontsize=16, weight='bold')
+            sns.boxplot(data=dataframe, x=categorical_feature, y=num_feature, color="lightblue", fliersize=3)
+            plt.title(f"{num_feature} by {categorical_feature}", fontsize=16, weight='bold')
             plt.xlabel(categorical_feature, fontsize=14)
-            plt.ylabel(num_col, fontsize=14)
+            plt.ylabel(num_feature, fontsize=14)
             plt.xticks(rotation=45, ha='right')
             plt.grid(True, linestyle='--', alpha=0.5)
             plt.tight_layout()
             plt.show()
-            time.sleep(0.5)
 
-    # Execute the visualizations
-    print("Generating histograms for specified numerical features...")
-    plot_histograms()
-
-    print("Generating scatter plot matrix for specified numerical features...")
-    plot_scatter_matrix()
-
-    if 'Make' in dataframe.columns:
-        print("Generating boxplots for numerical features by 'Make' (categorical feature)...")
-        plot_boxplots('Make')
-    else:
-        print("Generating boxplots for numerical features by 'Make_Model' (categorical feature)...")
-        plot_boxplots('Make_Model')
-
+    # Execute visualizations based on provided features
+    if histogram_features:
+        print("Generating histograms for specified features...")
+        plot_histograms(histogram_features)
+    if scatter_pairs:
+        print("Generating scatter plots for specified feature pairs...")
+        plot_scatter(scatter_pairs)
+    if boxplot_features and isinstance(boxplot_features, dict):
+        for cat_feature, num_features in boxplot_features.items():
+            print(f"Generating boxplots for features by '{cat_feature}'...")
+            plot_boxplots(num_features, cat_feature)
 
 
 # 10.
@@ -356,8 +348,8 @@ def explore_data_visualizations(dataframe, numerical_features=None):
 
 def visualize_ev_distribution_by_location(dataframe, top_n=10, top_makes=15):
     # Determine column names based on existence
-    location_type = 'County_City' if 'County_City' in dataframe.columns else 'City'
-    make_type = 'Make_Model' if 'Make_Model' in dataframe.columns else 'Make'
+    location_type = 'City'
+    make_type = 'Make'
 
     # Count EVs per location and select top N locations
     location_counts = dataframe[location_type].value_counts().head(top_n)
@@ -398,15 +390,11 @@ def visualize_ev_distribution_by_location(dataframe, top_n=10, top_makes=15):
     plt.show()
 
 
-
-
-
 # 11.
-
 def temporal_analysis(dataframe):
 
     # Set default column names based on user preference if not provided
-    make_model_col = 'Make_Model' if 'Make_Model' in dataframe.columns else 'Make'
+    make_model_col = 'Make'
 
     # 1. Analyze EV adoption rates over time
     model_year_counts = dataframe['Model Year'].value_counts().sort_index()
