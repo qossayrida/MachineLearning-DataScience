@@ -8,7 +8,6 @@ import Collection
 df = pd.read_csv("Electric_Vehicle_Population_Data.csv")
 
 
-
 #############################################################################
 #                         Document Missing Values
 #############################################################################
@@ -32,21 +31,24 @@ Collection.check_no_missing_values(df_mean_most_frequent,"mean_most_frequent")
 #                            Feature Encoding
 #############################################################################
 
-df_dropped_encode = Collection.encode_categorical_features(df_dropped)
-df_mean_most_frequent_encode = Collection.encode_categorical_features(df_mean_most_frequent)
+#df_dropped_encode = Collection.encode_categorical_features(df_dropped)
+#df_mean_most_frequent_encode = Collection.encode_categorical_features(df_mean_most_frequent)
+
+print("\n\nencoded data sample:")
+df_dropped_encode = Collection.encode_and_save_to_csv(df_dropped,"Electric Vehicle Type")
 
 #############################################################################
 #                             Normalization
 #############################################################################
 
-df_dropped_encode_normalize = Collection.normalize_numerical_features(df_dropped_encode)
-df_normalized = Collection.normalize_numerical_features(df, method='z-score', feature_list=['Electric Range'])
+# df_dropped_encode_normalize = Collection.normalize_numerical_features(df_dropped_encode)
+df_dropped_encode_normalize = Collection.normalize_numerical_features(df_dropped_encode, feature_list=['Electric Range'])
 
 #############################################################################
 #                        Descriptive Statistics
 #############################################################################
 
-Collection.calculate_summary_statistics(df_dropped_encode)
+Collection.calculate_summary_statistics(df_dropped)
 
 
 #############################################################################
@@ -83,14 +85,24 @@ HTTP Error 429: Too Many Requests, usually indicates that too many requests have
 To avoid this increase sleep time after each plot to 2 seconds
 """
 
-Collection.explore_data_visualizations(df_dropped, numerical_features=['DOL Vehicle ID', 'Electric Range'])
+#Collection.explore_data_visualizations(df_dropped, numerical_features=['DOL Vehicle ID', 'Electric Range'])
+
+Collection.explore_data_visualizations(
+    dataframe=df,
+    histogram_features=['Electric Range', 'Model Year'],
+    scatter_pairs=[['Model Year', 'Electric Range'], ['Electric Range', 'Base MSRP'], ['Model Year', 'Base MSRP']],
+    boxplot_features={
+        # 'City': ['Electric Range'],
+        'Legislative District': ['Electric Range'],
+        'Make': ['Electric Range']
+    }
+)
 
 #############################################################################
 #
 #############################################################################
 
 Collection.visualize_ev_distribution_by_location(df_dropped)
-
 
 #############################################################################
 #
