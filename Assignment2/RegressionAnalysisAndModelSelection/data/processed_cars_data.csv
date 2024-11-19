@@ -10,14 +10,10 @@ Ford Bronco 2021 2.7T Outer Banks,2.7,6,542,221,ford,ksa,5,-0.07359061040549136
 Suzuki Jimny 2021 1.5L M/T,1.5,4,102,145,suzuki,ksa,4,-0.44129885620814846
 Honda HR-V 2021 1.8 i-VTEC DX,1.8,4,140,190,honda,ksa,5,-0.49049774889844
 GAC GS8 2021 2.0T GL (2WD),2.0,4,198,200,gac,ksa,7,-0.39189863812577386
-Aston Martin DB11 AMR 2021 5.2T V12,5.2,12,700,221,aston-martin,ksa,5,2.0847434210946885
 GAC GS4 2021 1.5T GE,1.5,4,152,180,gac,ksa,5,-0.4876036963872464
-Aston Martin DB11 2021 4.0T V8 Volante,4.0,8,503,322,aston-martin,ksa,4,1.953446550080337
 Toyota Highlander 2021 2.5L Hybrid Limited (FWD),2.5,4,292,221,toyota,ksa,7,-0.22127788490280328
-Aston Martin DBS Superleggera 2021 5.2T V12,5.2,12,900,221,aston-martin,ksa,5,2.8165914201253313
 GAC GS4 2021 1.5T GS,1.5,4,152,180,gac,ksa,5,-0.5104667112256759
 Toyota Highlander 2021 2.5L Hybrid Limited (AWD),2.5,4,292,221,toyota,ksa,7,-0.20138190303019746
-Aston Martin DB11 2021 4.0T V8 Coupe,4.0,8,503,300,aston-martin,ksa,4,1.7518644681223965
 Hyundai Palisade 2021 3.8L GDi (AWD) Premium - Nappa,3.8,6,355,221,hyundai,ksa,5,-0.16871685816472515
 Toyota Corolla 2021 1.6L XLI Executive,1.6,4,121,190,toyota,ksa,5,-0.4759872212640552
 Toyota Corolla 2021 1.6L GLI,1.6,4,121,190,toyota,ksa,5,-0.47994829835328895
@@ -31,8 +27,6 @@ MG HS 2021 2.0T Luxury (AWD),2.0,4,231,210,mg,ksa,5,-0.4159696053167017
 Toyota Corolla 2021 1.8L XLI Executive Hybrid,1.8,4,121,190,toyota,ksa,5,-0.44618854666836516
 Toyota Corolla 2021 1.8L GLI Moonroof Hybrid,1.8,4,121,190,toyota,ksa,5,-0.42355453946342997
 Toyota Supra 2021 3.0T GR,3.0,6,382,250,toyota,ksa,2,-0.07086013477536524
-Chevrolet Corvette 2021 6.2L 2LT Convertible,6.2,8,495,312,chevrolet,ksa,2,0.3197488743767369
-Chevrolet Corvette 2021 6.2L 3LT Coupe,6.2,8,495,312,chevrolet,ksa,2,0.2905566925246969
 Land Rover Range Rover Evoque 2021 2.0T R-Dynamic HSE (200 PS),2.0,4,200,216,land-rover,ksa,5,0.020591924578353068
 Ford Transit 2021 3.7L 150XL (Medium Roof),3.7,6,275,158,ford,ksa,2,-0.279445823810394
 Kia Sportage 2021 2.0L MPI LX (FWD),2.0,4,155,181,kia,ksa,5,-0.4646400188527752
@@ -62,20 +56,15 @@ Hyundai Santa Fe 2021 3.5L Limited (AWD),3.5,6,363,221,hyundai,ksa,5,-0.26422059
 Kia K900 2021 5.0L GDI V8,5.0,8,505,221,kia,ksa,5,0.10382990793508365
 Kia Cerato 2021 1.6L LX,1.6,4,128,190,kia,ksa,5,-0.5133607637368696
 Kia K900 2021 3.8L GDI V6,3.8,6,400,221,kia,ksa,5,-0.13248080415717997
-Mercedes-Benz G-Class 2021 G63,4.0,8,585,220,mercedes-benz,ksa,5,1.0689158902613223
 BMW X5 2021 40i xDrive,3.0,6,340,243,bmw,ksa,5,0.40292142698104055
 Mercedes-Benz G-Class 2021 G500,4.0,8,422,250,mercedes-benz,ksa,5,0.5927586888783367
-Rolls Royce Cullinan 2021 6.75L Twin-Turbo (563 HP),6.7,12,850,221,rolls-royce,ksa,5,2.9098000435249736
 Audi A7 Sportback 2021 55 TFSI quattro (340 HP),3.0,6,340,250,audi,ksa,5,0.3766232976401942
-BMW 8 Series Coupe 2021 M850i xDrive,4.4,8,523,250,bmw,ksa,4,0.8361485050697199
 BMW X5 2021 50i xDrive,4.4,6,462,243,bmw,ksa,5,0.6407118807051145
 Audi Q8 2021 55 TFSI quattro (340 HP),3.0,6,340,250,audi,ksa,5,0.2132980733128325
 Infiniti QX50 2021 2.0T Autograph (AWD),2.0,4,268,230,infiniti,ksa,5,-0.025919274127629933
-Mercedes-Benz AMG GT 4-Door Coupe 2021 63 S 4MATIC+,4.0,8,639,310,mercedes-benz,ksa,4,1.542045661060859
 Kia Cerato 2021 1.6L SX,1.6,4,128,190,kia,ksa,5,-0.5009037551017318
 Suzuki Swift 2021 1.2L GL,1.2,4,82,165,suzuki,ksa,5,-0.5055745041980582
 BMW 6 Series Gran Turismo 2021 630i,2.0,4,258,250,bmw,ksa,5,0.24374853886539144
-GMC Sierra Denali 2021 6.2L Crew Cab (AWD),6.2,8,420,180,gmc,ksa,5,0.021032323873534705
 Suzuki Swift 2021 1.2L GLX,1.2,4,82,165,suzuki,ksa,5,-0.49773288017642403
 RAM 1500 2021 5.7L Rebel (Double Cab),5.7,8,395,175,ram,ksa,5,-0.03760369657064904
 Borgward BX7 2021 2.0T AWD Ultimate (7-Seater),2.0,4,224,206,borgward,ksa,7,-0.3170936721299214
@@ -87,10 +76,6 @@ Borgward BX7 2021 2.0T Elite FWD (7-Seater),2.0,4,224,206,borgward,ksa,7,-0.3371
 Peugeot 508 2021 1.6T GT Line,1.6,4,165,220,peugeot,ksa,5,-0.34537988971758776
 Suzuki Ciaz 2021 1.5L GL,1.5,4,103,165,suzuki,ksa,5,-0.5359343733241798
 Mini Clubman 2021 Cooper,1.5,4,136,205,mini,ksa,5,-0.2683729272458271
-Porsche Panamera Sport Turismo 2021 4 E-Hybrid,2.9,6,462,275,porsche,ksa,5,0.7730329946516888
-Porsche Panamera Sport Turismo 2021 Turbo S E-Hybrid,4.0,8,680,310,porsche,ksa,5,1.8316019062242834
-Porsche Panamera Sport Turismo 2021 Turbo,4.0,8,550,304,porsche,ksa,5,1.4592757592407217
-Porsche Panamera Sport Turismo 2021 GTS,4.0,8,460,289,porsche,ksa,5,1.081966808803105
 Mercedes-Benz GLC Coupe 2021 AMG 43 4MATIC,3.0,4,367,250,mercedes-benz,ksa,5,0.1844179458185213
 Mercedes-Benz GLC Coupe 2021 250 4MATIC,2.0,4,211,222,mercedes-benz,ksa,5,-0.0009473758071305028
 Alfa Romeo Giulia 2021 Super,2.0,4,330,221,alfa-romeo,ksa,5,-0.22980653182492086
@@ -98,29 +83,20 @@ Suzuki Ciaz 2021 1.5L GLX,1.5,4,104,165,suzuki,ksa,5,-0.5107561164767953
 Mercedes-Benz GLC Coupe 2021 300 4MATIC,2.0,4,245,236,mercedes-benz,ksa,5,0.07173864043704803
 Chery Arrizo 3 2021 1.5L Comfort,1.5,4,107,175,chery,ksa,5,-0.5665861642688217
 Toyota Hiace 2021 3.5L GL STD Roof Panel Van (3-Seater),3.5,4,277,160,toyota,ksa,3,-0.39846687904248285
-Porsche Panamera Sport Turismo 2021 4S,2.9,6,440,286,porsche,ksa,5,0.8607856999258814
-McLaren 720S 2021 4.0T Coupe,4.0,8,770,221,mclaren,ksa,5,2.714891898314586
 Mercedes-Benz C Class Cabriolet 2021 C 300 Cabriolet,2.0,4,258,250,mercedes-benz,ksa,4,0.014526997141851685
-Mercedes-Benz S Class Cabriolet 2021 S 560,4.0,8,465,250,mercedes-benz,ksa,4,0.9902756755462881
 Land Rover Range Rover Velar 2021 2.0L R-Dynamic SE (250 PS),2.0,4,250,217,land-rover,ksa,5,0.04837482868581183
-Mercedes-Benz S Class Cabriolet 2021 S63 4MATIC+,4.0,8,612,250,mercedes-benz,ksa,4,1.4042258473430171
 Alfa Romeo Stelvio 2021 Quadrifoglio,2.9,6,510,283,alfa-romeo,ksa,5,0.43475600460417035
 Land Rover Range Rover Velar 2021 2.0L S (250 PS),2.0,4,250,217,land-rover,ksa,5,0.014225009053727188
 Mercedes-Benz C Class Cabriolet 2021 C AMG 53 4MATIC+ Cabriolet,3.0,6,435,250,mercedes-benz,ksa,4,0.2050915470180479
 Alfa Romeo Stelvio 2021 Super,2.0,4,280,230,alfa-romeo,ksa,5,-0.14863465030444242
-Mercedes-Benz AMG GT Roadster 2021 4.0L V8 (476 HP),4.0,8,476,302,mercedes-benz,ksa,2,0.8307882165055094
 Mercedes-Benz C Class Cabriolet 2021 C 200 Cabriolet,2.0,4,204,235,mercedes-benz,ksa,4,-0.03480275705329374
 Skoda Kodiaq 2021 2.0 TSI Style (AWD),2.0,4,180,207,skoda,ksa,7,-0.32083077472046273
-Lamborghini Aventador S Roadster 2021 6.5L V12 (740 HP),6.5,12,740,350,lamborghini,ksa,2,4.448681009259667
 Borgward BX5 2021 1.4T Comfort,1.4,4,147,180,borgward,ksa,5,-0.45181559137708593
 GAC GA8 2021 2.0T GL,2.0,4,198,200,gac,ksa,4,-0.40144901141271283
 Genesis G70 2021 2.0T Premium,2.0,4,252,240,genesis,ksa,5,-0.021560579389032244
 Borgward BX5 2021 1.4T Elite,1.4,4,147,180,borgward,ksa,5,-0.4024128567273103
 Borgward BX5 2021 1.4T Fashion,1.4,4,147,180,borgward,ksa,5,-0.43928811885471913
 Kia Stinger 2021 2.0T (255 PS),2.0,4,251,240,kia,ksa,5,-0.3065744203935829
-Lamborghini Aventador S 2021 6.5L V12 Coupe,6.5,4,740,350,lamborghini,ksa,2,4.140794087147083
-Mercedes-Benz AMG GT Roadster 2021 4.0L V8 (558 HP) C,4.0,8,558,316,mercedes-benz,ksa,2,1.1859564069487942
-Lamborghini Urus 2021 4.0T V8,4.0,8,650,305,lamborghini,ksa,4,2.040326006466369
 Kia Stinger 2021 3.3T AWD Full Option (370 PS),3.3,6,365,270,kia,ksa,5,-0.20193554785842582
 Lexus UX 200 2021 Elegant,2.0,4,169,180,lexus,ksa,4,-0.2381363699223564
 BMW X2 2021 sDrive20i,2.0,4,189,180,bmw,ksa,5,-0.1327299443298827
@@ -128,20 +104,15 @@ Lincoln Nautilus 2021 2.0T (250 Hp),2.0,6,250,230,lincoln,ksa,5,-0.2213508653574
 Mercedes-Benz A-class Sedan 2021 200,0.0,4,163,230,mercedes-benz,ksa,5,-0.2578561920768896
 Lexus UX 200 2021 Excellence,2.0,4,169,180,lexus,ksa,4,-0.1417644212996089
 Maxus T60 2021 2.8D Double Cab (4x4),2.8,4,350,221,maxus,ksa,5,-0.48429441025488146
-BMW 8 Series Convertible 2021 M 850i xDrive,4.4,8,523,250,bmw,ksa,4,0.8638307464811371
 BMW M2 Competition 2021 3.0T,3.0,6,410,280,bmw,ksa,4,0.3766232976401942
 BMW X7 2021 XDrive50i,4.4,8,462,245,bmw,ksa,5,0.7420288842709014
 BMW X7 2021 XDrive40i,3.0,6,340,245,bmw,ksa,5,0.517802728838422
 BMW 8 Series Gran Coupe 2021 840i,3.0,8,340,250,bmw,ksa,4,0.5814718840846815
-Ferrari SF90 Stradale 2021 4.0T V8 Plug-in-Hybrid,4.0,8,25,800,ferrari,ksa,5,4.587092216316753
 Mazda CX-30 2021 2.0L Classic 4x2,2.0,4,155,192,mazda,ksa,5,-0.4464855016216876
-BMW 8 Series Gran Coupe 2021 M850i xDrive,4.4,8,530,250,bmw,ksa,4,0.8638307464811371
 Mitsubishi Spacestar 2021 1.2L GLS HL,1.2,3,78,173,mitsubishi,ksa,5,-0.5707309507783312
 Bestune X40 2021 1.6L,1.6,4,112,168,bestune,ksa,5,-0.5291346082065753
-McLaren Senna 2021 4.0T V8 Coupe,4.0,8,800,335,mclaren,ksa,2,13.386685367667045
 Mitsubishi Spacestar 2021 1.2L GLS LL,1.2,3,78,173,mitsubishi,ksa,5,-0.5784140310537
 Maxus D90 2021 2.0T Elite (2WD),2.0,4,225,185,maxus,ksa,7,-0.4611419901653325
-Ferrari 812 GTS 2021 6.5L V12,6.5,12,718,221,ferrari,ksa,5,2.9764890796524788
 Jetour X70 2021 1.5T Comfort,1.5,4,156,180,jetour,ksa,7,-0.47123342544349456
 MG 6 2021 1.5T LUX,1.5,4,169,180,mg,ksa,5,-0.46950957677378363
 Bestune T77 2021 1.2T Premium,0.0,4,148,181,bestune,ksa,5,-0.4683569889041082
@@ -152,18 +123,15 @@ Hongqi HS5 2021 2.0T Deluxe,2.0,4,224,210,hongqi,ksa,5,-0.30410818434056575
 Jetour X90 2021 1.6T Luxury,1.6,4,194,185,jetour,ksa,7,-0.42364513588986735
 Hongqi HS5 2021 2.0T Premium (AWD),2.0,4,224,210,hongqi,ksa,5,-0.260068254822402
 Hongqi HS5 2021 2.0T Comfort,2.0,4,224,210,hongqi,ksa,5,-0.34940639755924846
-Ferrari F8 Tributo 2021 3.9T V8,3.9,8,710,340,ferrari,ksa,2,2.0956904892892037
 Audi SQ8 2021 4.0 TFSI quattro (500 HP),4.0,8,500,250,audi,ksa,5,0.13276791647961875
 Toyota C HR 2021 1.8L Dynamic Hybrid,1.8,4,121,170,toyota,ksa,5,-0.4166994098630027
 Lincoln Crosair 2021 2.0T Reserve,2.0,4,245,221,lincoln,ksa,5,-0.18083413020072273
 Lincoln Crosair 2021 2.0T Base,2.0,4,245,221,lincoln,ksa,5,-0.19819844526788444
 Toyota Supra 2021 2.0T GR,2.0,4,255,250,toyota,ksa,2,-0.16491684138915783
-McLaren 765LT 2021 4.0T V8,4.0,8,755,330,mclaren,ksa,2,3.568637389116704
 Great Wall Wingle 7 2021 2.0T Double Cabin (4x4) (Leather),2.0,4,315,221,great-wall,ksa,5,-0.4844982522143655
 Great Wall Wingle 7 2021 2.4T Double Cabin (4x4) (Petrol),2.4,4,220,221,great-wall,ksa,5,-0.5018625672815272
 Great Wall Wingle 7 2021 2.4T Single Cabin (RWD) (Petrol),2.4,4,147,180,great-wall,ksa,5,-0.5250149873710761
 Great Wall Wingle 7 2021 2.4T Double Cabin (4x4) (Petrol) (Leather),2.4,4,220,221,great-wall,ksa,5,-0.496076978826541
-Ferrari F8 Spider 2021 3.9T V8,3.9,8,710,340,ferrari,ksa,2,2.3473472293929967
 Volkswagen Golf GTI 2021 2.0T P1 Full option,2.0,4,245,210,volkswagen,ksa,5,-0.316733802991573
 Peugeot 2008 2021 1.6L (115HP) Active+,1.6,4,115,200,peugeot,ksa,5,-0.49889050118090145
 Toyota Corolla Cross 2021 1.8L XL (HEV),1.8,4,292,221,toyota,ksa,5,-0.46213603428874245
@@ -453,7 +421,6 @@ Peugeot 508 2021 1.6T Allure,1.6,4,165,220,peugeot,ksa,5,-0.3831284007331567
 Dodge Charger 2021 3.6L GT Premium,3.6,6,300,210,dodge,ksa,5,-0.23653834962269735
 Land Rover Defender 2021 90 X (P400),3.0,6,400,208,land-rover,ksa,5,0.43270500217232444
 Audi Q3 2021 35 TFSI quattro (150 HP),1.4,4,150,217,audi,ksa,5,-0.15210751331787475
-Land Rover Defender 2021 90 X V8 (P525),5.0,8,517,240,land-rover,ksa,5,0.9547920751916533
 Ford Expedition 2021 3.5L EcoBoost Platinum,3.5,6,400,190,ford,ksa,8,-0.133145177951054
 Kia Sorento 2021 3.3L Top (AWD),3.3,6,290,200,kia,ksa,7,-0.3395917846952005
 Land Rover Defender 2021 90 HSE (P400),3.0,6,400,208,land-rover,ksa,5,0.25385255698055875
@@ -493,7 +460,6 @@ Jeep Grand Cherokee 2021 3.6L Limited,3.6,6,290,190,jeep,ksa,5,-0.17742669793971
 Ford Edge 2021 ST,2.7,4,335,221,ford,ksa,5,-0.0496832200956311
 Dodge Charger 2021 5.7L R/T,5.7,8,370,250,dodge,ksa,5,-0.2743246091492818
 Nissan Patrol Safari 2021 Safari M/T,4.8,6,280,190,nissan,ksa,7,-0.2769292564093561
-Chevrolet Camaro Coupe 2021 6.2L SS (A/T),6.2,8,455,250,chevrolet,ksa,4,-0.03760369657064904
 Lexus ES 2021 350 F-Sport,3.5,6,362,221,lexus,ksa,5,-0.033237452129848126
 Mercedes-Benz A-Class 2021 A 200,1.3,4,163,225,mercedes-benz,ksa,5,-0.26588152551879957
 Nissan Patrol Safari 2021 Super Safari M/T,4.8,6,280,190,nissan,ksa,7,-0.2195515196656913
@@ -506,10 +472,8 @@ BMW X1 2021 sDrive20i,2.0,4,192,225,bmw,ksa,5,-0.2157766685641344
 Mercedes-Benz CLA-Class 2021 CLA 250,2.0,4,211,240,mercedes-benz,ksa,5,-0.20193554785842582
 Audi A5 Coupe 2021 40 TFSI Sport (190 HP),2.0,4,190,240,audi,ksa,4,0.016754159291770224
 Mini Hatch 2021 3-Door Cooper S,2.0,4,192,235,mini,ksa,4,-0.21266870782385253
-Chevrolet Silverado 2021 6.2L V8 High Country,6.2,8,420,200,chevrolet,ksa,5,-0.00966979841912803
 Ford Explorer 2021 3.5L V6 LTD (AWD) Full Option,3.5,4,290,173,ford,ksa,7,-0.008575091599676423
 Mini Countryman 2021 Cooper S,2.0,4,189,222,mini,ksa,5,-0.20193554785842582
-Dodge Charger 2021 6.4L R/T Scatpack,6.4,8,485,281,dodge,ksa,5,-0.1465710650355913
 Mercedes-Benz C-Class 2021 C 180,1.6,4,156,207,mercedes-benz,ksa,5,-0.2157766685641344
 Toyota Land Cruiser 2021 4.6L GXR3,4.6,8,304,200,toyota,ksa,8,0.035721527793393146
 Toyota Land Cruiser 2021 4.6L GXR3 LS,4.6,8,304,200,toyota,ksa,8,0.05061960680753763
@@ -532,7 +496,6 @@ Lexus IS 2021 300 Excellence (RWD),2.0,4,241,230,lexus,ksa,5,-0.1636837233626492
 BMW 5 Series 2021 520i,2.0,4,184,235,bmw,ksa,5,-0.159153902040781
 Ford F-150 Raptor 2021 3.5L EcoBoost Super Cab (Mid Range),3.5,4,422,170,ford,ksa,5,0.10256910766716361
 BMW 2 Series Convertible 2021 220i,2.0,4,184,226,bmw,ksa,4,-0.16594863402358342
-Land Rover Defender 2021 110 X V8 (P525),5.0,8,517,240,land-rover,ksa,5,1.0037015626308252
 Land Rover Defender 2021 110 HSE (P400),3.0,6,400,208,land-rover,ksa,5,0.3183899279801765
 Land Rover Defender 2021 110 SE (P400),3.0,6,400,208,land-rover,ksa,5,0.1398268880395302
 Land Rover Defender 2021 110 X (P400),3.0,6,400,208,land-rover,ksa,5,0.47669460034246736
@@ -544,7 +507,6 @@ Mercedes-Benz GLC-Class 2021 GLC 250 4MATIC,2.0,4,211,222,mercedes-benz,ksa,5,-0
 Subaru WRX 2021 2.0L EX Package (M/T),2.0,4,268,250,subaru,ksa,5,-0.1742533064470086
 BMW 4 Series Gran Coupe 2021 430i,2.0,4,252,250,bmw,ksa,4,-0.005391633837363551
 BMW 4 Series Gran Coupe 2021 420i,2.0,4,184,236,bmw,ksa,4,-0.17978975472929204
-Chevrolet Camaro Coupe 2021 6.2L ZL1,6.2,8,650,250,chevrolet,ksa,4,0.20250199916237988
 Ford Explorer 2021 3.5L V6 Sport EcoBoost,3.5,4,365,200,ford,ksa,7,0.136756675810264
 BMW 4 Series Coupe 2021 440i,3.0,6,326,250,bmw,ksa,4,0.004422979026684373
 BMW 4 Series Gran Coupe 2021 440i,3.0,6,326,250,bmw,ksa,4,0.07211864211460467
@@ -592,7 +554,6 @@ Lexus RX 2021 350 Elegant,3.5,6,296,200,lexus,ksa,5,-0.09140790760483995
 Jaguar F-Pace 2021 2.0T S (250 PS),2.0,4,246,217,jaguar,ksa,5,-0.004007521766792689
 Mercedes-Benz E-Class Saloon 2021 E AMG 53 4MATIC+,3.0,6,435,250,mercedes-benz,ksa,5,0.2238550735601867
 Jaguar F-Pace 2021 5.0L V8 SVR (550 PS),5.0,8,550,283,jaguar,ksa,5,0.4908754576473162
-Maserati Levante 2021 3.8T V8 Trofeo,3.8,8,590,304,maserati,ksa,5,1.1627989537244432
 Mercedes-Benz CLA-Class 2021 CLA 45 S AMG 4MATIC+,2.0,4,421,250,mercedes-benz,ksa,5,0.05300531270372165
 Lincoln Navigator 2021 3.5T Reserve (AWD),3.5,6,450,185,lincoln,ksa,7,0.30536669167980524
 Porsche 718 2021 Boxster GTS 4.0,4.0,6,400,293,porsche,ksa,2,0.2760235157837029
@@ -607,13 +568,10 @@ Jaguar F-Type Coupe 2021 2.0T R-Dynamic (300 PS),2.0,4,300,250,jaguar,ksa,2,0.13
 Mercedes-Benz E-Class Coupe 2021 E AMG 53 4MATIC+,3.0,6,435,250,mercedes-benz,ksa,4,0.369179291267924
 Mercedes-Benz E-Class Saloon 2021 E 450 4MATIC,3.0,6,362,250,mercedes-benz,ksa,5,0.08960626898441733
 Audi Q7 2021 40 TFSI Design quattro (252 HP),2.0,4,252,210,audi,ksa,5,0.09149621110259672
-Dodge Challenger 2021 6.2L Hellcat Widebody A/T,6.2,8,707,314,dodge,ksa,5,0.18561583190141526
-Dodge Charger 2021 6.2L SRT Hellcat A/T,6.2,8,707,328,dodge,ksa,5,0.04720462484432917
 BMW Z4 Roadster 2021 sDriveM40i,3.0,6,340,250,bmw,ksa,2,0.17177471119570664
 Porsche Cayenne Coupe 2021 Base,3.0,6,340,243,porsche,ksa,5,0.2901540417405309
 Maserati Quattroporte 2021 3.0T V6 S,3.0,6,430,285,maserati,ksa,5,0.670810026821528
 Audi A8 2021 55 TFSI quattro Full Option (340 HP),3.0,6,340,250,audi,ksa,5,0.6340681427663742
-Jaguar F-Type Coupe 2021 5.0L S AWD (575 PS),5.0,8,572,322,jaguar,ksa,2,0.9053037772502422
 Lexus LS 2021 500h Hybrid,3.5,6,354,220,lexus,ksa,5,0.4573044485174702
 Mercedes-Benz CLS-Class 2021 CLS 350,2.0,4,299,250,mercedes-benz,ksa,4,0.25482143542995833
 Lexus LS 2021 500h Hybrid Plus,3.5,6,354,220,lexus,ksa,5,0.5558003800266937
@@ -622,90 +580,30 @@ Infiniti QX80 2021 5.6L Limited Edition,5.6,8,428,200,infiniti,ksa,8,0.325501747
 Genesis G90 2021 5.0L V8 Royal,5.0,8,407,240,genesis,ksa,5,0.3228945836280343
 Audi RS5 Coupe 2021 2.9 TFSI quattro (450 HP),2.9,6,450,280,audi,ksa,4,0.5427167461086976
 Lexus LX 2021 570 Sport,5.7,8,362,220,lexus,ksa,8,0.5504929393779048
-Cadillac Escalade 2021 6.2L Luxury,6.2,8,420,180,cadillac,ksa,8,0.23720546362269282
 BMW 7 Series 2021 730Li,2.0,4,258,250,bmw,ksa,5,0.3517092803699186
-Cadillac Escalade 2021 6.2L Sport,6.2,8,420,180,cadillac,ksa,8,0.36378880389490076
 Porsche 911 2021 Carrera,3.0,6,385,291,porsche,ksa,4,0.47004079613412314
 Porsche Cayenne Coupe 2021 S,2.9,6,440,263,porsche,ksa,5,0.46499004536024
 Mercedes-Benz GLE-Class 2021 450 4MATIC,3.0,6,367,250,mercedes-benz,ksa,5,0.3046494699705093
 Mercedes-Benz GLE-Class 2021 GLE 63 S 4MATIC,5.5,8,585,250,mercedes-benz,ksa,5,0.6285316944840907
-Mercedes-Benz SL-Class 2021 SL 400,3.0,6,367,250,mercedes-benz,ksa,2,0.8762877551162749
 Land Rover Range Rover Sport 2021 3.0L V6 HSE (360 PS),3.0,6,360,210,land-rover,ksa,5,0.4911648628984355
 Mercedes-Benz CLS-Class 2021 CLS 450 4MATIC,3.0,6,367,250,mercedes-benz,ksa,4,0.4264513321807452
 Land Rover Range Rover Sport 2021 3.0L V6 HSE Dynamic (360 PS),3.0,6,360,209,land-rover,ksa,5,0.5117126357279101
 BMW M3 Sedan 2021 3.0T Competition,3.0,6,450,250,bmw,ksa,5,0.5630506107090839
-BMW M4 Coupe 2021 3.0T CS,3.0,6,460,280,bmw,ksa,4,0.85372672836597
 BMW M4 Coupe 2021 3.0T,3.0,6,431,250,bmw,ksa,4,0.4762793667212962
 Porsche 911 2021 Carrera 4,3.0,6,385,291,porsche,ksa,4,0.5557802474874853
 Porsche 911 2021 Carrera Cabriolet,3.0,6,385,289,porsche,ksa,4,0.606969744991998
 Mercedes-Benz GLS 2021 500 4MATIC,4.6,8,455,250,mercedes-benz,ksa,7,0.5827050021111903
-Cadillac Escalade 2021 6.2L Sport Platinum,6.2,8,420,180,cadillac,ksa,8,0.49616024918949586
 Mercedes-Benz CLS-Class 2021 CLS AMG 53 4MATIC+,3.0,6,435,250,mercedes-benz,ksa,4,0.517802728838422
-Land Rover Range Rover Sport 2021 5.0L V8 HSE Dynamic (525 PS),5.0,8,525,250,land-rover,ksa,5,0.7640740147039937
-Mercedes-Benz SL-Class 2021 SL 500,4.7,8,455,250,mercedes-benz,ksa,2,1.2001699796298564
 Land Rover Range Rover 2021 3.0L V6 HSE MHEV (360 PS),3.0,6,495,221,land-rover,ksa,5,0.5849321642611086
 Lexus LX 2021 570 Signature Black Edition,5.7,8,362,220,lexus,ksa,8,0.6156091208797612
 BMW M4 Convertible 2021 3.0T Competition M xDrive,3.0,6,510,250,bmw,ksa,4,0.5787036599435398
 Mercedes-Benz E 63 AMG 2021 S 4MATIC+,4.0,8,612,250,mercedes-benz,ksa,5,0.721627072350687
 Porsche 911 2021 Carrera 4 Cabriolet,3.0,6,385,289,porsche,ksa,2,0.6927091963453601
 Mercedes-Benz S-Class 2021 S 450,3.0,6,367,250,mercedes-benz,ksa,5,0.51939823257068
-Mercedes-Benz S-Class 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,ksa,5,0.8092086510416091
-Porsche Panamera 2021 4S,2.9,6,440,289,porsche,ksa,4,0.8364253274838342
 Porsche Panamera 2021 Base,3.0,6,330,264,porsche,ksa,4,0.5366266529981857
 Nissan GT-R 2021 Premium,3.8,6,565,315,nissan,ksa,4,0.5832334812654081
-Aston Martin Vantage 2021 4.0T V8,4.0,8,503,314,aston-martin,ksa,2,1.2849984335840428
-BMW 7 Series 2021 740Li,3.0,6,326,250,bmw,ksa,5,0.7954556101949367
 Porsche Panamera 2021 4 E-Hybrid,2.9,6,462,278,porsche,ksa,4,0.7470116877249565
 Porsche Panamera 2021 10 Years Edition,3.0,6,330,264,porsche,ksa,4,0.7356619687462757
-BMW M5 Sedan 2021 4.4T (600 HP),4.4,8,600,250,bmw,ksa,5,0.9579503672799556
-Porsche Panamera 2021 4 E-Hybrid Executive,2.9,6,462,278,porsche,ksa,4,0.8209232722934404
-Porsche Panamera 2021 4S Executive,3.0,6,435,289,porsche,ksa,4,0.9225170982733418
-Mercedes-Benz SL 63 AMG 2021 5.5L,5.5,8,585,250,mercedes-benz,ksa,2,1.7192120060939293
-Mercedes-Benz S-Class Coupe 2021 S 560,4.0,8,469,250,mercedes-benz,ksa,4,0.8240312330337224
-Mercedes-Benz AMG GT 2021 4.0L S,4.0,4,514,310,mercedes-benz,ksa,2,0.906599809461777
-Bentley Flying Spur 2021 4.0T V8,4.0,8,542,318,bentley,ksa,5,1.403634454003773
-Porsche Cayenne Coupe 2021 Turbo,4.0,8,550,286,porsche,ksa,5,1.0432594856077406
-Mercedes-Benz AMG GT 2021 4.0L R,4.0,4,576,318,mercedes-benz,ksa,2,1.193236836439997
-Audi R8 Coupe 2021 5.2 V10,5.2,10,540,323,audi,ksa,2,1.6569269629182406
-Porsche Cayenne Coupe 2021 Turbo S E-Hybrid,4.0,8,680,295,porsche,ksa,5,1.3637720263713324
-Mercedes-Benz AMG GT 2021 4.0L C,4.0,4,550,317,mercedes-benz,ksa,2,1.0571912027398864
-Mercedes-Benz AMG GT 2021 4.0L,4.0,4,469,304,mercedes-benz,ksa,2,0.7669429015411768
-Land Rover Range Rover 2021 5.0L V8 Vogue SE (525 PS),5.0,8,525,225,land-rover,ksa,5,1.1116497212983472
-Mercedes-Benz S-Class Coupe 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,ksa,4,0.8655797608248588
-BMW 7 Series 2021 750Li xDrive,4.4,8,530,250,bmw,ksa,5,1.0022419535382232
-Land Rover Range Rover 2021 5.0L V8 Autobiography LWB (525 PS),5.0,8,525,250,land-rover,ksa,4,1.3214685283598846
-Land Rover Range Rover 2021 5.0L V8 Autobiography (525 PS),5.0,8,525,225,land-rover,ksa,5,1.2459337578177314
-Bugatti Chiron 2021 8.0L W16 Pur Sport,8.0,16,1479,350,bugatti,ksa,2,32.8350579794873
-Bentley Bentayga 2021 6.0L W12 Speed,6.0,12,626,301,bentley,ksa,5,2.8154287659860513
-Porsche Panamera 2021 Turbo S E-Hybrid,4.0,8,680,310,porsche,ksa,4,1.8072415337822365
-Land Rover Range Rover Sport 2021 5.0L V8 SVR (575 PS),5.0,8,575,280,land-rover,ksa,5,1.0931277852267083
-Bentley Bentayga 2021 4.0L V8,4.0,8,542,290,bentley,ksa,5,2.101226937571487
-Porsche Panamera 2021 Turbo Executive,4.0,8,550,306,porsche,ksa,4,1.5489662214137134
-Porsche Panamera 2021 Turbo S E-Hybrid Executive,4.0,8,680,310,porsche,ksa,4,1.9212923683972751
-Ferrari Portofino M 2021 3.9T V8,3.9,8,612,320,ferrari,ksa,4,1.7911858337636142
-Audi R8 Coupe 2021 5.2 V10 Plus,5.2,10,610,330,audi,ksa,2,1.9974185322786724
-Mercedes-Benz SL 65 AMG 2021 6.0L,6.0,12,630,250,mercedes-benz,ksa,2,2.040326006466369
-Rolls Royce Wraith 2021 6.6L Base,6.6,12,624,250,rolls-royce,ksa,4,3.3413913528029786
-Bentley Flying Spur 2021 6.0T W12,6.0,12,626,333,bentley,ksa,5,2.7877465245746342
-Aston Martin Rapide AMR 2021 6.0L V12,5.9,12,590,330,aston-martin,ksa,4,2.2825733010576816
-BMW 7 Series 2021 M760Li xDrive,6.6,12,585,250,bmw,ksa,5,1.1212755916073174
-Mercedes-Benz Maybach 2021 S 650,6.0,12,630,250,mercedes-benz,ksa,4,2.6742493347878233
-Porsche Panamera 2021 Turbo,4.0,8,550,306,porsche,ksa,4,1.4349153867986744
-Mercedes-Benz S 63 AMG Coupe 2021 4.0L 4MATIC+,4.0,4,601,250,mercedes-benz,ksa,4,1.237505773591655
-Rolls Royce Ghost 2021 6.75T Short Wheelbase,6.8,12,571,250,rolls-royce,ksa,5,2.7130044727638074
-Porsche Panamera 2021 GTS,4.0,8,460,292,porsche,ksa,4,1.0576064363610578
-Mercedes-Benz S 63 AMG 2021 4.0L 4MATIC+,4.0,8,612,250,mercedes-benz,ksa,5,1.1868447552413606
-Mercedes-Benz S 65 AMG 2021 6.0L V12 (630 HP),6.0,12,630,250,mercedes-benz,ksa,5,3.3220137838149864
-Lamborghini Huracan 2021 EVO Spyder,5.2,10,640,325,lamborghini,ksa,2,3.2029801457458924
-Ferrari 812 Superfast 2021 6.5L V12,6.5,12,800,340,ferrari,ksa,2,3.064568938688806
-Rolls Royce Dawn 2021 6.6L V12,6.6,12,563,250,rolls-royce,ksa,4,3.196940383983401
-Lamborghini Aventador SVJ 2021 LP770-4 Roadster,6.5,12,770,350,lamborghini,ksa,2,5.4175594586592695
-Bentley Continental GT 2021 6.0L W12 (626 HP),6.0,12,626,333,bentley,ksa,4,3.7566249739742372
-Rolls Royce Dawn 2021 6.6L V12 Black Badge,6.6,12,593,250,rolls-royce,ksa,4,3.9712302922325486
-Lamborghini Huracan 2021 STO,5.2,10,640,310,lamborghini,ksa,2,2.649335317517548
-Lamborghini Huracan 2021 EVO Coupe,5.2,10,640,325,lamborghini,ksa,2,2.649335317517548
-Mercedes-Benz S 65 AMG Coupe 2021 6.0L,6.0,4,630,250,mercedes-benz,ksa,4,3.617858930913605
-Rolls Royce Wraith 2021 6.6L Black Badge,6.6,12,624,250,rolls-royce,ksa,4,4.033447388088409
 Toyota Corolla 2021 1.6L Active,1.6,4,121,190,toyota,egypt,5,-0.5720200857310629
 Mercedes-Benz E-Class Saloon 2021 E 200,2.0,4,184,240,mercedes-benz,egypt,5,-0.29076105649506084
 Toyota Corolla 2021 1.6L Active M/T,1.6,4,121,190,toyota,egypt,5,-0.5809678809347533
@@ -813,7 +711,6 @@ Kia Grand Cerato 2022 1.6L LX Full Option,1.6,4,128,190,kia,egypt,5,-0.574137730
 DS 7 Crossback 2021 1.6T Rivoli,1.6,4,165,220,ds,egypt,5,-0.44734747255964313
 DS 7 Crossback 2021 1.6T Opera,1.6,4,165,220,ds,egypt,5,-0.41603018934672664
 MG HS 2021 1.5T LFC Edition,1.5,4,169,210,mg,egypt,5,-0.546670981919008
-Suzuki S-Presso 2021 1.0L Full Option M/T,1000.0,3,67,130,suzuki,egypt,5,-0.6284210214983248
 DS 7 Crossback 2021 1.6T Opera Highline,1.6,4,165,220,ds,egypt,5,-0.3951520005381157
 MG HS 2021 1.5T Luxury,1.5,4,169,210,mg,egypt,5,-0.5481622811196231
 Kia Sportage 2021 1.6L LX (FWD) Topline Plus Black Edition,1.6,4,132,181,kia,egypt,5,-0.5115031641701033
@@ -856,13 +753,10 @@ Lada Granta Sedan 2021 1.6L A/T LB,1.6,4,98,176,lada,egypt,5,-0.6152677625488999
 Changan Eado DT 2021 1.6L L2,1.6,4,125,180,changan,egypt,5,-0.6039338886242254
 Lada Granta Sedan 2021 1.6L A/T,1.6,4,98,176,lada,egypt,5,-0.617952101110007
 Chevrolet Optra 2021 1.5L Basic,1.5,4,110,170,chevrolet,egypt,5,-0.6124342940677313
-Nissan Juke 2021 1.0T Tekna Perso,999.0,3,180,221,nissan,egypt,5,-0.5539753654036206
-Nissan Juke 2021 1.0T Tekna,999.0,3,180,221,nissan,egypt,5,-0.5569579638048507
 Chevrolet Aveo 2021 1.5L A/T,1.5,4,86,166,chevrolet,egypt,5,-0.6135080294921741
 Chevrolet Optra 2021 1.5L Standard,1.5,4,110,170,chevrolet,egypt,5,-0.6104956051069317
 Chevrolet Aveo 2021 1.5L A/T High Line,1.5,4,86,166,chevrolet,egypt,5,-0.6135080294921741
 Ford Focus 2021 1.5L EcoBoost Connected,1.5,4,150,212,ford,egypt,5,-0.5621775110070034
-Nissan Juke 2021 1.0T Acenta,999.0,3,180,221,nissan,egypt,5,-0.5659057590085411
 Lada Granta Sedan 2021 1.6L M/T,1.6,4,87,172,lada,egypt,5,-0.6239172979124673
 Hyundai Elantra 2021 1.6L Smart,1.6,4,127,209,hyundai,egypt,5,-0.576195723492785
 Chery Tiggo3 2021 1.6L Full leather (Tinted Glass) A/T,1.6,4,126,165,chery,egypt,5,-0.6000863366866385
@@ -926,7 +820,6 @@ Hyundai Elantra 2021 1.6L Premium White Pack,1.6,4,127,209,hyundai,egypt,5,-0.52
 Hyundai Elantra 2021 1.6L Advanced White Pack,1.6,4,127,209,hyundai,egypt,5,-0.5418958418786385
 Mazda 3 Hatchback 2021 1.5L Classic,1.5,4,111,183,mazda,egypt,5,-0.5284741490731029
 Seat Leon 2021 1.4T Style Plus,1.4,4,150,210,seat,egypt,5,-0.5547210150039281
-Seat Leon 2021 1.4T Advanced Plus,140.0,4,150,210,seat,egypt,5,-0.5502471174020829
 Seat Leon 2021 1.4T FR,1.4,4,150,210,seat,egypt,5,-0.5427906213990076
 Hyundai Tucson 2021 1.6L GL TLe,1.6,4,130,170,hyundai,egypt,5,-0.54878564418548
 Hyundai Tucson 2021 1.6L GLS TLe,1.6,4,130,170,hyundai,egypt,5,-0.5398378489817897
@@ -982,12 +875,8 @@ Jaguar F-Type Coupe 2021 2.0T R-Dynamic (300 PS),2.0,4,300,250,jaguar,egypt,2,-0
 Jeep Grand Cherokee 2021 Limited 5.7L,5.7,8,350,181,jeep,egypt,5,-0.32953483571105263
 Mercedes-Benz S-Class 2021 S 560,4.0,8,469,250,mercedes-benz,egypt,5,0.5175231102383065
 Porsche Cayenne Coupe 2021 GTS,3.6,6,440,261,porsche,egypt,5,0.2326596108344179
-Bentley Flying Spur 2021 4.0T V8,4.0,8,542,318,bentley,egypt,5,2.2832213637665486
 Porsche Cayenne Coupe 2021 Base,3.0,6,340,243,porsche,egypt,5,-0.011452646613463334
-Bentley Bentayga 2021 6.0L W12,6.0,12,600,301,bentley,egypt,5,2.071456877279209
-Bentley Continental GT Convertible 2021 V8,4.0,8,542,301,bentley,egypt,4,2.4949858502538884
 Porsche 911 2021 Carrera Cabriolet,3.0,6,385,289,porsche,egypt,4,0.21949889538898992
-Bentley Continental GT 2021 4.0T V8,6.0,8,542,318,bentley,egypt,4,2.3667341190009923
 BMW 7 Series 2021 740Li,3.0,6,326,250,bmw,egypt,5,0.10294193246731738
 Porsche Cayenne Coupe 2021 S,2.9,6,440,263,porsche,egypt,5,0.13068009759875765
 Porsche 911 2021 Carrera,3.0,6,385,291,porsche,egypt,4,0.12607496566725832
@@ -1009,7 +898,6 @@ Peugeot Expert 2021 Combi L3 A/T (6 seater),2.0,4,120,170,peugeot,bahrain,6,-0.4
 Volkswagen Golf GTI 2021 2.0T S,2.0,4,245,210,volkswagen,bahrain,5,-0.27736406333253544
 Toyota Highlander 2021 2.5L Hybrid Limited (AWD),2.5,4,292,221,toyota,bahrain,7,-0.25263972067933815
 Hyundai Palisade 2021 3.8L GDi (AWD) Premium,3.8,6,355,221,hyundai,bahrain,5,-0.2649895421844317
-Chevrolet Corvette 2021 6.2L 3LT Coupe,6.2,8,495,312,chevrolet,bahrain,2,0.38955099758552597
 Toyota Corolla 2021 2.0L GLI Moonroof,2.0,4,168,200,toyota,bahrain,5,-0.45208933798659884
 MG HS 2021 2.0T Luxury (AWD),2.0,4,231,210,mg,bahrain,5,-0.45211403762960906
 Toyota Corolla 2021 1.6L XLI,1.6,4,121,190,toyota,bahrain,5,-0.5065520508240614
@@ -1019,7 +907,6 @@ Toyota Corolla 2021 1.8L XLI Hybrid,1.8,4,121,190,toyota,bahrain,5,-0.4546828005
 Toyota Supra 2021 3.0T GR,3.0,6,382,250,toyota,bahrain,2,-0.15902807367072913
 Hyundai Palisade 2021 3.8L GDi GLS Luxury (AWD),3.8,6,355,221,hyundai,bahrain,5,-0.24416774312684403
 Volkswagen Passat 2021 2.5L Trendline,2.5,4,170,190,volkswagen,bahrain,5,-0.4132120998885644
-Lotus Evija 2021 2000 kW (Type 130),0.0,4,1973,320,lotus,bahrain,2,19.816067221527767
 Kia Sportage 2021 1.6L LX (FWD),1.6,4,132,181,kia,bahrain,5,-0.48740982749116635
 Volkswagen Passat 2021 2.5L Highline,2.5,4,170,190,volkswagen,bahrain,5,-0.36378811422518004
 Kia Soul 2021 2.0L MPI A/T,2.0,4,152,221,kia,bahrain,5,-0.524459292006447
@@ -1041,28 +928,22 @@ Peugeot 508 2021 1.6T Active+,1.6,4,180,230,peugeot,bahrain,5,-0.400961076955511
 Peugeot 508 2021 1.6T GT Line,1.6,4,165,220,peugeot,bahrain,5,-0.3392119694300439
 GAC GS7 2021 2.0T GE,2.0,4,201,200,gac,bahrain,5,-0.46629163271745644
 Maxus D90 2021 2.0T Executive Luxury (4WD),2.0,4,225,175,maxus,bahrain,7,-0.42059729314861033
-Ferrari 812 GTS 2021 6.5L V12,6.5,12,718,221,ferrari,bahrain,5,2.8360506377445565
 Mitsubishi Spacestar 2021 1.2L GLS HL,1.2,3,78,173,mitsubishi,bahrain,5,-0.5687951512097328
 Mazda CX-30 2021 2.0L Classic 4x2,2.0,4,155,192,mazda,bahrain,5,-0.4502368647608348
 Mazda CX-30 2021 2.0L Urban AWD,2.0,4,155,192,mazda,bahrain,5,-0.40083757874046066
 Maxus D90 2021 2.0T Elite (2WD),2.0,4,225,185,maxus,bahrain,7,-0.4503603629758857
-Ferrari SF90 Stradale 2021 4.0T V8 Plug-in-Hybrid,4.0,8,25,800,ferrari,bahrain,5,3.8050176330341956
-McLaren Senna 2021 4.0T V8 Coupe,4.0,8,800,335,mclaren,bahrain,2,11.936634104847988
 Jetour X70 2021 1.5T Comfort,1.5,4,156,180,jetour,bahrain,7,-0.4997596489962599
 MG 6 2021 1.5T LUX,1.5,4,169,180,mg,bahrain,5,-0.49101597537065367
 Jetour X90 2021 1.6T Luxury,1.6,4,194,185,jetour,bahrain,7,-0.4627101844809793
-Ferrari F8 Tributo 2021 3.9T V8,3.9,8,710,340,ferrari,bahrain,2,1.712710873641248
 Lincoln Crosair 2021 2.0T Base,2.0,4,245,221,lincoln,bahrain,5,-0.26511304039948264
 Peugeot 508 2021 1.6T GT,1.6,4,225,220,peugeot,bahrain,5,-0.32686214792495033
 Toyota Supra 2021 2.0T GR,2.0,4,255,250,toyota,bahrain,2,-0.23164502412067914
 Great Wall Wingle 7 2021 2.0T Double Cabin (4x4) (Leather),2.0,4,315,221,great-wall,bahrain,5,-0.4872863292761154
-Ferrari F8 Spider 2021 3.9T V8,3.9,8,710,340,ferrari,bahrain,2,1.965388221635462
 Lincoln Crosair 2021 2.0T Reserve,2.0,4,245,221,lincoln,bahrain,5,-0.2279400776691511
 Toyota C HR 2021 1.8L VX Hybrid,1.8,4,121,170,toyota,bahrain,5,-0.4313416378580417
 Peugeot 508 2021 1.6T Allure+,1.6,4,165,220,peugeot,bahrain,5,-0.36391161244023096
 Toyota Corolla Cross 2021 1.8L XL (HEV),1.8,4,292,221,toyota,bahrain,5,-0.3898462376009274
 Peugeot 2008 2021 1.2T (130HP) Allure+,1.2,3,130,200,peugeot,bahrain,5,-0.4355405771697735
-McLaren 765LT 2021 4.0T V8,4.0,8,755,330,mclaren,bahrain,2,3.131211371716292
 Peugeot 508 2021 1.6T GT (S),1.6,4,217,220,peugeot,bahrain,5,-0.3145123264198568
 Peugeot 2008 2021 1.2T (155HP) GT,1.2,3,155,208,peugeot,bahrain,5,-0.41331089846060515
 Peugeot 2008 2021 1.6L (115HP) Active+,1.6,4,115,200,peugeot,bahrain,5,-0.47506000598607284
@@ -1299,7 +1180,6 @@ Chrysler 300C 2021 3.6L V6 Luxury,3.6,4,292,210,chrysler,bahrain,5,-0.2575796492
 Mini Hatch 2021 3-Door Cooper S,2.0,4,192,235,mini,bahrain,4,-0.31438882820480585
 Jaguar XE 2021 Base 2.0,2.0,4,200,237,jaguar,bahrain,5,-0.25510968498035685
 Subaru WRX 2021 2.5T STi Standard,2.5,4,300,250,subaru,bahrain,5,-0.2649895421844317
-Dodge Charger 2021 6.4L R/T Scatpack,6.4,8,485,281,dodge,bahrain,5,-0.19089061315387046
 Jaguar XE 2021 2.0 Prestige,2.0,4,200,237,jaguar,bahrain,5,-0.25510968498035685
 Jaguar XE 2021 2.0 Portfolio,2.0,4,200,237,jaguar,bahrain,5,-0.25510968498035685
 Mercedes-Benz CLA-Class 2021 CLA 250,2.0,4,211,240,mercedes-benz,bahrain,5,-0.2723994350874878
@@ -1475,7 +1355,6 @@ BMW 1 Series 2021 m135i xDrive,3.0,6,326,250,bmw,bahrain,5,-0.017993112082560884
 Jaguar F-Type Convertible 2021 2.0T (300 PS),2.0,4,300,249,jaguar,bahrain,2,-0.030342933587654424
 BMW 5 Series 2021 528i,2.0,4,245,250,bmw,bahrain,5,-0.017993112082560884
 Audi A7 2021 40 TFSI (252 HP),2.0,4,252,250,audi,bahrain,5,-0.032812897888673136
-Chrysler 300C 2021 6.4L V8 Hemi SRT8,6.4,4,472,280,chrysler,bahrain,5,-0.030342933587654424
 Land Rover Range Rover Velar 2021 2.0L HSE (250 PS),2.0,4,246,217,land-rover,bahrain,5,-0.008113254878486052
 Audi A7 2021 40 TFSI quattro (252 HP),2.0,4,252,250,audi,bahrain,5,-0.025403004985617008
 Jaguar XJ 2021 i4Turbo Luxury,2.0,4,235,241,jaguar,bahrain,5,-0.008113254878486052
@@ -1491,7 +1370,6 @@ BMW X4 2021 xDrive 20i,2.0,4,184,215,bmw,bahrain,5,-0.0056432905774673435
 Jaguar F-Type Coupe 2021 3.0L V6 R-Dynamic (340 PS),3.0,4,335,260,jaguar,bahrain,2,-0.0007033619754299273
 Jaguar XF 2021 3.0L SC S (380 PS),3.0,6,377,250,jaguar,bahrain,5,-0.0007033619754299273
 Jaguar XF 2021 3.0 V6 SC Premium Luxury Sport Pack,3.0,6,335,250,jaguar,bahrain,5,0.01658638813170103
-Chevrolet Camaro Coupe 2021 6.2L ZL1,6.2,8,650,250,chevrolet,bahrain,4,0.0659856741520752
 BMW X3 2021 xDrive 28i,2.0,4,245,230,bmw,bahrain,5,-0.0056432905774673435
 Audi S5 Coupe 2021 3.0 TFSI quattro (354 HP),3.0,6,354,250,audi,bahrain,4,0.03140617393781328
 Audi Q7 2021 40 TFSI Sport quattro (252 HP),2.0,4,252,210,audi,bahrain,5,0.03140617393781328
@@ -1553,10 +1431,8 @@ Jaguar XJ 2021 3.0L Premium Luxury LWB (340 PS),3.0,4,340,250,jaguar,bahrain,5,0
 Maserati Levante 2021 3.0T V6,3.0,6,350,251,maserati,bahrain,5,0.22900331801930993
 Mercedes-Benz C-Class 2021 C 450,3.0,6,362,250,mercedes-benz,bahrain,5,0.14255456748365514
 Mercedes-Benz E-Class Cabriolet 2021 E 500,4.7,8,408,250,mercedes-benz,bahrain,4,0.1623142818918048
-Dodge Challenger 2021 6.2L Hellcat Widebody A/T,6.2,8,707,314,dodge,bahrain,5,0.1894838892030106
 Mercedes-Benz E-Class Saloon 2021 E 43 4MATIC,3.0,4,401,250,mercedes-benz,bahrain,5,0.14502453178467387
 Audi Q7 2021 45 TFSI Design quattro (333 HP),3.0,6,333,250,audi,bahrain,5,0.15243442468772997
-Dodge Challenger 2021 6.2L Hellcat Red Eye A/T,6.2,8,797,327,dodge,bahrain,5,0.34509164016718924
 Morgan Plus 8 2021 4.8L Manual,4.8,8,490,221,morgan,bahrain,5,0.14749449608569257
 Jaguar F-Pace 2021 S,3.0,4,380,250,jaguar,bahrain,5,0.14008460318263644
 Jaguar F-Type Coupe 2021 3.0L V6 R-Dynamic (380 PS),3.0,6,380,275,jaguar,bahrain,2,0.14008460318263644
@@ -1569,8 +1445,6 @@ Jaguar XJ 2021 3.0 V6 SC Premium Luxury LWB,3.0,6,340,250,jaguar,bahrain,5,0.164
 Jaguar F-Type Coupe 2021 400 Sport,3.0,6,375,275,jaguar,bahrain,2,0.16478424619282353
 Mercedes-Benz C-Class 2021 C 63 AMG,4.0,8,476,250,mercedes-benz,bahrain,5,0.16478424619282353
 Mercedes-Benz GLE-Class 2021 GLE 500 4MATIC,4.7,8,455,250,mercedes-benz,bahrain,5,0.1870139249019919
-Lotus Evora 2021 GT410 Sport,3.5,6,410,275,lotus,bahrain,2,0.9255332509065857
-Porsche Cayenne Coupe 2021 Turbo S E-Hybrid,4.0,8,680,295,porsche,bahrain,5,1.1177952720978819
 Jaguar F-Type Coupe 2021 R-Dynamic,3.0,6,375,275,jaguar,bahrain,2,0.16478424619282353
 Jaguar F-Type Coupe 2021 3.0L V6 S,3.0,6,375,275,jaguar,bahrain,2,0.16478424619282353
 BMW 5 Series 2021 550i,4.4,4,450,250,bmw,bahrain,5,0.20430367500912286
@@ -1593,10 +1467,8 @@ Land Rover Range Rover Sport 2021 SC Dynamic,5.0,8,625,221,land-rover,bahrain,5,
 Land Rover Range Rover Sport 2021 3.0L V6 HSE Dynamic (340 PS),3.0,6,340,209,land-rover,bahrain,5,0.2808725683407028
 Lotus Evora 2021 GT,3.5,6,416,303,lotus,bahrain,4,0.3154520685549647
 Jaguar F-Pace 2021 First Edition,3.0,4,380,250,jaguar,bahrain,5,0.23888317522338476
-Cadillac Escalade 2021 6.2L Platinum,6.2,8,420,180,cadillac,bahrain,8,0.3154520685549647
 Jaguar F-Type Convertible 2021 3.0L V6 AWD (380 PS),3.0,6,377,275,jaguar,bahrain,2,0.2586428896315344
 BMW M3 Sedan 2021 3.0T,3.0,6,431,250,bmw,bahrain,5,0.253702961029497
-Maserati Levante 2021 3.8T V8 Trofeo,3.8,8,590,304,maserati,bahrain,5,0.9576427868198288
 Jaguar F-Type Coupe 2021 3.0L V6 400 Sport (400 PS),3.0,6,397,275,jaguar,bahrain,2,0.24135313952440346
 Mercedes-Benz GLS 2021 500 4MATIC,4.6,8,455,250,mercedes-benz,bahrain,7,0.28828246124375895
 BMW 5 Series Gran Turismo 2021 550i,4.4,8,450,250,bmw,bahrain,5,0.2660527825345905
@@ -1636,7 +1508,6 @@ Porsche 911 2021 Targa 4,3.4,6,350,280,porsche,bahrain,4,0.5614111136504075
 Porsche Panamera 2021 3.0L 4,3.0,6,325,265,porsche,bahrain,4,0.2820334515621816
 Lexus LX 2021 570 Prestige,5.7,8,362,220,lexus,bahrain,8,0.4019008190906195
 Porsche 911 2021 Carrera 4 Cabriolet,3.0,6,385,289,porsche,bahrain,2,0.5614111136504075
-Mercedes-Benz C Class Cabriolet 2021 C 63 S Cabriolet,4.0,4,700,221,mercedes-benz,bahrain,5,0.4019008190906195
 Land Rover Range Rover 2021 3.0L SC V6 HSE (380 PS),3.0,6,375,210,land-rover,bahrain,5,0.38461106898348857
 BMW 6 Series Convertible 2021 640i xDrive,3.0,6,320,250,bmw,bahrain,4,0.41425064059571304
 Jaguar XJ 2021 5.0 V8 Portfolio,5.0,8,380,250,jaguar,bahrain,5,0.38708103328450727
@@ -1651,7 +1522,6 @@ Maserati Quattroporte 2021 S Q4,3.0,6,410,285,maserati,bahrain,5,0.6735968922026
 Mercedes-Benz SL-Class 2021 SL 500,4.7,8,455,250,mercedes-benz,bahrain,2,0.44636017650895626
 Land Rover Range Rover 2021 3.0L SC V6 Vogue LWB (380 PS),3.0,6,375,209,land-rover,bahrain,5,0.4957594625293304
 Porsche Panamera 2021 4 E-Hybrid,2.9,6,462,278,porsche,bahrain,4,0.40985410413989976
-Porsche 911 2021 Targa 4S,3.8,6,400,280,porsche,bahrain,4,0.7763721067680658
 Mercedes-Benz S-Class 2021 S 500,4.7,8,455,250,mercedes-benz,bahrain,5,0.5451587485497046
 BMW 6 Series Coupe 2021 650i xDrive,4.4,8,450,250,bmw,bahrain,4,0.5624484986568355
 Jaguar XJ 2021 5.0 V8 SC Autobiography LWB,5.0,8,510,250,jaguar,bahrain,5,0.5352788913456298
@@ -1684,7 +1554,6 @@ Morgan Aero 8 2021 4.8L Manual,4.8,8,490,221,morgan,bahrain,5,0.6365474276873968
 Land Rover Range Rover 2021 5.0L V8 Vogue SE (525 PS),5.0,8,525,225,land-rover,bahrain,5,0.7205262139220329
 Audi R8 Coupe 2021 5.2 V10,5.2,10,540,323,audi,bahrain,2,0.7328760354271264
 Land Rover Range Rover 2021 5.0L SC Vogue LWB (525 PS),5.0,8,520,225,land-rover,bahrain,5,0.6760668565036961
-Aston Martin Vantage Roadster 2021 4.0T V8,0.0,8,5050,305,aston-martin,bahrain,2,0.6982965352128645
 Aston Martin Vantage Roadster 2021 V8 M/T,4.7,8,420,290,aston-martin,bahrain,2,0.6735968922026774
 Aston Martin Vantage 2021 V8 S M/T,4.7,8,430,305,aston-martin,bahrain,2,0.6612470706975838
 Mercedes-Benz GLS 63 AMG 2021 5.0L 4MATIC,5.0,8,585,250,mercedes-benz,bahrain,7,0.6563071420955464
@@ -1692,77 +1561,9 @@ Audi RS7 2021 4.0 TFSI Performance,4.0,8,605,305,audi,bahrain,5,0.65136721349350
 Aston Martin Vantage Roadster 2021 N430 M/T,4.7,8,430,305,aston-martin,bahrain,2,0.7229961782230515
 Aston Martin Vantage 2021 S 4.7L V8,4.7,8,430,305,aston-martin,bahrain,2,0.6859467137077709
 Jaguar F-Type Convertible 2021 5.0L V8 R AWD (550 PS),5.0,8,550,300,jaguar,bahrain,2,0.6538371777945278
-Audi S8 2021 Plus 4.0 TFSI quattro (605 HP),4.0,8,605,250,audi,bahrain,5,0.7575756784373134
-Aston Martin Vantage Roadster 2021 N430 A/T,4.7,8,430,305,aston-martin,bahrain,2,0.7649855713403696
-Mercedes-Benz S-Class Coupe 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,bahrain,4,0.7822753214475006
-Jaguar XJ 2021 5.0 V8 SC R SWB,5.0,8,550,280,jaguar,bahrain,5,0.8316746074678747
-Mercedes-Benz AMG GT 2021 4.0L S,4.0,4,514,310,mercedes-benz,bahrain,2,0.7748654285444444
-Land Rover Range Rover Sport 2021 5.0L V8 SVR (575 PS),5.0,8,575,280,land-rover,bahrain,5,0.769925499942407
-Aston Martin Vantage Roadster 2021 V8 S A/T,4.7,8,430,305,aston-martin,bahrain,2,0.7847452857485193
-Aston Martin Vantage Roadster 2021 V8 S M/T,4.7,8,430,305,aston-martin,bahrain,2,0.7600456427383322
-Jaguar F-Type Coupe 2021 5.0L S AWD (575 PS),5.0,8,572,322,jaguar,bahrain,2,0.7847452857485193
-Maserati Quattroporte 2021 3.8T V8 Trofeo,3.8,8,580,326,maserati,bahrain,5,1.1058406448809512
-Jaguar XJ 2021 5.0 V8 SC R LWB,5.0,8,550,280,jaguar,bahrain,5,0.8316746074678747
-Audi A8 2021 W12 6.3 FSI quattro (500 HP),6.3,12,500,250,audi,bahrain,5,0.7723954642434258
-Mercedes-Benz SL 63 AMG 2021 5.5L,5.5,8,585,250,mercedes-benz,bahrain,2,0.7575756784373134
-Land Rover Range Rover 2021 5.0L V8 Vogue SE LWB (525 PS),5.0,8,525,225,land-rover,bahrain,5,0.7773353928454632
-BMW M6 Coupe 2021 4.4T,4.4,8,560,250,bmw,bahrain,4,0.9576427868198288
-BMW M6 Convertible 2021 4.4T,4.4,8,560,250,bmw,bahrain,4,1.0564413588605772
-Land Rover Range Rover 2021 5.0L V8 Autobiography (525 PS),5.0,8,525,225,land-rover,bahrain,5,0.905773536498436
-Mercedes-Benz S 63 AMG 2021 4.0L 4MATIC+,4.0,8,612,250,mercedes-benz,bahrain,5,0.9551728225188101
-Mercedes-Benz AMG GT Roadster 2021 4.0L BiTurbo GT C,4.0,8,557,316,mercedes-benz,bahrain,2,0.9354131081106605
-Mercedes-Benz AMG GT 2021 4.0L R,4.0,4,576,318,mercedes-benz,bahrain,2,0.9403530367126979
-Jaguar XJ 2021 5.0L SC Autobiography LWB (510 PS),5.0,8,505,250,jaguar,bahrain,5,0.8514343218760244
-Audi R8 Spyder 2021 5.2L V10,5.2,10,540,318,audi,bahrain,2,0.8860138220902863
-Jaguar F-Type Convertible 2021 5.0L SVR AWD (575 PS),5.0,8,572,314,jaguar,bahrain,2,0.8687240719831554
-Porsche 911 2021 Turbo Cabriolet,3.8,6,520,315,porsche,bahrain,4,1.122043610695634
-Porsche 911 2021 Turbo,3.8,6,520,315,porsche,bahrain,4,0.9941735588318956
-Mercedes-Benz S Class Cabriolet 2021 S 500 Cabriolet,4.7,8,455,250,mercedes-benz,bahrain,4,0.8810738934882488
-Land Rover Range Rover 2021 5.0L V8 Autobiography LWB (525 PS),5.0,8,525,250,land-rover,bahrain,4,0.9551728225188101
-Mercedes-Benz S-Class 2021 S 600,6.0,12,530,250,mercedes-benz,bahrain,4,0.9403530367126979
-Audi R8 Coupe 2021 5.2 V10 Plus,5.2,10,610,330,audi,bahrain,2,0.9378830724116791
-Mercedes-Benz Maybach 2021 S 650,6.0,12,630,250,mercedes-benz,bahrain,4,1.278738145952261
-Mercedes-Benz S Class Cabriolet 2021 S63 4MATIC+,4.0,8,612,250,mercedes-benz,bahrain,4,1.3009678246614294
-BMW 7 Series 2021 760Li,6.0,12,544,250,bmw,bahrain,5,1.1799395739115126
 Porsche Panamera 2021 GTS,4.0,8,460,292,porsche,bahrain,4,0.6657424057254377
-Land Rover Range Rover 2021 5.0L SC SV Autobiography Dynamic (565 PS),5.0,8,560,225,land-rover,bahrain,5,1.2293388599318869
-Porsche 911 2021 Turbo S Cabriolet,3.8,6,560,318,porsche,bahrain,4,1.464553560317898
-BMW i8 2021 Plug-in Hybrid,1.5,3,570,221,bmw,bahrain,5,1.3034377889624482
-Porsche 911 2021 Turbo S,3.8,6,560,318,porsche,bahrain,4,1.3366835084541595
-Mercedes-Benz S 63 AMG Coupe 2021 4.0L 4MATIC+,4.0,4,601,250,mercedes-benz,bahrain,4,1.2416886814369803
-BMW 7 Series 2021 M760Li xDrive,6.6,12,585,250,bmw,bahrain,5,1.1799395739115126
-Bentley Continental GT Convertible 2021 V8,4.0,8,542,301,bentley,bahrain,4,1.7974306491661898
-BMW M6 Gran Coupe 2021 4.4T,4.4,8,560,250,bmw,bahrain,4,1.0564413588605772
-Bentley Bentayga 2021 6.0L W12,6.0,12,600,301,bentley,bahrain,5,1.822130292176377
-Bentley Continental GT 2021 4.0T V8,6.0,8,542,318,bentley,bahrain,4,1.550434219064319
-Mercedes-Benz S 65 AMG 2021 6.0L V12 (630 HP),6.0,12,630,250,mercedes-benz,bahrain,5,1.6195932194928429
-Bentley Bentayga 2021 6.0L W12 Speed,6.0,12,626,301,bentley,bahrain,5,2.3655224384004927
-Land Rover Range Rover 2021 5.0L SC SV Autobiography LWB (565 PS),5.0,8,560,225,land-rover,bahrain,5,1.6368829695999738
-Mercedes-Benz SL 65 AMG 2021 6.0L,6.0,12,630,250,mercedes-benz,bahrain,2,1.3330773605746726
-Aston Martin Vantage 2021 S 6.0L V12,5.9,12,565,328,aston-martin,bahrain,2,1.4022363610031965
-Aston Martin Vantage Roadster 2021 S 6.0L V12,5.9,12,565,330,aston-martin,bahrain,2,1.5257345760541319
-Mercedes-Benz S 65 AMG Coupe 2021 6.0L,6.0,4,630,250,mercedes-benz,bahrain,4,1.4936250401408886
-Bentley Bentayga 2021 4.0L V8,4.0,8,542,290,bentley,bahrain,5,1.4812752186357951
-Aston Martin Rapide AMR 2021 6.0L V12,5.9,12,590,330,aston-martin,bahrain,4,1.5874836835795996
-Aston Martin Vanquish 2021 6.0L V12,5.9,12,577,323,aston-martin,bahrain,4,2.2420242233495573
-Lamborghini Aventador S 2021 6.5L V12 Coupe,6.5,4,740,350,lamborghini,bahrain,2,3.2794092297774147
-Rolls Royce Ghost 2021 6.75T Short Wheelbase,6.8,12,571,250,rolls-royce,bahrain,5,2.266723866359744
-Aston Martin Vanquish 2021 S 6.0L V12,5.9,12,580,323,aston-martin,bahrain,2,2.2420242233495573
-McLaren 720S 2021 4.0T Spider,4.0,8,770,221,mclaren,bahrain,5,2.6125188685023635
-Aston Martin Vanquish Volante 2021 6.0L V12,5.9,12,568,317,aston-martin,bahrain,4,2.461851046140222
-Rolls Royce Ghost 2021 6.75T Extended Wheelbase,6.8,12,571,250,rolls-royce,bahrain,4,2.6242511989322024
-Rolls Royce Wraith 2021 6.6L Base,6.6,12,624,250,rolls-royce,bahrain,4,2.785416369573673
-Bentley Continental GT Convertible 2021 W12,6.0,12,567,314,bentley,bahrain,4,2.2914235093699316
-Bentley Flying Spur 2021 6.0T W12,6.0,12,626,333,bentley,bahrain,5,2.5384199394718023
-McLaren 720S 2021 4.0T Coupe,4.0,8,770,221,mclaren,bahrain,5,2.3655224384004927
-Aston Martin Vantage 2021 GT3,6.0,12,592,328,aston-martin,bahrain,2,3.40290744482835
-Aston Martin Vanquish 2021 V12 Carbon Black,6.0,12,565,295,aston-martin,bahrain,4,2.3926920457116982
-Aston Martin Vanquish Volante 2021 V12 Carbon Black,6.0,12,565,295,aston-martin,bahrain,4,2.6125188685023635
-Mercedes-Benz S Class Cabriolet 2021 S 65,6.0,12,630,250,mercedes-benz,bahrain,4,1.8739995424977698
 Honda HR-V 2021 1.8 i-VTEC EX,1.8,4,140,190,honda,qatar,5,-0.44604510232650596
 Honda HR-V 2021 1.8 i-VTEC DX,1.8,4,140,190,honda,qatar,5,-0.4963764503472646
-Aston Martin DB11 AMR 2021 5.2T V12,5.2,12,700,221,aston-martin,qatar,5,1.7636797520702698
-Aston Martin DBS Superleggera 2021 5.2T V12,5.2,12,900,221,aston-martin,qatar,5,2.2601708180536413
 Hyundai Palisade 2021 3.8L GDi (AWD) Premium,3.8,6,355,221,hyundai,qatar,5,-0.2200548331458989
 Hyundai Palisade 2021 3.8L GDi (AWD) Comfort,3.8,6,355,221,hyundai,qatar,5,-0.24874370151773129
 Toyota Corolla 2021 1.8L GLI Hybrid,1.8,4,121,190,toyota,qatar,5,-0.4334597487539153
@@ -1774,14 +1575,12 @@ Volkswagen Passat 2021 2.5L Comfortline,2.5,4,170,190,volkswagen,qatar,5,-0.4057
 MG HS 2021 2.0T Luxury (AWD),2.0,4,231,210,mg,qatar,5,-0.44855915316014283
 Toyota Supra 2021 3.0T GR,3.0,6,382,250,toyota,qatar,2,-0.11888882362417408
 MG HS 2021 2.0T Comfort,2.0,4,231,210,mg,qatar,5,-0.4863076641757118
-Chevrolet Corvette 2021 6.2L 3LT Coupe,6.2,8,495,312,chevrolet,qatar,2,0.1418275591233553
 Kia Sportage 2021 2.0L MPI LX (FWD),2.0,4,155,181,kia,qatar,5,-0.5014070685819394
 Kia Sportage 2021 2.4L GDI LX (AWD),2.4,4,184,185,kia,qatar,5,-0.47372482717052217
 Volkswagen Passat 2021 2.5L Trendline,2.5,4,170,190,volkswagen,qatar,5,-0.44629424249920874
 Kia Soul 2021 1.6L MPI A/T,1.6,4,124,221,kia,qatar,5,-0.48379109677467386
 Ford Escort 2021 1.5L Ambient,1.5,3,120,184,ford,qatar,5,-0.5014070685819394
 Land Rover Range Rover Evoque 2021 2.0T S (200 PS) AWD,2.0,4,200,216,land-rover,qatar,5,-0.2416973127948251
-Lotus Evija 2021 2000 kW (Type 130),0.0,4,1973,320,lotus,qatar,2,19.485674543941503
 Land Rover Range Rover Evoque 2021 2.0T R-Dynamic HSE (300 PS),2.0,4,300,242,land-rover,qatar,5,-0.06704753516279274
 Volkswagen Passat 2021 2.5L Highline,2.5,4,170,190,volkswagen,qatar,5,-0.373062131129005
 Porsche Taycan 2021 4S,0.0,4,292,221,porsche,qatar,5,0.362278863454278
@@ -1795,22 +1594,14 @@ Great Wall Wingle 6 2021 2.4L Single Cabin (4x2),2.4,4,200,221,great-wall,qatar,
 Great Wall Wingle 6 2021 2.4L Double Cabin (4x4),2.4,4,200,221,great-wall,qatar,5,-0.5268243993324224
 Lexus UX 200 2021 F Sport Platinum,2.0,4,169,180,lexus,qatar,4,-0.2195515196656913
 Hyundai Kona 2021 2.0L Limited,2.0,4,150,194,hyundai,qatar,5,-0.5069435168642228
-McLaren 600LT 2021 3.8T V8 Coupe,0.0,8,592,328,mclaren,qatar,5,1.8188680751750315
 Maxus D90 2021 2.0T Executive Luxury (4WD),2.0,4,225,175,maxus,qatar,7,-0.37054556372796704
-McLaren Senna 2021 4.0T V8 Coupe,4.0,8,800,335,mclaren,qatar,2,11.910303353337127
-Ferrari 812 GTS 2021 6.5L V12,6.5,12,718,221,ferrari,qatar,5,2.7248323395486858
 Maxus D90 2021 2.0T Elite (2WD),2.0,4,225,185,maxus,qatar,7,-0.471459916509588
 GAC GS7 2021 2.0T GE,2.0,4,201,200,gac,qatar,5,-0.4938598829462267
-Ferrari SF90 Stradale 2021 4.0T V8 Plug-in-Hybrid,4.0,8,25,800,ferrari,qatar,5,4.108944410119547
 MG 6 2021 1.5T LUX,1.5,4,169,180,mg,qatar,5,-0.4938573663788256
-Ferrari F8 Tributo 2021 3.9T V8,3.9,8,710,340,ferrari,qatar,2,1.5923770090816178
-Ferrari F8 Spider 2021 3.9T V8,3.9,8,710,340,ferrari,qatar,2,1.8440337491854106
-McLaren 765LT 2021 4.0T V8,4.0,8,755,330,mclaren,qatar,2,2.700169979018514
 Volkswagen Golf GTI 2021 2.0T P1 Full option,2.0,4,245,210,volkswagen,qatar,5,-0.3202142157072085
 Volkswagen Golf GTI 2021 2.0T P2 Full option,2.0,4,245,210,volkswagen,qatar,5,-0.2195515196656913
 Chery Tiggo8 Pro 2021 1.6T GDI Intelligent,1.6,4,185,200,chery,qatar,7,-0.45359228796221873
 Cadillac CT4-V Blackwing 2022 3.6T (472hp),2.7,6,603,221,cadillac,qatar,5,0.01373427841052471
-Chevrolet Corvette 2021 6.2L 1LT Coupe,6.2,8,495,312,chevrolet,qatar,2,0.014740905370939882
 Mitsubishi Attrage 2021 1.2 GLX (Base),1.2,3,76,170,mitsubishi,qatar,5,-0.5746391799521431
 Renault Symbol 2021 1.6L PE,1.6,4,102,180,renault,qatar,5,-0.5718709558110013
 Mitsubishi Mirage 2021 1.2 GLS,1.2,3,77,167,mitsubishi,qatar,5,-0.478757961972598
@@ -2120,7 +1911,6 @@ BMW 2 Series Active Tourer 2021 218i,1.5,3,136,205,bmw,qatar,5,-0.26988286768644
 Audi A5 Sportback 2021 1.8L (170 HP),1.8,4,170,220,audi,qatar,5,-0.2598165980822982
 Jeep Cherokee 2021 3.2L Limited,3.2,6,271,185,jeep,qatar,5,-0.3327970527123981
 Audi S3 Sedan 2021 2.0 TFSI quattro (290 HP),2.0,4,290,250,audi,qatar,5,-0.26233316548333613
-Dodge Charger 2021 6.4L R/T Scatpack,6.4,8,485,281,dodge,qatar,5,-0.19212093499437788
 Mini Countryman 2021 Cooper S ALL4,2.0,4,192,225,mini,qatar,5,-0.22458465446776718
 Audi A3 Sportback 2021 S3 (286 HP) quattro,2.0,4,286,250,audi,qatar,5,-0.26988286768644987
 Lexus CT 2021 200h Prestige,1.8,4,134,182,lexus,qatar,5,-0.30763137870201884
@@ -2195,7 +1985,6 @@ Ford Edge 2021 ST,2.7,4,335,221,ford,qatar,5,-0.14405449763455339
 Lexus NX 2021 300 Platinum,2.0,4,235,200,lexus,qatar,5,-0.1843195760511603
 Land Rover Discovery Sport 2021 2.0T HSE (AWD),2.0,4,240,200,land-rover,qatar,5,-0.11863716688407029
 Audi A5 Cabriolet 2021 35 TFSI (170 HP),1.8,4,170,213,audi,qatar,4,-0.17676987384804652
-Chevrolet Silverado 2021 6.6L LT (Heavy Duty),6.6,8,401,180,chevrolet,qatar,6,-0.3227307831082464
 Audi TT 2021 45 TFSI quattro (230 HP),2.0,4,230,250,audi,qatar,2,-0.1818030086501224
 BMW Z4 Roadster 2021 sDrive20i,2.0,4,197,240,bmw,qatar,2,-0.159153902040781
 Ford Expedition EL 2021 3.5L EcoBoost XLT,3.5,4,365,160,ford,qatar,8,-0.04339180159303628
@@ -2229,7 +2018,6 @@ Ford Explorer 2021 3.5L V6 Sport EcoBoost,3.5,4,365,200,ford,qatar,7,-0.08114031
 Mercedes-Benz C-Class 2021 C 350 e,2.0,4,275,209,mercedes-benz,qatar,5,-0.14405449763455339
 Toyota Sequoia 2021 5.7L Platinum,5.7,8,381,180,toyota,qatar,8,-0.14405449763455339
 BMW X1 2021 xDrive25i,2.0,4,231,235,bmw,qatar,5,-0.1365047954314396
-Chevrolet Camaro Coupe 2021 6.2L SS (A/T),6.2,8,455,250,chevrolet,qatar,4,-0.16116715596161135
 Lincoln Continental 2021 3.7L Premier,3.7,6,379,221,lincoln,qatar,5,-0.1465710650355913
 Mercedes-Benz GLC Coupe 2021 250 4MATIC,2.0,4,211,222,mercedes-benz,qatar,5,-0.1402796465329965
 Mercedes-Benz E-Class Cabriolet 2021 E 200,2.0,4,184,235,mercedes-benz,qatar,4,-0.1365047954314396
@@ -2268,7 +2056,6 @@ Porsche 718 2021 Spider,4.0,6,420,300,porsche,qatar,2,0.21027819243158696
 BMW 4 Series Convertible 2021 428i,2.0,4,245,250,bmw,qatar,4,-0.086173447410681
 BMW 2 Series Coupe 2021 M235i,3.0,6,326,250,bmw,qatar,4,-0.086173447410681
 Porsche 718 2021 Cayman S,2.5,4,350,285,porsche,qatar,2,-0.02804074044670491
-Chevrolet Silverado 2021 6.2L V8 High Country,6.2,8,420,200,chevrolet,qatar,5,-0.13700810891164716
 BMW Z4 Roadster 2021 sDrive30i,2.0,4,258,250,bmw,qatar,2,-0.0937231496137948
 BMW 2 Series Convertible 2021 m235i,3.0,4,326,250,bmw,qatar,4,-0.08869001481171894
 Land Rover Discovery 2021 3.0L V6 SE (360 HP),3.0,6,360,215,land-rover,qatar,7,-0.02351091912483664
@@ -2299,7 +2086,6 @@ Mercedes-Benz GLC Coupe 2021 300 4MATIC,2.0,4,245,236,mercedes-benz,qatar,5,-0.0
 Audi A7 2021 40 TFSI (252 HP),2.0,4,252,250,audi,qatar,5,-0.04087523419199835
 BMW 4 Series Gran Coupe 2021 435i,3.0,6,306,250,bmw,qatar,4,-0.025775829785770775
 BMW Z4 Roadster 2021 sDrive35i,3.0,6,306,250,bmw,qatar,2,-0.025775829785770775
-Chrysler 300C 2021 6.4L V8 Hemi SRT8,6.4,4,472,280,chrysler,qatar,5,-0.04339180159303628
 Audi A7 2021 40 TFSI quattro (252 HP),2.0,4,252,250,audi,qatar,5,-0.03332553198888456
 Mercedes-Benz GLC-Class 2021 43 AMG 4MATIC,3.0,6,367,250,mercedes-benz,qatar,5,-0.01319299278058113
 Toyota Land Cruiser 2021 4.6L GXR GT,4.6,8,304,200,toyota,qatar,8,-0.020742694983694916
@@ -2348,7 +2134,6 @@ BMW 5 Series 2021 530i xDrive,2.0,4,252,250,bmw,qatar,5,0.06985373145367053
 Jaguar F-Type Coupe 2021 2.0T R-Dynamic (300 PS),2.0,4,300,250,jaguar,qatar,2,0.0635623129510757
 Jaguar F-Type Coupe 2021 2.0T (300 PS),2.0,4,300,250,jaguar,qatar,2,-0.0056432905774673435
 Lotus Exige 2021 Sport 410,3.5,6,410,290,lotus,qatar,2,0.23343061252113592
-Chevrolet Camaro Coupe 2021 6.2L ZL1,6.2,8,650,250,chevrolet,qatar,4,0.017509129512081605
 BMW 5 Series 2021 535i,3.0,4,306,250,bmw,qatar,5,0.0673371640526326
 Toyota Land Cruiser 2021 4.6L VXR,4.6,8,304,200,toyota,qatar,8,0.0673371640526326
 BMW 5 Series Gran Turismo 2021 535i xDrive,3.0,6,306,250,bmw,qatar,5,0.08746970326093603
@@ -2364,11 +2149,8 @@ Jaguar XJ 2021 3.0L Luxury LWB (340 PS),3.0,6,340,250,jaguar,qatar,5,0.061800715
 Ford F-150 Raptor 2021 3.5L EcoBoost Super Cab (Luxury Range),3.5,4,422,170,ford,qatar,5,0.17303299489622562
 Jaguar XF 2021 3.0L SC S (380 PS),3.0,6,377,250,jaguar,qatar,5,-0.015457903441515267
 BMW 5 Series Gran Turismo 2021 535i,3.0,6,306,250,bmw,qatar,5,0.08746970326093603
-Dodge Challenger 2021 6.2L Hellcat Widebody A/T,6.2,8,707,314,dodge,qatar,5,0.1453507534848084
-Porsche Cayenne Coupe 2021 Turbo S E-Hybrid,4.0,8,680,295,porsche,qatar,5,1.0309308219100557
 Volvo XC90 2021 2.0T T6 AWD R Design,2.0,4,320,240,volvo,qatar,7,0.06960207471356673
 Mercedes-Benz E-Class Coupe 2021 E 500,5.5,8,408,250,mercedes-benz,qatar,4,0.14283418608377046
-Dodge Challenger 2021 6.2L Hellcat Red Eye A/T,6.2,8,797,327,dodge,qatar,5,0.3363582192235872
 Mercedes-Benz C Class Cabriolet 2021 C AMG 53 4MATIC+ Cabriolet,3.0,6,435,250,mercedes-benz,qatar,4,0.12270164687546704
 Morgan Plus 4 2021 2.0L,2.0,4,201,221,morgan,qatar,5,0.12270164687546704
 BMW 2 Series Convertible 2021 m240i,3.0,6,340,250,bmw,qatar,4,0.13276791647961875
@@ -2390,19 +2172,14 @@ Maserati Levante 2021 3.0T V6 GranLusso,3.0,6,350,251,maserati,qatar,5,0.2862785
 Mercedes-Benz C-Class 2021 C 63 AMG,4.0,8,476,250,mercedes-benz,qatar,5,0.15038388828688426
 Porsche 911 2021 Carrera,3.0,6,385,291,porsche,qatar,4,0.29206663296531965
 BMW 7 Series 2021 730Li,2.0,4,258,250,bmw,qatar,5,0.230914045120098
-Cadillac Escalade 2021 6.2L Sport Platinum,6.2,8,420,180,cadillac,qatar,8,0.31496739631476484
 BMW 6 Series Gran Coupe 2021 640i,3.0,6,320,250,bmw,qatar,5,0.230914045120098
 Mercedes-Benz SL-Class 2021 SL 400,3.0,6,367,250,mercedes-benz,qatar,2,0.23720546362269282
 Lexus GS 2021 5.0L F Platinum,5.0,8,471,270,lexus,qatar,5,0.20826493851075661
 Land Rover Range Rover Sport 2021 3.0L V6 HSE Dynamic (360 PS),3.0,6,360,209,land-rover,qatar,5,0.2903050357845931
-Cadillac Escalade 2021 6.2L Luxury,6.2,8,420,180,cadillac,qatar,8,0.09627768916456879
 Mercedes-Benz C-Class 2021 C 63 S,4.0,4,510,290,mercedes-benz,qatar,5,0.2233643429169842
-Cadillac Escalade 2021 6.2L Sport,6.2,8,420,180,cadillac,qatar,8,0.20298014696857697
 BMW M3 Sedan 2021 3.0T,3.0,6,431,250,bmw,qatar,5,0.25859628653151523
-Maserati Levante 2021 3.8T V8 Trofeo,3.8,8,590,304,maserati,qatar,5,0.9103872434003388
 Lexus RC F 2021 5.0L Carbon,5.0,8,471,270,lexus,qatar,4,0.25859628653151523
 BMW 6 Series Coupe 2021 640i,3.0,6,320,250,bmw,qatar,4,0.28124539314085656
-Lotus Evora 2021 GT430,3.5,6,430,280,lotus,qatar,4,0.8877381367909974
 Porsche 911 2021 Carrera 4,3.0,6,385,291,porsche,qatar,4,0.36404046063500456
 BMW M4 Coupe 2021 3.0T,3.0,6,431,250,bmw,qatar,4,0.29634479754708415
 BMW 5 Series Gran Turismo 2021 550i,4.4,8,450,250,bmw,qatar,5,0.27872882573981866
@@ -2429,7 +2206,6 @@ Maserati Quattroporte 2021 3.0T V6 S GranSport,3.0,6,430,285,maserati,qatar,5,0.
 Mercedes-Benz SL-Class 2021 SL 500,4.7,8,455,250,mercedes-benz,qatar,2,0.42846458610157556
 Porsche 911 2021 Targa 4,3.4,6,350,280,porsche,qatar,4,0.48382906892440997
 BMW 5 Series Gran Turismo 2021 550i xDrive,4.4,8,450,250,bmw,qatar,5,0.36429211737510836
-Mercedes-Benz C Class Cabriolet 2021 C 63 S Cabriolet,4.0,4,700,221,mercedes-benz,qatar,5,0.3844246565834118
 BMW 6 Series Coupe 2021 640i xDrive,3.0,6,320,250,bmw,qatar,4,0.3542258477709565
 Mercedes-Benz S-Class 2021 S 400,3.0,6,333,250,mercedes-benz,qatar,5,0.4221731675989807
 Porsche 911 2021 Carrera 4 Cabriolet,3.0,6,385,289,porsche,qatar,2,0.48382906892440997
@@ -2460,10 +2236,8 @@ Mercedes-Benz E 63 AMG 2021 S 4MATIC+,4.0,8,612,250,mercedes-benz,qatar,5,0.5807
 Audi RS7 2021 4.0 TFSI quattro (560 HP),4.0,8,560,250,audi,qatar,5,0.5329021332446496
 BMW 6 Series Coupe 2021 650i xDrive,4.4,8,450,250,bmw,qatar,4,0.5706506442602184
 Mercedes-Benz AMG GT 2021 4.0L,4.0,4,469,304,mercedes-benz,qatar,2,0.5580678072550288
-Aston Martin Vantage 2021 4.0T V8,4.0,8,503,314,aston-martin,qatar,2,0.9728232806200899
 Mercedes-Benz S-Class 2021 S 500,4.7,8,455,250,mercedes-benz,qatar,5,0.6519357713137435
 Mercedes-Benz S-Class 2021 S 500 e,3.0,6,442,250,mercedes-benz,qatar,5,0.6501741741330169
-Audi A8 2021 W12 6.3 FSI quattro (500 HP),6.3,12,500,250,audi,qatar,5,0.729194390525608
 Audi R8 Coupe 2021 5.2 V10,5.2,10,540,323,audi,qatar,2,0.6964790143121149
 Mercedes-Benz S-Class 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,qatar,5,0.6889293121090011
 BMW 6 Series Convertible 2021 650i xDrive,4.4,8,450,250,bmw,qatar,4,0.5932997508695598
@@ -2476,64 +2250,12 @@ Mercedes-Benz S-Class 2021 S 500 4MATIC,4.7,8,455,250,mercedes-benz,qatar,5,0.68
 Audi RS7 2021 4.0 TFSI Performance,4.0,8,605,305,audi,qatar,5,0.6159488574789012
 Porsche Panamera 2021 4S Executive,3.0,6,435,289,porsche,qatar,4,0.6680418026803863
 Maserati Quattroporte 2021 3.8T V8 GTS GranLusso,3.8,8,530,310,maserati,qatar,5,0.7417772275307976
-Mercedes-Benz S Class Cabriolet 2021 S 500 Cabriolet,4.7,8,455,250,mercedes-benz,qatar,4,0.8550227605775044
-Mercedes-Benz AMG GT 2021 4.0L S,4.0,4,514,310,mercedes-benz,qatar,2,0.7518434971349494
-Maserati GranCabrio 2021 4.7L V8 MC,4.7,4,460,291,maserati,qatar,4,0.7644263341401389
-Land Rover Range Rover 2021 5.0L V8 Autobiography (525 PS),5.0,8,525,225,land-rover,qatar,5,0.9141620945018957
 Land Rover Range Rover Sport 2021 5.0L V8 SVR (575 PS),5.0,8,575,280,land-rover,qatar,5,0.7307043309662307
-Maserati Quattroporte 2021 3.8T V8 GTS GranSport,3.8,8,530,310,maserati,qatar,5,0.7870754407494803
-Land Rover Range Rover 2021 5.0L V8 Vogue SE LWB (525 PS),5.0,8,525,225,land-rover,qatar,5,0.7712210661229414
-BMW M5 Sedan 2021 4.4T (600 HP),4.4,8,600,250,bmw,qatar,5,0.834890221369201
 Mercedes-Benz SL 63 AMG 2021 5.5L,5.5,8,585,250,mercedes-benz,qatar,2,0.7342275253276838
-Mercedes-Benz S-Class Coupe 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,qatar,4,0.759393199338063
-Mercedes-Benz AMG GT 2021 4.0L R,4.0,4,576,318,mercedes-benz,qatar,2,0.7518434971349494
 Maserati GranTurismo 2021 Sport MC Stradale,4.7,8,460,303,maserati,qatar,4,0.6864127447079631
-Audi R8 Coupe 2021 5.2 V10 Plus,5.2,10,610,330,audi,qatar,2,0.9003209737961871
-Porsche Panamera Sport Turismo 2021 Turbo,4.0,8,550,304,porsche,qatar,5,1.119262337686487
-Porsche 911 2021 Turbo S Cabriolet,3.8,6,560,318,porsche,qatar,4,1.3301506858934655
-Porsche 911 2021 Turbo S,3.8,6,560,318,porsche,qatar,4,1.21036207760406
-Porsche Panamera Sport Turismo 2021 GTS,4.0,8,460,289,porsche,qatar,5,0.7953801131729055
-BMW M6 Gran Coupe 2021 4.4T,4.4,8,560,250,bmw,qatar,4,1.0613812874626145
-McLaren 540C 2021 3.8T Coupe,3.8,8,540,221,mclaren,qatar,5,0.975817995827325
-Porsche Panamera 2021 Turbo Executive,4.0,8,550,306,porsche,qatar,4,1.1940043894973134
-BMW 7 Series 2021 760Li,6.0,12,544,250,bmw,qatar,5,1.1972759271186628
-Porsche Panamera 2021 GTS,4.0,8,460,292,porsche,qatar,4,0.7747442604843945
-Mercedes-Benz S-Class 2021 S 600,6.0,12,530,250,mercedes-benz,qatar,4,1.0035002372387423
-Land Rover Range Rover 2021 5.0L V8 Autobiography LWB (525 PS),5.0,8,525,250,land-rover,qatar,4,0.9783345632283629
-BMW M6 Convertible 2021 4.4T,4.4,8,560,250,bmw,qatar,4,1.0638978548636524
-Mercedes-Benz S 63 AMG 2021 4.0L 4MATIC+,4.0,8,612,250,mercedes-benz,qatar,5,1.084030394071956
-Porsche Panamera 2021 Turbo,4.0,8,550,306,porsche,qatar,4,1.0986264849979759
-BMW M6 Coupe 2021 4.4T,4.4,8,560,250,bmw,qatar,4,0.9607185914210974
-Mercedes-Benz S 63 AMG Coupe 2021 4.0L 4MATIC+,4.0,4,601,250,mercedes-benz,qatar,4,1.2123753315248904
-McLaren 570S Spider 2021 3.8T,3.8,8,600,221,mclaren,qatar,5,1.2903889209570663
-BMW i8 2021 Plug-in Hybrid,1.5,3,570,221,bmw,qatar,5,1.302971757962256
-McLaren 570 GT 2021 3.8T Coupe,3.8,8,562,328,mclaren,qatar,2,1.2148918989259283
-Mercedes-Benz SL 65 AMG 2021 6.0L,6.0,12,630,250,mercedes-benz,qatar,2,1.300455190561218
-Bentley Continental GT 2021 4.0T V8,6.0,8,542,318,bentley,qatar,4,1.4665486390297213
-Mercedes-Benz S Class Cabriolet 2021 S63 4MATIC+,4.0,8,612,250,mercedes-benz,qatar,4,1.267739814347725
-McLaren 570S 2021 3.8T Coupe,3.8,8,562,333,mclaren,qatar,2,1.2073421967228144
-Bentley Continental GT Convertible 2021 V8,4.0,8,542,301,bentley,qatar,4,1.5672113350712384
-Bentley Flying Spur 2021 4.0T V8,4.0,8,542,318,bentley,qatar,5,1.5168799870504799
-BMW 7 Series 2021 M760Li xDrive,6.6,12,585,250,bmw,qatar,5,1.1972759271186628
-Mercedes-Benz Maybach 2021 S 650,6.0,12,630,250,mercedes-benz,qatar,4,1.295422055759142
-Mercedes-Benz Maybach 2021 62 LWB,6.0,4,530,250,mercedes-benz,qatar,4,1.295422055759142
-Porsche Panamera 2021 Turbo S E-Hybrid,4.0,8,680,310,porsche,qatar,4,1.4101775292464718
-Porsche Panamera 2021 Turbo S E-Hybrid Executive,4.0,8,680,310,porsche,qatar,4,1.5055554337458092
-Bentley Bentayga 2021 4.0L V8 Design Series,4.0,8,542,290,bentley,qatar,5,1.8440337491854106
-Bentley Bentayga 2021 4.0L V8,4.0,8,542,290,bentley,qatar,5,1.3407202689778248
-Mercedes-Benz S Class Cabriolet 2021 S 65,6.0,12,630,250,mercedes-benz,qatar,4,1.831450912180221
-Mercedes-Benz S 65 AMG Coupe 2021 6.0L,6.0,4,630,250,mercedes-benz,qatar,4,1.8440337491854106
-Aston Martin Rapide AMR 2021 6.0L V12,5.9,12,590,330,aston-martin,qatar,4,1.8113057901349126
-McLaren 720S 2021 4.0T Coupe,4.0,8,770,221,mclaren,qatar,5,2.146021837309962
-Bentley Bentayga 2021 6.0L W12 Speed,6.0,12,626,301,bentley,qatar,5,2.3473472293929967
-Bentley Continental GT Convertible 2021 W12,6.0,12,567,314,bentley,qatar,4,2.0956904892892037
-Mercedes-Benz S 65 AMG 2021 6.0L V12 (630 HP),6.0,12,630,250,mercedes-benz,qatar,5,1.6779403007169074
-Aston Martin DB11 2021 AMR V12,5.2,12,630,335,aston-martin,qatar,4,1.7636797520702698
 Peugeot Expert 2021 Combi L3 A/T (6 seater),2.0,4,120,170,peugeot,oman,6,-0.438679295956068
 JAC S4 2021 1.5T Deluxe,1.5,4,147,170,jac,oman,5,-0.49807587899256545
 Peugeot Traveller 2021 L3 VIP,2.0,4,180,221,peugeot,oman,5,-0.34295652851658825
-Aston Martin DB11 AMR 2021 5.2T V12,5.2,12,700,221,aston-martin,oman,5,1.808236975998647
-Aston Martin DBS Superleggera 2021 5.2T V12,5.2,12,900,221,aston-martin,oman,5,2.3137743561391497
 Toyota Highlander 2021 2.5L Hybrid Limited (AWD),2.5,4,292,221,toyota,oman,7,-0.21936510726561442
 Honda HR-V 2021 1.8 i-VTEC DX,1.8,4,140,190,honda,oman,5,-0.5150151737875519
 Honda HR-V 2021 1.8 i-VTEC EX,1.8,4,140,190,honda,oman,5,-0.45685450496356417
@@ -2554,7 +2276,6 @@ Toyota Supra 2021 3.0T GR,3.0,6,382,250,toyota,oman,2,-0.11516057562263649
 Kia Soul 2021 1.6L MPI A/T,1.6,4,124,221,kia,oman,5,-0.5028983677825545
 Volkswagen Passat 2021 2.5L Highline,2.5,4,170,190,volkswagen,oman,5,-0.3696135017275826
 Volkswagen Passat 2021 2.5L Comfortline,2.5,4,170,190,volkswagen,oman,5,-0.38415366893357955
-Chevrolet Corvette 2021 6.2L 3LT Coupe,6.2,8,495,312,chevrolet,oman,2,0.01570092923133583
 Land Rover Range Rover Evoque 2021 2.0T R-Dynamic HSE (250 PS),2.0,4,250,230,land-rover,oman,5,-0.07517511580614494
 MG HS 2021 2.0T Luxury (AWD),2.0,4,231,210,mg,oman,5,-0.44355025197007697
 Land Rover Range Rover Evoque 2021 2.0T R-Dynamic HSE (300 PS),2.0,4,300,242,land-rover,oman,5,-0.04585244527405114
@@ -2570,9 +2291,6 @@ Jaguar I-Pace 2021 EV400 SE (AWD),0.0,4,292,221,jaguar,oman,5,0.1787931380586013
 Jaguar I-Pace 2021 EV400 HSE (AWD),0.0,4,292,221,jaguar,oman,5,0.2633684439734834
 Lincoln Nautilus 2021 2.7T V6 Select (335 Hp),2.7,6,335,250,lincoln,oman,5,-0.1272773816276339
 Kia Niro 2021 1.6L HEV,1.6,4,139,172,kia,oman,5,-0.44231433775756723
-Ferrari SF90 Stradale 2021 4.0T V8 Plug-in-Hybrid,4.0,8,25,800,ferrari,oman,5,3.9318526300465075
-McLaren 600LT 2021 3.8T V8 Coupe,0.0,8,592,328,mclaren,oman,5,1.750827549146969
-McLaren Senna 2021 4.0T V8 Coupe,4.0,8,800,335,mclaren,oman,2,11.444272353144918
 Mazda CX-30 2021 2.0L Classic AWD,2.0,4,155,192,mazda,oman,5,-0.40596391974257495
 MG 6 2021 1.5T COM,1.5,4,169,180,mg,oman,5,-0.5058548684477738
 Mazda CX-30 2021 2.0L Signature AWD,2.0,4,155,192,mazda,oman,5,-0.3877887107350788
@@ -2586,8 +2304,6 @@ Lincoln Crosair 2021 2.0T Reserve,2.0,4,245,221,lincoln,oman,5,-0.19028477285362
 Toyota C HR 2021 1.8L GX Hybrid,1.8,4,121,170,toyota,oman,5,-0.44716106015956625
 Lincoln Crosair 2021 2.0T Base,2.0,4,245,221,lincoln,oman,5,-0.22905855206961237
 Toyota C HR 2021 1.8L VX Hybrid,1.8,4,121,170,toyota,oman,5,-0.4301975317525698
-McLaren 765LT 2021 4.0T V8,4.0,8,755,330,mclaren,oman,2,2.7577341281622556
-Ferrari F8 Tributo 2021 3.9T V8,3.9,8,710,340,ferrari,oman,2,1.750827549146969
 Kia Picanto 2021 1.2L Base,1.2,4,84,161,kia,oman,5,-0.5683291202095406
 Mitsubishi Mirage 2021 1.2 GLX HL,1.2,3,77,167,mitsubishi,oman,5,-0.5248297866515998
 Mitsubishi Mirage 2021 1.2 GLX,1.2,3,77,167,mitsubishi,oman,5,-0.5320998702545983
@@ -2837,7 +2553,6 @@ Infiniti Q30 2021 2.0T Premium,2.0,4,208,230,infiniti,oman,5,-0.3211462777075929
 Lexus CT 2021 200h Premier,1.8,4,134,180,lexus,oman,5,-0.3211462777075929
 Mazda CX-9 2021 2.5T Classic (4x2),2.5,4,226,210,mazda,oman,7,-0.31205867320384484
 Audi A3 Sedan 2021 S3 (292 HP),2.0,4,280,250,audi,oman,5,-0.31387619410459444
-Chevrolet Silverado 2021 6.6L LTZ (Heavy Duty),6.6,8,401,180,chevrolet,oman,6,-0.23875199687361032
 Audi Q3 2021 35 TFSI Design quattro (150 HP),1.4,4,150,217,audi,oman,5,-0.31387619410459444
 Mitsubishi Pajero 2021 3.8L GLS 5 Door high,3.8,6,250,200,mitsubishi,oman,7,-0.23160308133066185
 Infiniti Q30 2021 2.0T Sport (AWD),2.0,4,208,230,infiniti,oman,5,-0.2872192208936001
@@ -2868,7 +2583,6 @@ Nissan Maxima 2021 3.5L SV,3.5,6,300,211,nissan,oman,5,-0.32599300010959187
 Land Rover Discovery Sport 2021 2.0T S (AWD),2.0,4,240,200,land-rover,oman,5,-0.216699409944515
 Chevrolet Silverado 2021 5.3 V8 LTZ,5.3,8,355,180,chevrolet,oman,6,-0.21209502366261596
 Audi A3 Sportback 2021 S3 (286 HP) quattro,2.0,4,286,250,audi,oman,5,-0.2775257760896021
-Dodge Charger 2021 6.4L R/T Scatpack,6.4,8,485,281,dodge,oman,5,-0.21209502366261596
 Mercedes-Benz CLA-Class 2021 CLA 250,2.0,4,211,240,mercedes-benz,oman,5,-0.27267905368760315
 Lexus CT 2021 200h Prestige,1.8,4,134,182,lexus,oman,5,-0.27025569248660364
 Toyota FJ Cruiser 2021 4.0L Extreme,4.0,6,275,180,toyota,oman,5,-0.27267905368760315
@@ -2881,7 +2595,6 @@ Audi A4 2021 40 TFSI Design (190 HP),2.0,4,190,240,audi,oman,5,-0.27025569248660
 Ford Expedition EL 2021 3.5L EcoBoost XL,3.5,4,365,160,ford,oman,8,-0.23632863567261084
 Nissan 370Z 2021 Coupe A/T,3.7,6,328,250,nissan,oman,2,-0.21451838486361546
 Mini Hatch 2021 3-Door Cooper S,2.0,4,192,235,mini,oman,4,-0.23632863567261084
-Chevrolet Silverado 2021 6.6L LT (Heavy Duty),6.6,8,401,180,chevrolet,oman,6,-0.3162995553055939
 Mini Countryman 2021 Cooper S ALL4,2.0,4,192,225,mini,oman,5,-0.1878614116526211
 Nissan Patrol Safari 2021 Super Safari M/T,4.8,6,280,190,nissan,oman,7,-0.2266351908686129
 Jeep Grand Cherokee 2021 3.6L Trailhawk,3.6,6,290,190,jeep,oman,5,-0.10304376961763904
@@ -2946,7 +2659,6 @@ Audi A5 Coupe 2021 40 TFSI Sport (190 HP),2.0,4,190,240,audi,oman,4,-0.195131495
 Mini Hatch 2021 John Cooper Works (3-Door),2.0,4,231,246,mini,oman,4,-0.19997821765761853
 Mercedes-Benz C-Class Coupe 2021 C 250,2.0,4,211,240,mercedes-benz,oman,4,-0.17574460564762365
 Lexus RX 2021 350 Premium,3.5,4,296,200,lexus,oman,5,-0.1878614116526211
-Chevrolet Silverado 2021 6.2L V8 High Country,6.2,8,420,200,chevrolet,oman,5,-0.13697082643163186
 Infiniti QX60 2021 3.5L Luxe Sensory,3.5,6,295,195,infiniti,oman,7,-0.19270813405462006
 Mercedes-Benz E-Class Saloon 2021 E 200,2.0,4,184,240,mercedes-benz,oman,5,-0.17780446266847322
 Land Rover Discovery Sport 2021 2.0T HSE (AWD),2.0,4,240,200,land-rover,oman,5,-0.09819704721564007
@@ -2961,7 +2673,6 @@ Audi TT 2021 45 TFSI quattro (230 HP),2.0,4,230,250,audi,oman,2,-0.1708978832456
 Porsche 718 2021 Cayman,2.0,4,300,275,porsche,oman,2,-0.1297007428286334
 Audi A5 Cabriolet 2021 35 TFSI (170 HP),1.8,4,170,213,audi,oman,4,-0.1660511608436257
 BMW X3 2021 sDrive 20i,2.0,4,184,210,bmw,oman,5,-0.16362779964262622
-Chevrolet Camaro Convertible 2021 6.2L SS,6.2,8,455,250,chevrolet,oman,4,-0.11516057562263649
 Mercedes-Benz SLC 2021 300,2.0,4,245,250,mercedes-benz,oman,2,-0.169443866525025
 Chrysler 300C 2021 5.7L Alloy Edition,5.7,8,370,234,chrysler,oman,5,-0.17574460564762365
 Lexus RX 2021 350 Premier Plus,3.5,4,275,200,lexus,oman,5,-0.16362779964262622
@@ -2971,7 +2682,6 @@ Ford Expedition EL 2021 3.5L EcoBoost XLT,3.5,4,365,160,ford,oman,8,-0.115160575
 Audi A5 Sportback 2021 3.0L (272 HP),3.0,6,272,250,audi,oman,5,-0.16362779964262622
 BMW 2 Series Convertible 2021 228i,2.0,4,245,250,bmw,oman,4,-0.15878107724062726
 BMW Z4 Roadster 2021 sDrive20i,2.0,4,197,240,bmw,oman,2,-0.16362779964262622
-Chevrolet Camaro Coupe 2021 6.2L SS (A/T),6.2,8,455,250,chevrolet,oman,4,-0.1515109936376288
 Infiniti Q50 2021 3.5L Hybrid Blue Sport,3.5,6,350,250,infiniti,oman,5,-0.11516057562263649
 Jeep Grand Cherokee 2021 Summit 5.7L,5.7,8,350,181,jeep,oman,5,-0.06911671280364622
 BMW 4 Series Gran Coupe 2021 428i,2.0,4,245,250,bmw,oman,4,-0.1515109936376288
@@ -3026,7 +2736,6 @@ Porsche 718 2021 Cayman S,2.5,4,350,285,porsche,oman,2,-0.032766294788653914
 BMW 3 Series 2021 335i,3.0,6,306,250,bmw,oman,5,-0.08123351880864366
 BMW 1 Series 2021 m135i,3.0,6,326,250,bmw,oman,5,-0.07881015760764416
 BMW Z4 Roadster 2021 sDrive30i,2.0,4,258,250,bmw,oman,2,-0.10304376961763904
-Chevrolet Camaro Coupe 2021 6.2L ZL1,6.2,8,650,250,chevrolet,oman,4,0.030241096437332755
 BMW 2 Series Convertible 2021 m235i,3.0,4,326,250,bmw,oman,4,-0.0933503248136411
 Mercedes-Benz E-Class Saloon 2021 E 63 S 4MATIC+,4.0,4,612,250,mercedes-benz,oman,5,-0.09577368601464058
 Porsche 718 2021 Boxster S,2.5,4,350,285,porsche,oman,2,0.0011607620253389092
@@ -3042,11 +2751,9 @@ Volvo XC90 2021 2.0T T5 AWD Momentum,2.0,4,254,240,volvo,oman,5,-0.1030437696176
 Mercedes-Benz CLA-Class 2021 CLA 45 S AMG 4MATIC+,2.0,4,421,250,mercedes-benz,oman,5,-0.05215318439664981
 BMW 4 Series Gran Coupe 2021 435i,3.0,6,306,250,bmw,oman,4,-0.04488310079365135
 Audi A7 2021 40 TFSI (252 HP),2.0,4,252,250,audi,oman,5,-0.030342933587654424
-Chrysler 300C 2021 6.4L V8 Hemi SRT8,6.4,4,472,280,chrysler,oman,5,-0.06911671280364622
 Land Rover Discovery 2021 2.0T SE (300 HP),2.0,4,300,201,land-rover,oman,7,-0.05869625963934843
 BMW 5 Series 2021 528i,2.0,4,245,250,bmw,oman,5,-0.030342933587654424
 Mercedes-Benz E-Class Saloon 2021 E 300,2.0,4,245,250,mercedes-benz,oman,5,-0.03325096702885381
-Dodge Charger 2021 SRT8,6.4,8,470,281,dodge,oman,5,-0.04245973959265186
 Mercedes-Benz SLC 2021 43 AMG,3.0,6,367,250,mercedes-benz,oman,2,-0.047306461994650835
 Audi A5 Cabriolet 2021 S5 50 TFSI (354 HP),3.0,6,354,250,audi,oman,4,-0.04245973959265186
 Mercedes-Benz E-Class Coupe 2021 E 320,3.0,6,400,221,mercedes-benz,oman,5,-0.047306461994650835
@@ -3111,12 +2818,10 @@ Audi Q7 2021 40 TFSI Design quattro (252 HP),2.0,4,252,210,audi,oman,5,0.0956718
 Lexus LS 2021 460 Premier (SWB),4.6,8,382,250,lexus,oman,5,0.12717554447731225
 Land Rover Range Rover Sport 2021 3.0L V6 HSE (360 PS),3.0,6,360,210,land-rover,oman,5,0.2900254171844778
 Audi A8 2021 50 TFSI quattro (333 HP),3.0,6,333,250,audi,oman,5,0.14898579528630762
-Dodge Challenger 2021 6.2L Hellcat Widebody A/T,6.2,8,707,314,dodge,oman,5,0.13929235048230967
 BMW 2 Series Convertible 2021 m240i,3.0,6,340,250,bmw,oman,4,0.12717554447731225
 Audi Q7 2021 45 TFSI Design quattro (333 HP),3.0,6,333,250,audi,oman,5,0.14656243408530814
 Lincoln Continental 2021 3.0T Presidential,3.0,6,400,250,lincoln,oman,5,0.12717554447731225
 Mercedes-Benz C-Class 2021 C 450,3.0,6,362,250,mercedes-benz,oman,5,0.12717554447731225
-Dodge Challenger 2021 6.2L Hellcat Red Eye A/T,6.2,8,797,327,dodge,oman,5,0.29681082854727636
 Mercedes-Benz CLS-Class 2021 CLS 350,2.0,4,299,250,mercedes-benz,oman,4,0.14171571168330918
 Porsche Cayenne Coupe 2021 E-Hybrid,3.0,6,462,253,porsche,oman,5,0.2822706613412794
 Morgan Plus 8 2021 4.8L Manual,4.8,8,490,221,morgan,oman,5,0.1320222668793112
@@ -3125,7 +2830,6 @@ Volvo XC90 2021 2.0T T6 AWD Inscription,2.0,4,320,240,volvo,oman,7,0.00600748442
 Lexus LX 2021 570 Premier,5.7,8,362,220,lexus,oman,8,0.19987638050729686
 Jaguar XJ 2021 3.0L Premium Luxury LWB (340 PS),3.0,4,340,250,jaguar,oman,5,0.15552887052900624
 BMW 5 Series 2021 550i,4.4,4,450,250,bmw,oman,5,0.18775957450229944
-Porsche Cayenne Coupe 2021 Turbo S E-Hybrid,4.0,8,680,295,porsche,oman,5,1.021395827646123
 Mercedes-Benz GLE-Class 2021 GLE 500 4MATIC,4.7,8,455,250,mercedes-benz,oman,5,0.18848658286259928
 Mercedes-Benz E-Class Saloon 2021 E 43 4MATIC,3.0,4,401,250,mercedes-benz,oman,5,0.1538325176883066
 Maserati Levante 2021 3.0T V6 GranLusso,3.0,6,350,251,maserati,oman,5,0.2483436045272866
@@ -3140,12 +2844,10 @@ Mercedes-Benz GLS 2021 500 4MATIC,4.6,8,455,250,mercedes-benz,oman,7,0.226533353
 Lexus RC F 2021 5.0L Carbon,5.0,8,471,270,lexus,oman,4,0.2483436045272866
 BMW 6 Series Coupe 2021 640i,3.0,6,320,250,bmw,oman,4,0.2483436045272866
 Mercedes-Benz SL-Class 2021 SL 400,3.0,6,367,250,mercedes-benz,oman,2,0.2527056546890857
-Cadillac Escalade 2021 6.2L Platinum,6.2,8,420,180,cadillac,oman,8,0.260460410532284
 BMW 7 Series 2021 730Li,2.0,4,258,250,bmw,oman,5,0.22410999251729175
 Porsche 911 2021 Carrera,3.0,6,385,291,porsche,oman,4,0.3016575509492753
 Porsche Cayenne Coupe 2021 GTS,3.6,6,440,261,porsche,oman,5,0.46886947381823996
 Lexus LS 2021 460 Platinum (SWB),4.6,8,382,250,lexus,oman,5,0.27257721653728145
-Maserati Levante 2021 3.8T V8 Trofeo,3.8,8,590,304,maserati,oman,5,0.926884740807143
 BMW M4 Coupe 2021 3.0T,3.0,6,431,250,bmw,oman,4,0.28469402254227894
 Land Rover Range Rover Sport 2021 5.0L V8 HSE Dynamic (525 PS),5.0,8,525,250,land-rover,oman,5,0.5391469486472251
 BMW 5 Series Gran Turismo 2021 550i,4.4,8,450,250,bmw,oman,5,0.27257721653728145
@@ -3192,7 +2894,6 @@ BMW 6 Series Gran Coupe 2021 650i,4.4,8,450,250,bmw,oman,4,0.4422125006072456
 Mercedes-Benz GLE-Class 2021 GLE 63 S 4MATIC,5.5,8,585,250,mercedes-benz,oman,5,0.5024330264520829
 Porsche Panamera 2021 4S,2.9,6,440,289,porsche,oman,4,0.6021543398732118
 Maserati GranTurismo 2021 4.7L V8 MC,4.7,8,460,301,maserati,oman,4,0.7451326507321815
-Aston Martin Vantage 2021 4.0T V8,4.0,8,503,314,aston-martin,oman,2,1.002954048906517
 Maserati GranTurismo 2021 4.7L V8 Sport,4.7,8,460,299,maserati,oman,4,0.5270301426422277
 Porsche 911 2021 Targa 4S,3.8,6,400,280,porsche,oman,4,0.6990887879131913
 Porsche Panamera Sport Turismo 2021 4 E-Hybrid,2.9,6,462,275,porsche,oman,5,0.553687115853222
@@ -3222,91 +2923,24 @@ Mercedes-Benz S-Class 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,oman,5,0.713
 Audi S8 2021 Plus 4.0 TFSI quattro (605 HP),4.0,8,605,250,audi,oman,5,0.742709289531182
 Mercedes-Benz S-Class 2021 S 500 4MATIC,4.7,8,455,250,mercedes-benz,oman,5,0.7130231148189383
 Maserati GranCabrio 2021 4.7L V8 Sport,4.7,8,460,288,maserati,oman,4,0.6966654267121918
-Land Rover Range Rover 2021 5.0L V8 Vogue SE (525 PS),5.0,8,525,225,land-rover,oman,5,0.7504640453743804
-Mercedes-Benz SL 63 AMG 2021 5.5L,5.5,8,585,250,mercedes-benz,oman,2,0.7577341289773788
-Audi A8 2021 W12 6.3 FSI quattro (500 HP),6.3,12,500,250,audi,oman,5,0.7572494567371789
 Audi R8 Coupe 2021 5.2 V10,5.2,10,540,323,audi,oman,2,0.7257457611241855
-Mercedes-Benz AMG GT 2021 4.0L R,4.0,4,576,318,mercedes-benz,oman,2,0.7763940102250749
 Lexus LS 2021 600h Ottoman (LWB),5.0,8,438,250,lexus,oman,4,0.7330158447271841
-Mercedes-Benz AMG GT 2021 4.0L S,4.0,4,514,310,mercedes-benz,oman,2,0.7763940102250749
 Porsche 911 2021 Carrera 4 GTS Cabrio,3.0,6,550,221,porsche,oman,5,0.6942420655111923
 Porsche 911 2021 GT3,3.8,6,475,315,porsche,oman,2,0.6990887879131913
-Land Rover Range Rover 2021 5.0L V8 Vogue SE LWB (525 PS),5.0,8,525,225,land-rover,oman,5,0.8081400419581681
-Land Rover Range Rover Sport 2021 5.0L V8 SVR (575 PS),5.0,8,575,280,land-rover,oman,5,0.8178334867621662
-BMW M6 Convertible 2021 4.4T,4.4,8,560,250,bmw,oman,4,1.0480528008571175
-Land Rover Range Rover 2021 5.0L V8 Autobiography LWB (525 PS),5.0,8,525,250,land-rover,oman,4,1.0175184497245238
-Maserati GranCabrio 2021 4.7L V8 MC,4.7,4,460,291,maserati,oman,4,0.8178334867621662
-BMW M5 Sedan 2021 4.4T (600 HP),4.4,8,600,250,bmw,oman,5,0.8299502927671636
-Mercedes-Benz S-Class Coupe 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,oman,4,0.7847546063685231
-Mercedes-Benz S-Class 2021 S 600,6.0,12,530,250,mercedes-benz,oman,4,1.0316951127503708
-Maserati Quattroporte 2021 3.8T V8 GTS GranLusso,3.8,8,530,310,maserati,oman,5,0.8663007107821559
-Porsche 911 2021 Turbo Cabriolet,3.8,6,520,315,porsche,oman,4,1.026242550048122
-Maserati Quattroporte 2021 3.8T V8 GTS GranSport,3.8,8,530,310,maserati,oman,5,0.9147679348021456
-BMW M6 Coupe 2021 4.4T,4.4,8,560,250,bmw,oman,4,0.9511183528171379
-Land Rover Range Rover 2021 5.0L V8 Autobiography (525 PS),5.0,8,525,225,land-rover,oman,5,0.9525723695377376
 Nissan GT-R 2021 Black Edition,3.8,6,565,315,nissan,oman,4,0.6675850923001979
-Audi R8 Coupe 2021 5.2 V10 Plus,5.2,10,610,330,audi,oman,2,0.926884740807143
-Porsche 911 2021 Turbo,3.8,6,520,315,porsche,oman,4,0.9050744899981477
-McLaren 570 GT 2021 3.8T Coupe,3.8,8,562,328,mclaren,oman,2,1.2419216969370765
-BMW 7 Series 2021 M760Li xDrive,6.6,12,585,250,bmw,oman,5,1.1692208609070918
-Porsche Panamera Sport Turismo 2021 GTS,4.0,8,460,289,porsche,oman,5,0.8105634031591676
-Porsche 911 2021 Turbo S,3.8,6,560,318,porsche,oman,4,1.2298048909320791
-BMW 7 Series 2021 760Li,6.0,12,544,250,bmw,oman,5,1.1692208609070918
-Porsche Panamera Sport Turismo 2021 Turbo,4.0,8,550,304,porsche,oman,5,1.1377171652940985
-Mercedes-Benz S 63 AMG 2021 4.0L 4MATIC+,4.0,8,612,250,mercedes-benz,oman,5,1.1137258894042035
-Porsche Panamera 2021 Turbo,4.0,8,550,306,porsche,oman,4,1.115906914485103
-Mercedes-Benz S 63 AMG Coupe 2021 4.0L 4MATIC+,4.0,4,601,250,mercedes-benz,oman,4,1.244345058138076
-Porsche Panamera 2021 Turbo Executive,4.0,8,550,306,porsche,oman,4,1.2128413625250825
-BMW M6 Gran Coupe 2021 4.4T,4.4,8,560,250,bmw,oman,4,1.0480528008571175
-McLaren 540C 2021 3.8T Coupe,3.8,8,540,221,mclaren,oman,5,1.0480528008571175
-McLaren 570S 2021 3.8T Coupe,3.8,8,562,333,mclaren,oman,2,1.2419216969370765
-Porsche Panamera 2021 GTS,4.0,8,460,292,porsche,oman,4,0.7887531523501723
-Porsche 911 2021 Turbo S Cabriolet,3.8,6,560,318,porsche,oman,4,1.3509729509820534
-Porsche Panamera 2021 Turbo S E-Hybrid Executive,4.0,8,680,310,porsche,oman,4,1.527878318655016
-Nissan GT-R 2021 Nismo,3.8,6,600,350,nissan,oman,4,1.2903889209570663
-BMW i8 2021 Plug-in Hybrid,1.5,3,570,221,bmw,oman,5,1.2903889209570663
-Bentley Continental GT 2021 4.0T V8,6.0,8,542,318,bentley,oman,4,1.4600242050270305
-Mercedes-Benz Maybach 2021 S 650,6.0,12,630,250,mercedes-benz,oman,4,1.3298897085333579
-Nissan GT-R 2021 Track Edition,3.8,6,600,350,nissan,oman,4,0.7814830687471738
-Mercedes-Benz Maybach 2021 62 LWB,6.0,4,530,250,mercedes-benz,oman,4,1.3298897085333579
-Mercedes-Benz SL 65 AMG 2021 6.0L,6.0,12,630,250,mercedes-benz,oman,2,1.3344940948152568
-McLaren 570S Spider 2021 3.8T,3.8,8,600,221,mclaren,oman,5,1.314622532967061
-Aston Martin Rapide AMR 2021 6.0L V12,5.9,12,590,330,aston-martin,oman,4,1.8567284336306464
-Porsche Panamera 2021 Turbo S E-Hybrid,4.0,8,680,310,porsche,oman,4,1.4309438706150366
-Bentley Continental GT Convertible 2021 V8,4.0,8,542,301,bentley,oman,4,1.3873233689970457
-Mercedes-Benz S 65 AMG 2021 6.0L V12 (630 HP),6.0,12,630,250,mercedes-benz,oman,5,1.7175063326332258
-Rolls Royce Ghost 2021 6.75T Short Wheelbase,6.8,12,571,250,rolls-royce,oman,5,2.1143317292968917
-Bentley Bentayga 2021 6.0L W12 Speed,6.0,12,626,301,bentley,oman,5,2.2354997893468664
-Bentley Bentayga 2021 4.0L V8,4.0,8,542,290,bentley,oman,5,1.3630897569870508
-Bentley Bentayga 2021 6.0L W12,6.0,12,600,301,bentley,oman,5,1.6296594890969944
-McLaren 720S 2021 4.0T Coupe,4.0,8,770,221,mclaren,oman,5,1.9931636692469175
-Mercedes-Benz S 65 AMG Coupe 2021 6.0L,6.0,4,630,250,mercedes-benz,oman,4,1.8945328683662384
-Bentley Continental GT Convertible 2021 W12,6.0,12,567,314,bentley,oman,4,1.9931636692469175
-Bentley Bentayga 2021 4.0L V8 Design Series,4.0,8,542,290,bentley,oman,5,1.6296594890969944
-Bentley Bentayga 2021 6.0L W12 Mulliner,6.0,12,600,301,bentley,oman,5,3.204844269746661
-Rolls Royce Wraith 2021 6.6L Base,6.6,12,624,250,rolls-royce,oman,4,2.7201720295467635
-Ferrari GTC4Lusso 2021 3.9T V8,3.9,8,610,320,ferrari,oman,4,1.896229221206938
-Bentley Flying Spur 2021 6.0T W12,6.0,12,626,333,bentley,oman,5,2.5990039694967892
-Ferrari GTC4Lusso 2021 6.3L V12,6.3,12,690,335,ferrari,oman,4,2.45360229743682
-Aston Martin DB11 AMR 2021 5.2T V12,5.2,12,700,221,aston-martin,kuwait,5,1.8104096125215428
 Honda HR-V 2021 1.8 i-VTEC EX,1.8,4,140,190,honda,kuwait,5,-0.4633789389662551
-Aston Martin DBS Superleggera 2021 5.2T V12,5.2,12,900,221,aston-martin,kuwait,5,2.316502501614275
 Honda HR-V 2021 1.8 i-VTEC DX,1.8,4,140,190,honda,kuwait,5,-0.5221883229425104
 Geely Azkarra 2021 1.5TD Comfort (2WD),1.5,3,177,200,geely,kuwait,5,-0.4956748872795752
 MG HS 2021 2.0T Comfort,2.0,4,231,210,mg,kuwait,5,-0.47263711081607357
 Hyundai Palisade 2021 3.8L GDi (FWD) Premium,3.8,6,355,221,hyundai,kuwait,5,-0.3265056342098033
 Hyundai Palisade 2021 3.8L GDi (FWD) Comfort,3.8,6,355,221,hyundai,kuwait,5,-0.3418846572161462
 MG HS 2021 2.0T Luxury (AWD),2.0,4,231,210,mg,kuwait,5,-0.44495486940465634
-Lotus Evija 2021 2000 kW (Type 130),0.0,4,1973,320,lotus,kuwait,2,19.89168075130895
-Chevrolet Corvette 2021 6.2L 2LT Convertible,6.2,8,495,312,chevrolet,kuwait,2,0.32710284355976993
 Land Rover Range Rover Evoque 2021 2.0T S (200 PS) AWD,2.0,4,200,216,land-rover,kuwait,5,-0.10350980061783126
-Chevrolet Corvette 2021 6.2L 3LT Coupe,6.2,8,495,312,chevrolet,kuwait,2,0.26558675153439837
 BMW X2 2021 sDrive20i,2.0,4,189,180,bmw,kuwait,5,-0.1419573581336885
 Peugeot 508 2021 1.6T GT Line,1.6,4,165,220,peugeot,kuwait,5,-0.3741806055294663
 GAC GS7 2021 2.0T GL,2.0,4,201,200,gac,kuwait,5,-0.4333283280118611
 BMW X7 2021 XDrive40i,3.0,6,340,245,bmw,kuwait,5,0.5116511196358847
 BMW X2 2021 sDrive20i (M sport X package),2.0,4,189,180,bmw,kuwait,5,-0.1265783351273456
-Ferrari SF90 Stradale 2021 4.0T V8 Plug-in-Hybrid,4.0,8,25,800,ferrari,kuwait,5,4.202616641158181
 Maxus D90 2021 2.0T Executive Luxury (4WD),2.0,4,225,175,maxus,kuwait,7,-0.38033221473200346
 Maxus D90 2021 2.0T Elite (2WD),2.0,4,225,185,maxus,kuwait,7,-0.46750051713195495
 BMW X7 2021 XDrive50i,4.4,8,462,245,bmw,kuwait,5,0.6654413496993138
@@ -3322,10 +2956,8 @@ Hongqi HS5 2021 2.0T Comfort,2.0,4,224,210,hongqi,kuwait,5,-0.40647655384278636
 Hongqi HS5 2021 2.0T Deluxe,2.0,4,224,210,hongqi,kuwait,5,-0.3757185078301006
 Hongqi HS5 2021 2.0T Premium,2.0,4,224,210,hongqi,kuwait,5,-0.3449604618174148
 Soueast DX7 2021 1.8T Prime,1.5,4,195,180,soueast,kuwait,5,-0.4802958642732323
-Ferrari F8 Tributo 2021 3.9T V8,3.9,8,710,340,ferrari,kuwait,2,1.8926873856054773
 Lincoln Crosair 2021 2.0T Base,2.0,4,245,221,lincoln,kuwait,5,-0.30346785774630164
 Lincoln Crosair 2021 2.0T Reserve,2.0,4,245,221,lincoln,kuwait,5,-0.27267905368760315
-McLaren 765LT 2021 4.0T V8,4.0,8,755,330,mclaren,kuwait,2,2.7499141279790305
 Ford Figo 2021 1.4L,1.4,4,84,169,ford,kuwait,5,-0.5771837092131926
 Chery Arrizo 3 2021 1.5L Comfort,1.5,4,107,175,chery,kuwait,5,-0.5802595138144612
 Mitsubishi Mirage 2021 1.2 GLX,1.2,3,77,167,mitsubishi,kuwait,5,-0.5833660764617424
@@ -3654,15 +3286,12 @@ Audi A3 Sportback 2021 S3 (286 HP) quattro,2.0,4,286,250,audi,kuwait,5,-0.288058
 Nissan Maxima 2021 3.5L SV,3.5,6,300,211,nissan,kuwait,5,-0.3803629727780162
 Toyota Land Cruiser Prado 2021 4.0L GXR,4.0,6,271,200,toyota,kuwait,7,-0.27267905368760315
 Chevrolet Silverado 2021 4.3L V6 WT,5.3,6,285,180,chevrolet,kuwait,6,-0.4172418699472264
-Chevrolet Silverado 2021 6.2L V8 High Country,6.2,8,420,200,chevrolet,kuwait,5,-0.14349526043432279
 Chevrolet Silverado 2021 5.3 V8 LTZ,5.3,8,355,180,chevrolet,kuwait,6,-0.2203903754660373
-Dodge Charger 2021 6.4L R/T Scatpack,6.4,8,485,281,dodge,kuwait,5,-0.11888882362417415
 Chevrolet Silverado 2021 5.3 V8 RST,5.3,4,355,180,chevrolet,kuwait,6,-0.324967731909169
 Ford Mustang 2021 3.7L Convertible,3.7,6,300,181,ford,kuwait,4,-0.27267905368760315
 Chevrolet Silverado 2021 2.7 Turbo LT,2.7,4,310,180,chevrolet,kuwait,6,-0.3495741687193176
 Honda Pilot 2021 3.5L EX (AWD),3.5,4,280,175,honda,kuwait,8,-0.3495741687193176
 Mini Hatch 2021 3-Door Cooper S,2.0,4,192,235,mini,kuwait,4,-0.24345890997555164
-Chevrolet Silverado 2021 6.6L LTZ (Heavy Duty),6.6,8,401,180,chevrolet,kuwait,6,-0.1865565248520829
 Lexus NX 2021 200t Exclusive,2.0,4,235,200,lexus,kuwait,5,-0.27267905368760315
 Audi A4 2021 40 TFSI Sport (190 HP),2.0,4,190,240,audi,kuwait,5,-0.2696032490863346
 Lexus CT 2021 200h Prestige,1.8,4,134,182,lexus,kuwait,5,-0.27267905368760315
@@ -3708,7 +3337,6 @@ Acura MDX 2021 3.5L V6 AWD (Technology Package),3.5,6,290,210,acura,kuwait,7,-0.
 Ford Edge 2021 3.5L V6 Titanium (AWD) Full Option,3.5,6,280,200,ford,kuwait,5,-0.22654198466857445
 Toyota Land Cruiser 2021 4.0L Safari,4.0,6,271,200,toyota,kuwait,8,-0.23576939847238018
 Mercedes-Benz C-Class 2021 C 200,2.0,4,204,245,mercedes-benz,kuwait,5,-0.23576939847238018
-Chevrolet Silverado 2021 6.6L LT (Heavy Duty),6.6,8,401,180,chevrolet,kuwait,6,-0.2942096858964832
 Chevrolet Silverado 2021 3500,4.8,8,360,172,chevrolet,kuwait,6,-0.22346618006730587
 Ford Taurus 2021 3.5L V6 SHO,3.5,4,365,213,ford,kuwait,5,-0.21423876626350014
 Audi A4 2021 45 TFSI quattro Sport (252 HP),2.0,4,252,250,audi,kuwait,5,-0.2173145708647687
@@ -3753,7 +3381,6 @@ Mercedes-Benz E-Class Saloon 2021 E 200,2.0,4,184,240,mercedes-benz,kuwait,5,-0.
 Toyota Land Cruiser Prado 2021 4.0L VXL,4.0,6,271,200,toyota,kuwait,7,-0.1833269300207509
 Mercedes-Benz SLK-Class 2021 SLK 300,1.8,4,204,244,mercedes-benz,kuwait,2,-0.18040491564954575
 Ford Mustang 2021 5.0L Fastback Premium M/T,5.0,8,415,240,ford,kuwait,4,-0.18348072025081433
-Chevrolet Camaro Convertible 2021 6.2L SS,6.2,8,455,250,chevrolet,kuwait,4,-0.14964686963685994
 Nissan Patrol Safari 2021 Gazelle X A/T,4.8,6,280,190,nissan,kuwait,7,0.1333271536798494
 Kia Stinger 2021 3.3T AWD Full Option (370 PS),3.3,6,365,270,kia,kuwait,5,-0.18348072025081433
 Nissan Patrol Safari 2021 Super Safari A/T,4.8,6,280,190,nissan,kuwait,7,-0.13119204202924847
@@ -3777,7 +3404,6 @@ Mercedes-Benz C Class Cabriolet 2021 C 200 Cabriolet,2.0,4,204,235,mercedes-benz
 Volvo S90 2021 T5 Momentum Highline,2.0,4,254,230,volvo,kuwait,5,0.034901406439254844
 Lexus NX 2021 200t Platinum,2.0,4,235,200,lexus,kuwait,5,-0.16502589264320286
 Toyota Land Cruiser 2021 4.6L EXR,4.6,8,304,200,toyota,kuwait,8,-0.14964686963685994
-Chevrolet Camaro Coupe 2021 6.2L SS (A/T),6.2,8,455,250,chevrolet,kuwait,4,-0.14964686963685994
 Ford Mustang 2021 5.0L Fastback (California Special),5.0,8,415,240,ford,kuwait,4,-0.1557984788393971
 Lexus RX 2021 350 Premier Plus,3.5,4,275,200,lexus,kuwait,5,-0.14964686963685994
 Audi A5 Coupe 2021 45 TFSI quattro Sport (252 HP),2.0,4,252,250,audi,kuwait,4,-0.13426784663051705
@@ -3840,7 +3466,6 @@ Mercedes-Benz GLA 2021 AMG 45 4MATIC,2.0,4,381,250,mercedes-benz,kuwait,5,-0.057
 Mercedes-Benz SLC 2021 43 AMG,3.0,6,367,250,mercedes-benz,kuwait,2,-0.041993708592459655
 Mercedes-Benz E-Class Saloon 2021 E 300,2.0,4,245,250,mercedes-benz,kuwait,5,-0.02661468558611675
 Land Rover Discovery 2021 2.0T HSE (300 HP),2.0,4,300,201,land-rover,kuwait,7,0.045666722543694874
-Chevrolet Camaro Convertible 2021 6.2L ZL1,6.2,8,650,250,chevrolet,kuwait,2,0.031825601837986266
 Toyota Land Cruiser 2021 4.0L GXR GT,4.0,6,271,200,toyota,kuwait,8,-0.02661468558611675
 Mercedes-Benz E-Class Coupe 2021 E 300,2.0,4,245,250,mercedes-benz,kuwait,4,-0.011235662579773853
 Audi A7 2021 40 TFSI (252 HP),2.0,4,252,250,audi,kuwait,5,-0.032766294788653914
@@ -3853,7 +3478,6 @@ Porsche Boxster 2021 S,3.4,6,315,279,porsche,kuwait,2,-0.032766294788653914
 Land Rover LR4 2021 HSE,3.0,6,340,195,land-rover,kuwait,7,-0.023538880984848173
 Mercedes-Benz GLC-Class 2021 43 AMG 4MATIC,3.0,6,367,250,mercedes-benz,kuwait,5,0.0010675558253004673
 Volvo V90 2021 T6 Inscription Highline,2.0,4,316,250,volvo,kuwait,5,0.04105301564179201
-Chevrolet Camaro Coupe 2021 6.2L ZL1,6.2,8,650,250,chevrolet,kuwait,4,0.007219165027837628
 Audi S5 Sportback 2021 3.0 TFSI quattro (354 HP),3.0,6,354,250,audi,kuwait,5,0.034901406439254844
 Toyota Land Cruiser 2021 4.6L GXR GT,4.6,8,304,200,toyota,kuwait,8,0.019522383432911947
 Mercedes-Benz V Class 2021 Exclusive,2.0,4,350,221,mercedes-benz,kuwait,5,0.028749797236717688
@@ -3862,7 +3486,6 @@ Toyota Land Cruiser 2021 4.6L VXR,4.6,8,304,200,toyota,kuwait,8,0.03490140643925
 Audi A7 2021 50 TFSI quattro (333 HP),3.0,6,333,250,audi,kuwait,5,0.04105301564179201
 Audi RS4 Avant 2021 4.2 (450 BHP),4.2,8,450,250,audi,kuwait,5,0.034901406439254844
 Audi Q7 2021 45 TFSI CS quattro (333 HP),3.0,4,333,250,audi,kuwait,5,0.019522383432911947
-Jeep Grand Cherokee 2021 SRT8,6.4,8,470,250,jeep,kuwait,5,0.05012663921553432
 Lexus RX 2021 350 F-Sport,3.5,4,296,200,lexus,kuwait,5,0.034901406439254844
 Mercedes-Benz E-Class Cabriolet 2021 E 320,3.0,6,272,250,mercedes-benz,kuwait,4,0.019522383432911947
 Audi Q7 2021 40 TFSI Sport quattro (252 HP),2.0,4,252,210,audi,kuwait,5,0.022598188034180528
@@ -3924,14 +3547,12 @@ Mercedes-Benz C-Class 2021 C 63 S,4.0,4,510,290,mercedes-benz,kuwait,5,0.2409803
 Maserati Quattroporte 2021 3.0T V6 GranSport,3.0,6,350,270,maserati,kuwait,5,0.46858985521812463
 BMW M4 Coupe 2021 3.0T,3.0,6,431,250,bmw,kuwait,4,0.33940606196484424
 Maserati Quattroporte 2021 3.0T V6,3.0,6,350,270,maserati,kuwait,5,0.3347923550629414
-Maserati Levante 2021 3.8T V8 Trofeo,3.8,8,590,304,maserati,kuwait,5,0.9022783039969944
 Mercedes-Benz S-Class 2021 S 400 h,3.5,6,306,250,mercedes-benz,kuwait,5,0.2748141653382041
 Maserati Quattroporte 2021 3.0T V6 GranLusso,3.0,6,350,270,maserati,kuwait,5,0.443983418407976
 Mercedes-Benz GLS 2021 500 4MATIC,4.6,8,455,250,mercedes-benz,kuwait,7,0.290193188344547
 Lexus RC F 2021 5.0L Carbon,5.0,8,471,270,lexus,kuwait,4,0.25020772852805545
 Lexus LS 2021 460 Prestige Plus (LWB),4.6,8,390,220,lexus,kuwait,5,0.28096577454074123
 Lexus LS 2021 460 Platinum (SWB),4.6,8,382,250,lexus,kuwait,5,0.25020772852805545
-Cadillac Escalade 2021 6.2L Platinum,6.2,8,420,180,cadillac,kuwait,8,0.2748141653382041
 Mercedes-Benz CLS-Class 2021 CLS 450 4MATIC,3.0,6,367,250,mercedes-benz,kuwait,4,0.31172382055342707
 Porsche 911 2021 Carrera 4,3.0,6,385,291,porsche,kuwait,4,0.2994206021483527
 Mercedes-Benz E 63 AMG 2021 S 4MATIC+,4.0,8,612,250,mercedes-benz,kuwait,5,0.31172382055342707
@@ -3954,12 +3575,10 @@ Porsche 911 2021 Targa 4,3.4,6,350,280,porsche,kuwait,4,0.40092215399021586
 Porsche Panamera 2021 3.0L 4,3.0,6,325,265,porsche,kuwait,4,0.3824673263826044
 Mercedes-Benz GLE 63 AMG 2021 5.5L 4MATIC,5.5,8,557,250,mercedes-benz,kuwait,5,0.4193769815978273
 Mercedes-Benz S-Class 2021 S 460,3.0,4,367,250,mercedes-benz,kuwait,5,0.4409076138067074
-Mercedes-Benz C Class Cabriolet 2021 C 63 S Cabriolet,4.0,4,700,221,mercedes-benz,kuwait,5,0.40399795859148446
 Mercedes-Benz SL-Class 2021 SL 500,4.7,8,455,250,mercedes-benz,kuwait,2,0.45013502761051316
 Lexus LS 2021 600h F-Sport (SWB),5.0,8,438,220,lexus,kuwait,5,0.3732399125787986
 Maserati GranTurismo 2021 4.7L V8 Sport,4.7,8,460,299,maserati,kuwait,4,0.7112708382582156
 Lexus LC 500 2021 5.0L V8 Carbon,5.0,8,471,270,lexus,kuwait,4,0.49627209662954186
-Maserati GranTurismo 2021 4.7L V8 MC,4.7,8,460,301,maserati,kuwait,4,0.8407622119716228
 Porsche Panamera 2021 4 E-Hybrid,2.9,6,462,278,porsche,kuwait,4,0.5054995104333476
 Lexus LS 2021 460 Platinum (LWB),4.6,8,382,250,lexus,kuwait,5,0.465514050616856
 Lexus LS 2021 600h Platinum (LWB),5.0,8,438,220,lexus,kuwait,5,0.5270301426422277
@@ -3975,7 +3594,6 @@ Morgan Aero 8 2021 4.8L Manual,4.8,8,490,221,morgan,kuwait,5,0.5885462346675993
 Porsche 911 2021 Carrera GTS Cabriolet,3.0,6,450,308,porsche,kuwait,2,0.6254558898828222
 Audi S8 2021 4.0 TFSI quattro (520 HP),4.0,8,520,250,audi,kuwait,5,0.5731672116612564
 Porsche 911 2021 Carrera 4 GTS,3.0,6,550,221,porsche,kuwait,5,0.5885462346675993
-Aston Martin Vantage 2021 4.0T V8,4.0,8,503,314,aston-martin,kuwait,2,1.0043950167591114
 Mercedes-Benz AMG GT 2021 4.0L,4.0,4,469,304,mercedes-benz,kuwait,2,0.5885462346675993
 Porsche Panamera Sport Turismo 2021 4S,2.9,6,440,286,porsche,kuwait,5,0.597773648471405
 Porsche 911 2021 Targa 4S,3.8,6,400,280,porsche,kuwait,4,0.5577881886549134
@@ -3990,66 +3608,12 @@ Porsche 911 2021 Targa 4 GTS,3.0,6,550,221,porsche,kuwait,5,0.693123591110731
 Audi S8 2021 Plus 4.0 TFSI quattro (605 HP),4.0,8,605,250,audi,kuwait,5,0.7423364647310282
 Mercedes-Benz S-Class 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,kuwait,5,0.7115784187183425
 Porsche Panamera 2021 4S Executive,3.0,6,435,289,porsche,kuwait,4,0.656213935895508
-Mercedes-Benz SL 63 AMG 2021 5.5L,5.5,8,585,250,mercedes-benz,kuwait,2,0.7577154877373712
 Mercedes-Benz S-Class 2021 S 500,4.7,8,455,250,mercedes-benz,kuwait,5,0.6746687635031194
 Nissan GT-R 2021 50th Anniversary,3.8,6,565,315,nissan,kuwait,4,0.5793188208637935
-Maserati GranCabrio 2021 4.7L V8 Sport,4.7,8,460,288,maserati,kuwait,4,0.8346106027690856
-Maserati Quattroporte 2021 3.8T V8 GTS GranSport,3.8,8,530,310,maserati,kuwait,5,0.8253831889652798
 Land Rover Range Rover 2021 5.0L V8 Vogue SE (525 PS),5.0,8,525,225,land-rover,kuwait,5,0.7423364647310282
 Audi RS7 2021 4.0 TFSI Performance,4.0,8,605,305,audi,kuwait,5,0.6469865220917023
 Mercedes-Benz S-Class 2021 S 500 4MATIC,4.7,8,455,250,mercedes-benz,kuwait,5,0.7115784187183425
-Maserati GranCabrio 2021 4.7L V8 MC,4.7,4,460,291,maserati,kuwait,4,0.8715202579843085
-Mercedes-Benz S-Class 2021 S 600,6.0,12,530,250,mercedes-benz,kuwait,4,1.0345379018515433
-Porsche 911 2021 Turbo,3.8,6,520,315,porsche,kuwait,4,0.8284589935665485
-Audi A8 2021 W12 6.3 FSI quattro (500 HP),6.3,12,500,250,audi,kuwait,5,0.7638670969399083
-Mercedes-Benz AMG GT 2021 4.0L S,4.0,4,514,310,mercedes-benz,kuwait,2,0.773094510743714
-Porsche 911 2021 Turbo Cabriolet,3.8,6,520,315,porsche,kuwait,4,0.9330363500096802
-Mercedes-Benz S Class Cabriolet 2021 S 500 Cabriolet,4.7,8,455,250,mercedes-benz,kuwait,4,0.8807476717881143
-Mercedes-Benz AMG GT 2021 4.0L R,4.0,4,576,318,mercedes-benz,kuwait,2,0.942263763813486
 BMW M5 Sedan 2021 4.4T (600 HP),4.4,8,600,250,bmw,kuwait,5,0.6792824704050223
-Audi R8 Coupe 2021 5.2 V10 Plus,5.2,10,610,330,audi,kuwait,2,0.926884740807143
-Maserati Quattroporte 2021 3.8T V8 GTS GranLusso,3.8,8,530,310,maserati,kuwait,5,0.8007767521551312
-Mercedes-Benz AMG GT Roadster 2021 4.0L BiTurbo GT C,4.0,8,557,316,mercedes-benz,kuwait,2,0.9361121546109488
-Mercedes-Benz S-Class Coupe 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,kuwait,4,0.7884735337500569
-Land Rover Range Rover Sport 2021 5.0L V8 SVR (575 PS),5.0,8,575,280,land-rover,kuwait,5,1.0191588788452004
-Bentley Continental GT 2021 4.0T V8,6.0,8,542,318,bentley,kuwait,4,1.6650778451116024
-Porsche 911 2021 Turbo S,3.8,6,560,318,porsche,kuwait,4,1.1114330168832578
-Porsche 911 2021 Turbo S Cabriolet,3.8,6,560,318,porsche,kuwait,4,1.2160103733263896
-Acura NSX 2021 3.5T V6 Hybrid (573 HP),3.5,6,573,307,acura,kuwait,2,1.1729491089086295
-McLaren 570 GT 2021 3.8T Coupe,3.8,8,562,328,mclaren,kuwait,2,1.9419002592257746
-Mercedes-Benz S 63 AMG Coupe 2021 4.0L 4MATIC+,4.0,4,601,250,mercedes-benz,kuwait,4,1.249844223940344
-Porsche Panamera 2021 Turbo,4.0,8,550,306,porsche,kuwait,4,1.0837507754718405
-Mercedes-Benz Maybach 2021 S 650,6.0,12,630,250,mercedes-benz,kuwait,4,1.3267393389720585
-Porsche Panamera 2021 Turbo Executive,4.0,8,550,306,porsche,kuwait,4,1.1729491089086295
-Mercedes-Benz S 63 AMG 2021 4.0L 4MATIC+,4.0,8,612,250,mercedes-benz,kuwait,5,1.1114330168832578
-Mercedes-Benz S Class Cabriolet 2021 S63 4MATIC+,4.0,8,612,250,mercedes-benz,kuwait,4,1.30213290216191
-Porsche Panamera Sport Turismo 2021 Turbo,4.0,8,550,304,porsche,kuwait,5,1.102205603079452
-Bentley Continental GT Convertible 2021 V8,4.0,8,542,301,bentley,kuwait,4,1.7881100291623455
-Mercedes-Benz Maybach 2021 62 LWB,6.0,4,530,250,mercedes-benz,kuwait,4,1.3267393389720585
-Bentley Bentayga 2021 6.0L W12,6.0,12,600,301,bentley,kuwait,5,1.9726583052384603
-Mercedes-Benz S 65 AMG 2021 6.0L V12 (630 HP),6.0,12,630,250,mercedes-benz,kuwait,5,1.726593937136974
-Bentley Bentayga 2021 4.0L V8,4.0,8,542,290,bentley,kuwait,5,1.5881827300798879
-Mercedes-Benz S Class Cabriolet 2021 S 65,6.0,12,630,250,mercedes-benz,kuwait,4,1.880384167200403
-Bentley Continental GT Convertible 2021 W12,6.0,12,567,314,bentley,kuwait,4,2.4032709494160613
-Bentley Bentayga 2021 6.0L W12 Mulliner,6.0,12,600,301,bentley,kuwait,5,3.4798025598600644
-Porsche Panamera 2021 Turbo S E-Hybrid,4.0,8,680,310,porsche,kuwait,4,1.3913312355986986
-Aston Martin Rapide AMR 2021 6.0L V12,5.9,12,590,330,aston-martin,kuwait,4,1.858853534991523
-Porsche Panamera 2021 Turbo S E-Hybrid Executive,4.0,8,680,310,porsche,kuwait,4,1.483605373636756
-Bentley Bentayga 2021 4.0L V8 Design Series,4.0,8,542,290,bentley,kuwait,5,2.0956904892892037
-Bentley Bentayga 2021 6.0L W12 Speed,6.0,12,626,301,bentley,kuwait,5,2.4032709494160613
-Mercedes-Benz SL 65 AMG 2021 6.0L,6.0,12,630,250,mercedes-benz,kuwait,2,1.3421183619784014
-Lamborghini Aventador SVJ 2021 LP770-4 Coupe,6.5,12,770,350,lamborghini,kuwait,2,4.402543940240639
-Rolls Royce Ghost 2021 6.75T Short Wheelbase,6.8,12,571,250,rolls-royce,kuwait,5,2.4340289954287475
-Rolls Royce Phantom 2021 6.75L Short Wheelbase,6.7,12,563,250,rolls-royce,kuwait,4,4.556334170304067
-McLaren 720S 2021 4.0T Spider,4.0,8,770,221,mclaren,kuwait,5,3.1722220997332067
-Mercedes-Benz S 65 AMG Coupe 2021 6.0L,6.0,4,630,250,mercedes-benz,kuwait,4,1.8957631902067458
-Bentley Flying Spur 2021 6.0T W12,6.0,12,626,333,bentley,kuwait,5,2.5570611794794904
-Ferrari GTC4Lusso 2021 3.9T V8,3.9,8,610,320,ferrari,kuwait,4,2.310996811378004
-Rolls Royce Ghost 2021 6.75T Extended Wheelbase,6.8,12,571,250,rolls-royce,kuwait,4,3.141464053720521
-Lamborghini Aventador S 2021 6.5L V12 Coupe,6.5,4,740,350,lamborghini,kuwait,2,3.5413186518854363
-Ferrari GTC4Lusso 2021 6.3L V12,6.3,12,690,335,ferrari,kuwait,4,2.7108514095429195
-Rolls Royce Wraith 2021 6.6L Base,6.6,12,624,250,rolls-royce,kuwait,4,2.7108514095429195
-McLaren 720S 2021 4.0T Coupe,4.0,8,770,221,mclaren,kuwait,5,2.92615773163172
 Ford Bronco 2021 2.7T Outer Banks,2.7,6,542,221,ford,uae,5,-0.02805332328371002
 Ford Bronco 2021 2.3T Big Bend,2.3,4,420,221,ford,uae,5,-0.18659706954909963
 Opel Grandland X 2021 1.6T Innovation,1.6,4,163,201,opel,uae,5,-0.4334597487539153
@@ -4462,7 +4026,6 @@ Ford Explorer 2021 2.3L EcoBoost XLT (Base Option) AWD,2.3,4,300,180,ford,uae,7,
 Alfa Romeo Giulia 2021 Super,2.0,4,330,221,alfa-romeo,uae,5,-0.2950485416968292
 Infiniti Q50 2021 3.0T Luxe,3.0,6,300,250,infiniti,uae,5,-0.2950485416968292
 Volvo XC40 2021 2.0T T4 FWD Momentum,2.0,4,190,230,volvo,uae,5,-0.295300198436933
-Chevrolet Silverado 2021 6.6L WT (Heavy Duty),6.6,8,401,180,chevrolet,uae,6,-0.294041914736414
 Hyundai Santa Fe 2021 3.5L High (AWD),3.5,6,363,221,hyundai,uae,5,-0.30284990064004674
 Mercedes-Benz A-class Sedan 2021 200,0.0,4,163,230,mercedes-benz,uae,5,-0.29555437174443777
 Ford Transit 2021 3.7L 150XL (Medium Roof),3.7,6,275,158,ford,uae,2,-0.3028624834770519
@@ -4511,7 +4074,6 @@ Mercedes-Benz C-Class 2021 C 180,1.6,4,156,207,mercedes-benz,uae,5,-0.2573000306
 Volvo XC40 2021 2.0T T4 R Design,2.0,4,190,230,volvo,uae,5,-0.2449688504161744
 Mazda CX-9 2021 2.5T Signature Edition (AWD),2.5,4,230,210,mazda,uae,7,-0.24723376107710854
 Audi A4 2021 35 TFSI S-line (150 HP),2.0,4,150,225,audi,uae,5,-0.24922184932392846
-Chevrolet Bolt EV 2021 LT FWD,0.0,4,500,360,chevrolet,uae,5,-0.24748541781721234
 Toyota Hilux 2021 4.0L Adventure X (4x4),4.0,6,235,170,toyota,uae,5,-0.2522668958791844
 Audi Q3 Sportback 2021 40 TFSI (180 HP),2.0,4,180,206,audi,uae,5,-0.2510715263636914
 Nissan Patrol Safari 2021 Safari M/T,4.8,6,280,190,nissan,uae,7,-0.2449688504161744
@@ -4547,7 +4109,6 @@ Nissan Patrol Safari 2021 Super Safari A/T Hard Top,4.8,6,280,190,nissan,uae,7,-
 Nissan Patrol Safari 2021 Safari A/T,4.8,6,280,190,nissan,uae,7,-0.22835950556932408
 Toyota Supra 2021 2.0T GR,2.0,4,255,250,toyota,uae,2,-0.2198031764057951
 Toyota Highlander 2021 2.5L Hybrid VXR (AWD),2.5,4,292,221,toyota,uae,7,-0.2198031764057951
-Chevrolet Silverado 2021 6.6L LT (Heavy Duty),6.6,8,401,180,chevrolet,uae,6,-0.2130084444229927
 Mercedes-Benz A-Class 2021 A 250,2.0,4,224,250,mercedes-benz,uae,5,-0.2195515196656913
 Jeep Grand Cherokee 2021 3.6L Trailhawk,3.6,6,290,190,jeep,uae,5,-0.22206808706672923
 Lexus IS 2021 300 Premier,2.0,4,241,230,lexus,uae,5,-0.2195515196656913
@@ -4582,7 +4143,6 @@ Jeep Wrangler 2021 3.6L V6 Rubicon X (2-Door),3.6,6,285,180,jeep,uae,4,-0.187087
 Tesla Model 3 2021 Long Range (AWD),0.0,4,292,233,tesla,uae,5,-0.18205466539022616
 Chevrolet Suburban 2021 5.3L LS 4WD,5.3,8,355,175,chevrolet,uae,9,-0.18205466539022616
 Chevrolet Silverado 2021 5.3 V8 LTZ,5.3,8,355,180,chevrolet,uae,6,-0.18708780019230203
-Dodge Charger 2021 6.4L R/T Scatpack,6.4,8,485,281,dodge,uae,5,-0.17953809798918824
 Ford Expedition EL 2021 3.5L EcoBoost XLT,3.5,4,365,160,ford,uae,8,-0.19438584565531203
 GMC Acadia Denali 2021 3.6L V6 (AWD),3.6,6,310,210,gmc,uae,7,-0.18884939737302858
 Lexus NX 2021 300 Premier,2.0,4,235,200,lexus,uae,5,-0.19438584565531203
@@ -4614,7 +4174,6 @@ Mini Hatch 2021 John Cooper Works (3-Door),2.0,4,231,246,mini,uae,4,-0.150345916
 Jeep Wrangler Unlimited 2021 3.6L V6 Rubicon X,3.6,6,285,185,jeep,uae,5,-0.14933928917673303
 Mercedes-Benz C Class Cabriolet 2021 C 200 Cabriolet,2.0,4,204,235,mercedes-benz,uae,4,-0.15663733463974303
 Mercedes-Benz GLC-Class 2021 GLC 250 4MATIC,2.0,4,211,222,mercedes-benz,uae,5,-0.15663733463974303
-Chevrolet Silverado 2021 6.6L LTZ (Heavy Duty),6.6,8,401,180,chevrolet,uae,6,-0.14933928917673303
 Lexus ES 2021 350 Premier,3.5,6,302,230,lexus,uae,5,-0.15663733463974303
 BMW 2 Series Grand Coupe 2021 218i,1.5,3,136,210,bmw,uae,4,-0.15663733463974303
 Volkswagen Touareg 2021 3.0T Atmosphere (340 HP),3.0,6,450,221,volkswagen,uae,5,-0.2010799149420729
@@ -4625,7 +4184,6 @@ Audi A5 Sportback 2021 40 TFSI S-Line (190 HP),2.0,4,190,240,audi,uae,5,-0.14141
 Audi Q5 2021 45 TFSI quattro Sport,2.0,4,252,237,audi,uae,5,-0.1429975393261175
 Nissan Patrol Safari 2021 Super Safari A/T + Winch,4.8,6,280,190,nissan,uae,7,-0.14908763243662923
 Audi Q5 2021 45 TFSI quattro Design,2.0,4,252,237,audi,uae,5,-0.14314853337017974
-Chevrolet Camaro Coupe 2021 6.2L SS (A/T),6.2,8,455,250,chevrolet,uae,4,-0.12971006344863717
 RAM 1500 2021 5.7L Rebel (Double Cab),5.7,8,395,175,ram,uae,5,-0.1289550932283258
 Volvo XC60 2021 2.0T T5 AWD Inscription,2.0,4,254,220,volvo,uae,5,-0.13172331736946752
 Mercedes-Benz SLC 2021 300,2.0,4,245,250,mercedes-benz,uae,2,-0.11888882362417408
@@ -4649,7 +4207,6 @@ Infiniti QX50 2021 2.0T Autograph (AWD),2.0,4,268,230,infiniti,uae,5,-0.09372314
 Porsche 718 2021 Cayman,2.0,4,300,275,porsche,uae,2,-0.09548474679452135
 Audi A6 2021 45 TFSI Quattro (245 HP),2.0,4,245,250,audi,uae,5,-0.08354363447659642
 Lexus RX 2021 450h Premier,3.5,6,308,180,lexus,uae,5,-0.0937231496137948
-Chevrolet Silverado 2021 6.2L V8 High Country,6.2,8,420,200,chevrolet,uae,5,-0.1040410759580503
 Land Rover Defender 2021 90 SE Base (P300),2.0,4,300,191,land-rover,uae,5,-0.09094234263564789
 Lexus NX 2021 300 F Sport Platinum,2.0,4,235,200,lexus,uae,5,-0.0937231496137948
 Lincoln Nautilus 2021 2.7T V6 Select (335 Hp),2.7,6,335,250,lincoln,uae,5,-0.0914708217898659
@@ -4669,7 +4226,6 @@ Porsche 718 2021 Boxster,2.0,4,300,275,porsche,uae,2,-0.06000114643988661
 Ford F-150 Raptor 2021 3.5L EcoBoost Single Cab (Base),3.5,4,422,170,ford,uae,5,-0.05776895115516592
 Lexus RX 2021 350 Prestige,3.5,6,296,200,lexus,uae,5,-0.05597463859822593
 Lexus IS 2021 350 F-Sport,3.5,6,311,230,lexus,uae,5,-0.05597463859822593
-GMC Sierra Denali 2021 6.2L Crew Cab (AWD),6.2,8,420,180,gmc,uae,5,-0.047418309434696965
 Mini Clubman 2021 John Cooper Works ALL4,2.0,4,306,250,mini,uae,5,-0.053458071197188
 Land Rover Defender 2021 90 SE (P300),2.0,4,300,191,land-rover,uae,5,-0.033602354402998705
 RAM 1500 2021 5.7L Limited (Double Cab),5.7,8,395,175,ram,uae,5,-0.028544053926912498
@@ -4709,7 +4265,6 @@ Porsche 718 2021 Boxster S,2.5,4,350,285,porsche,uae,2,0.04015823612142296
 Land Rover Range Rover Velar 2021 2.0L S (250 PS),2.0,4,250,217,land-rover,uae,5,0.03245753987424693
 Lexus GS 2021 450h F-Sport,3.5,6,341,250,lexus,uae,5,0.032105220438101593
 Lexus GS 2021 350 F-Sport,3.5,6,311,230,lexus,uae,5,0.032105220438101593
-Jeep Grand Cherokee 2021 SRT8,6.4,8,470,250,jeep,uae,5,0.0318535636979978
 BMW 4 Series Coupe 2021 420i,2.0,4,184,236,bmw,uae,4,0.037390011980281246
 Volvo XC90 2021 2.0T T6 AWD Inscription,2.0,4,320,240,volvo,uae,7,0.0318535636979978
 Audi A6 2021 55 TFSI Quattro (340 HP),3.0,4,340,250,audi,uae,5,0.020566758904342716
@@ -4722,7 +4277,6 @@ Volvo XC90 2021 2.0T T6 AWD Inscription Highline,2.0,4,320,240,volvo,uae,7,0.057
 Ford Expedition 2021 3.5L EcoBoost (Turath Special Edition),3.5,6,400,190,ford,uae,8,0.047660123543917125
 Toyota Land Cruiser 2021 4.6L GXR GT,4.6,8,304,200,toyota,uae,8,0.04846290854484813
 Mercedes-Benz GLC Coupe 2021 300 4MATIC,2.0,4,245,236,mercedes-benz,uae,5,0.05475432704744295
-Chevrolet Camaro Coupe 2021 6.2L ZL1,6.2,8,650,250,chevrolet,uae,4,0.0600391185896226
 Audi A7 Sportback 2021 45 TFSI quattro (245 HP),2.0,6,245,250,audi,uae,5,0.04144168549595242
 Mercedes-Benz E-Class Coupe 2021 E 300,2.0,4,245,250,mercedes-benz,uae,4,0.04468805744329124
 Lexus RX 2021 450h F Sport,3.5,6,308,180,lexus,uae,5,0.04468805744329124
@@ -4741,7 +4295,6 @@ Audi S5 Coupe 2021 3.0 TFSI quattro (354 HP),3.0,6,354,250,audi,uae,4,0.10898635
 Audi A7 Sportback 2021 55 TFSI quattro (340 HP),3.0,6,340,250,audi,uae,5,0.13234010002144236
 Audi S5 Sportback 2021 3.0 TFSI quattro (354 HP),3.0,6,354,250,audi,uae,5,0.10873469779970653
 Land Rover Defender 2021 110 HSE (P400),3.0,6,400,208,land-rover,uae,5,0.11305061089248661
-Dodge Charger 2021 6.2L SRT Hellcat A/T,6.2,8,707,328,dodge,uae,5,0.13251625973951497
 Land Rover Range Rover Velar 2021 2.0L R-Dynamic SE (250 PS),2.0,4,250,217,land-rover,uae,5,0.10750157977319806
 BMW Z4 Roadster 2021 sDrive20i,2.0,4,197,240,bmw,uae,2,0.11037046661038119
 Audi SQ8 2021 4.0 TFSI quattro (500 HP),4.0,8,500,250,audi,uae,5,0.12996194382746157
@@ -4749,8 +4302,6 @@ Mercedes-Benz C-Class Coupe 2021 AMG C43 4MATIC,3.0,4,390,250,mercedes-benz,uae,
 Ford F-150 Raptor 2021 3.5L EcoBoost Single Cab (Luxury),3.5,4,422,170,ford,uae,5,0.14305312744766083
 Land Rover Discovery 2021 3.0L V6 SE (360 HP),3.0,6,360,215,land-rover,uae,7,0.15162958915039812
 Jaguar F-Type Convertible 2021 2.0T (300 PS),2.0,4,300,249,jaguar,uae,2,0.15268654745883398
-Cadillac Escalade 2021 6.2L Luxury,6.2,8,420,180,cadillac,uae,8,0.1453507534848084
-Chevrolet Corvette 2021 6.2L 2LT Convertible,6.2,8,495,312,chevrolet,uae,2,0.1453507534848084
 Kia K900 2021 5.0L GDI V8,5.0,8,505,221,kia,uae,5,0.13276791647961875
 Porsche 718 2021 Cayman GTS 4.0,4.0,6,400,293,porsche,uae,2,0.15164217198740323
 Mercedes-Benz C Class Cabriolet 2021 C AMG 53 4MATIC+ Cabriolet,3.0,6,435,250,mercedes-benz,uae,4,0.1453507534848084
@@ -4762,7 +4313,6 @@ Mercedes-Benz E-Class Cabriolet 2021 E 450 4MATIC,3.0,6,362,250,mercedes-benz,ua
 Porsche 718 2021 Boxster GTS 4.0,4.0,6,400,293,porsche,uae,2,0.18712577234203803
 Ford F-150 Raptor 2021 3.5L EcoBoost Super Cab (Luxury Range),3.5,4,422,170,ford,uae,5,0.16045015789103598
 BMW Z4 Roadster 2021 sDrive30i,2.0,4,258,250,bmw,uae,2,0.2027284902284732
-Dodge Challenger 2021 6.2L Hellcat Widebody A/T,6.2,8,707,314,dodge,uae,5,0.18284760776027353
 BMW X3 2021 xDrive 30i,2.0,4,248,240,bmw,uae,5,0.19643707172587835
 Lexus LS 2021 350 Prestige,3.5,6,311,220,lexus,uae,5,0.1705164274951877
 Mercedes-Benz GLC Coupe 2021 AMG 43 4MATIC,3.0,4,367,250,mercedes-benz,uae,5,0.19568210150556697
@@ -4770,7 +4320,6 @@ BMW X4 2021 xDrive 30i,2.0,4,252,240,bmw,uae,5,0.1780661296983015
 BMW 5 Series 2021 530i,2.0,4,252,250,bmw,uae,5,0.18309926450037733
 Jaguar XJ 2021 3.0L Luxury LWB (340 PS),3.0,6,340,250,jaguar,uae,5,0.1902085674083095
 Lincoln Continental 2021 3.0T Presidential,3.0,6,400,250,lincoln,uae,5,0.19919271303001498
-Tesla Model X 2021 90D,0.0,4,489,966,tesla,uae,5,0.2161040459649898
 Genesis G90 2021 5.0L V8 Royal,5.0,8,407,240,genesis,uae,5,0.22059611877584248
 Tesla Model X 2021 75D,0.0,4,329,221,tesla,uae,5,0.20606294203484843
 Porsche 718 2021 Spider,4.0,6,420,300,porsche,uae,2,0.24198694168466486
@@ -4786,15 +4335,12 @@ Porsche 718 2021 Boxster 25 Years,4.0,6,400,293,porsche,uae,2,0.2470200764867407
 Land Rover Discovery 2021 3.0L V6 HSE (360 HP),3.0,6,360,215,land-rover,uae,7,0.23343061252113592
 Tesla Model S 2021 Long Range (AWD),0.0,4,292,250,tesla,uae,5,0.25834462979141143
 Porsche 718 2021 GT4,4.0,6,420,304,porsche,uae,2,0.25507309217006213
-Jeep Grand Cherokee 2021 6.2L Trackhawk (707 HP),6.2,8,707,290,jeep,uae,5,0.27117912353670487
 Mercedes-Benz E-Class Coupe 2021 E AMG 53 4MATIC+,3.0,6,435,250,mercedes-benz,uae,4,0.27117912353670487
-RAM Rebel TRX Concept 2021 6.2L V8 (702 HP),6.2,8,702,190,ram,uae,4,0.2837619605418945
 Lincoln Navigator 2021 3.5T Reserve (AWD),3.5,6,450,185,lincoln,uae,7,0.25204062845181147
 Mercedes-Benz CLS-Class 2021 CLS 350,2.0,4,299,250,mercedes-benz,uae,4,0.2837619605418945
 Land Rover Defender 2021 90 X (P400),3.0,6,400,208,land-rover,uae,5,0.2639314094217157
 Porsche Panamera 2021 3.0L 4,3.0,6,325,265,porsche,uae,4,0.26690095895494037
 Lotus Exige 2021 Sport 410 20th Anniversary,3.5,6,410,290,lotus,uae,2,0.27117912353670487
-Cadillac Escalade 2021 6.2L Sport,6.2,8,420,180,cadillac,uae,8,0.25859628653151523
 Land Rover Defender 2021 110 X (P400),3.0,6,400,208,land-rover,uae,5,0.2570611804168821
 Maserati Ghibli 2021 3.0T V6 GranLusso,3.0,6,350,267,maserati,uae,5,0.28124539314085656
 Jaguar XJ 2021 3.0L Premium Luxury LWB (340 PS),3.0,4,340,250,jaguar,uae,5,0.31043757499289654
@@ -4805,19 +4351,16 @@ Maserati Levante 2021 3.0T V6,3.0,6,350,251,maserati,uae,5,0.30641106715123584
 Lexus LS 2021 500 F Sport,3.5,6,416,250,lexus,uae,5,0.32151047155746343
 Lotus Evora 2021 GT,3.5,6,416,303,lotus,uae,4,0.3315767411616152
 BMW Z4 Roadster 2021 sDriveM40i,3.0,6,340,250,bmw,uae,2,0.31333162750409016
-Chevrolet Corvette 2021 6.2L 3LT Coupe,6.2,8,495,312,chevrolet,uae,2,0.32151047155746343
 Land Rover Range Rover Velar 2021 3.0L V6 R-Dynamic HSE (340 PS),3.0,6,340,233,land-rover,uae,5,0.28665601305308813
 BMW 4 Series Convertible 2021 430i,2.0,4,258,250,bmw,uae,4,0.3261661212493836
 Audi A7 Sportback 2021 S7 TFSI quattro (450 HP),2.0,6,450,250,audi,uae,5,0.32153563723147394
 Tesla Model X 2021 100D,0.0,4,420,250,tesla,uae,7,0.37913986504123215
 Jaguar F-Pace 2021 5.0L V8 SVR (550 PS),5.0,8,550,283,jaguar,uae,5,0.3461099179026092
 BMW X5 2021 40i xDrive,3.0,6,340,243,bmw,uae,5,0.3325833681220303
-Cadillac Escalade 2021 6.2L Sport Platinum,6.2,8,420,180,cadillac,uae,8,0.3773782678605056
 Lincoln Navigator 2021 3.5T Presidential (AWD),3.5,6,450,185,lincoln,uae,7,0.34452448043995537
 BMW X3 M 2021 3.0T Competition,3.0,6,510,250,bmw,uae,5,0.36831862521676906
 Tesla Model X 2021 Long Range (AWD),0.0,4,292,250,tesla,uae,7,0.3340681428886427
 Jaguar XJ 2021 3.0L 50th Edition LWB (340 PS),3.0,6,340,250,jaguar,uae,5,0.33580457439535893
-Dodge Challenger 2021 6.2L Hellcat Red Eye A/T,6.2,8,797,327,dodge,uae,5,0.33887478662462517
 Porsche 911 2021 Carrera,3.0,6,385,291,porsche,uae,4,0.35246425059022995
 Porsche Taycan Cross Turismo 2021 4,0.0,4,292,221,porsche,uae,5,0.3537225342907489
 Porsche Cayenne Coupe 2021 S,2.9,6,440,263,porsche,uae,5,0.3542258477709565
@@ -4881,100 +4424,3 @@ Nissan GT-R 2021 Black Edition,3.8,6,565,315,nissan,uae,4,0.7193822942289613
 Porsche Panamera Sport Turismo 2021 4S,2.9,6,440,286,porsche,uae,5,0.6743332211829811
 Maserati Quattroporte 2021 3.0T V6 S GranLusso,3.0,6,430,285,maserati,uae,5,0.6889267955416002
 Maserati Quattroporte 2021 3.0T V6 S GranSport,3.0,6,430,285,maserati,uae,5,0.7115784187183425
-Mercedes-Benz GLS 63 AMG 2021 5.0L 4MATIC,5.0,8,585,250,mercedes-benz,uae,7,0.7870754407494803
-Tesla Model X 2021 P100D,0.0,4,292,221,tesla,uae,5,0.8426160832903876
-Mercedes-Benz G-Class 2021 G500,4.0,8,422,250,mercedes-benz,uae,5,0.8374067887702389
-BMW 8 Series Convertible 2021 840i,3.0,8,340,250,bmw,uae,4,0.7743667753742388
-Audi S8 2021 4.0 TFSI quattro (571 HP),4.0,8,571,250,audi,uae,5,0.7641369288890197
-Nissan GT-R 2021 Track Edition,3.8,6,600,350,nissan,uae,4,0.8184067048924025
-BMW 7 Series 2021 750Li xDrive,4.4,8,530,250,bmw,uae,5,0.7873270974895841
-Porsche Cayenne Coupe 2021 Turbo,4.0,8,550,286,porsche,uae,5,0.8011682181952927
-Land Rover Range Rover 2021 3.0L V6 UAE Edition (400 PS),3.0,6,400,225,land-rover,uae,5,0.8087934174204376
-Porsche 911 2021 Targa 4S,3.8,6,400,280,porsche,uae,4,0.7659362745807617
-BMW M5 Sedan 2021 4.4T Competition (625 HP),4.4,8,625,250,bmw,uae,5,0.9280032152076043
-Land Rover Range Rover 2021 5.0L V8 Vogue SE (525 PS),5.0,8,525,225,land-rover,uae,5,0.9800206633870585
-Porsche Panamera Sport Turismo 2021 GTS,4.0,8,460,289,porsche,uae,5,0.8686122245431092
-Mercedes-Benz AMG GT 2021 4.0L S,4.0,4,514,310,mercedes-benz,uae,2,0.9003209737961871
-Mercedes-Benz AMG GT Roadster 2021 4.0L V8 (476 HP),4.0,8,476,302,mercedes-benz,uae,2,0.9632351588221354
-Mercedes-Benz S Class Cabriolet 2021 S 560,4.0,8,465,250,mercedes-benz,uae,4,0.8499896257754286
-Porsche 911 2021 Turbo,3.8,6,520,315,porsche,uae,4,0.9954472215554209
-Maserati Levante 2021 3.8T V8 Trofeo,3.8,8,590,304,maserati,uae,5,0.9607185914210974
-BMW X7 2021 XDrive40i,3.0,6,340,245,bmw,uae,5,0.9136587810216882
-BMW M3 Sedan 2021 3.0T Competition,3.0,6,450,250,bmw,uae,5,0.8658943317499884
-Mercedes-Benz AMG GT 4-Door Coupe 2021 63 4MATIC+,4.0,8,580,310,mercedes-benz,uae,4,0.9129038108013767
-Porsche Taycan Cross Turismo 2021 Turbo,0.0,4,292,221,porsche,uae,5,0.8572876712384385
-Aston Martin Vantage 2021 4.0T V8,4.0,8,503,314,aston-martin,uae,2,0.924517769357167
-BMW M4 Coupe 2021 3.0T,3.0,6,431,250,bmw,uae,4,0.8816983750285065
-Porsche 911 2021 GT3,3.8,6,475,315,porsche,uae,2,0.923473393885736
-Mercedes-Benz S 63 AMG 2021 4.0L 4MATIC+,4.0,8,612,250,mercedes-benz,uae,5,1.039990464553792
-Mercedes-Benz SL 63 AMG 2021 5.5L,5.5,8,585,250,mercedes-benz,uae,2,1.1268120398896007
-BMW 8 Series Coupe 2021 M850i xDrive,4.4,8,523,250,bmw,uae,4,1.1305868909911576
-Mercedes-Benz S-Class Coupe 2021 S 560,4.0,8,469,250,mercedes-benz,uae,4,1.051315017858463
-Mercedes-Benz G-Class 2021 G63,4.0,8,585,220,mercedes-benz,uae,5,1.0890635288740318
-BMW 7 Series 2021 M760Li xDrive,6.6,12,585,250,bmw,uae,5,1.0009836698377044
-Mercedes-Benz S-Class Coupe 2021 S 560 4MATIC,4.0,8,469,250,mercedes-benz,uae,4,1.15197771389998
-Porsche 911 2021 Turbo Cabriolet,3.8,6,520,315,porsche,uae,4,1.121527248347421
-Porsche Cayenne Coupe 2021 Turbo S E-Hybrid,4.0,8,680,295,porsche,uae,5,1.1011430523990138
-Mercedes-Benz AMG GT 2021 4.0L C,4.0,4,550,317,mercedes-benz,uae,2,1.0387321808532732
-Mercedes-Benz S-Class 2021 S 560,4.0,8,469,250,mercedes-benz,uae,5,1.0890635288740318
-Land Rover Range Rover Sport 2021 5.0L V8 SVR (575 PS),5.0,8,575,280,land-rover,uae,5,1.1578538987814038
-BMW 8 Series Convertible 2021 M 850i xDrive,4.4,8,523,250,bmw,uae,4,1.1768917311702556
-Nissan GT-R 2021 Nismo,3.8,6,600,350,nissan,uae,4,1.3100407957917715
-Aston Martin Vantage Roadster 2021 4.0T V8,0.0,8,5050,305,aston-martin,uae,2,1.1940798865193447
-Porsche 911 2021 Turbo S,3.8,6,560,318,porsche,uae,4,1.332163939814296
-Mercedes-Benz Maybach 2021 S 650,6.0,12,630,250,mercedes-benz,uae,4,1.3658859429882042
-Mercedes-Benz AMG GT 4-Door Coupe 2021 63 S 4MATIC+,4.0,8,639,310,mercedes-benz,uae,4,1.1645605509051697
-Porsche Panamera Sport Turismo 2021 Turbo,4.0,8,550,304,porsche,uae,5,1.2088521371634373
-Mercedes-Benz AMG GT 2021 4.0L R,4.0,4,576,318,mercedes-benz,uae,2,1.1645605509051697
-Mercedes-Benz S Class Cabriolet 2021 S63 4MATIC+,4.0,8,612,250,mercedes-benz,uae,4,1.2400575729363077
-Maserati Quattroporte 2021 3.8T V8 Trofeo,3.8,8,580,326,maserati,uae,5,1.2123753315248904
-Land Rover Range Rover 2021 5.0L V8 Autobiography LWB (525 PS),5.0,8,525,250,land-rover,uae,4,1.2236495534815401
-Bentley Continental GT 2021 4.0T V8,6.0,8,542,318,bentley,uae,4,1.547078795862935
-Mercedes-Benz S 65 AMG 2021 6.0L V12 (630 HP),6.0,12,630,250,mercedes-benz,uae,5,1.6049598460868073
-Porsche 911 2021 Turbo S Cabriolet,3.8,6,560,318,porsche,uae,4,1.4579923098661924
-Bentley Bentayga 2021 4.0L V8,4.0,8,542,290,bentley,uae,5,1.4665486390297213
-Lamborghini Huracan 2021 EVO Coupe RWD,5.2,10,600,325,lamborghini,uae,2,1.441382965019342
-Ferrari Portofino M 2021 3.9T V8,3.9,8,612,320,ferrari,uae,4,1.4944825371812422
-Aston Martin DB11 2021 4.0T V8 Coupe,4.0,8,503,300,aston-martin,uae,4,1.5245731335954529
-Bentley Flying Spur 2021 4.0T V8,4.0,8,542,318,bentley,uae,5,1.4162172910089628
-Porsche Panamera Sport Turismo 2021 Turbo S E-Hybrid,4.0,8,680,310,porsche,uae,5,1.5357542425582644
-Land Rover Range Rover 2021 5.0L V8 Fifty (525 PS),5.0,8,525,225,land-rover,uae,5,1.3961979973337062
-Mercedes-Benz AMG GT Roadster 2021 4.0L V8 (558 HP) C,4.0,8,558,316,mercedes-benz,uae,2,1.5294628240556696
-Mercedes-Benz SL 65 AMG 2021 6.0L,6.0,12,630,250,mercedes-benz,uae,2,1.7559538901490832
-Ferrari F8 Tributo 2021 3.9T V8,3.9,8,710,340,ferrari,uae,2,1.6950529590439654
-BMW M8 Gran Coupe 2021 4.4T V8 xDrive,4.4,8,600,250,bmw,uae,4,1.6223241611539692
-Bentley Continental GT Convertible 2021 V8,4.0,8,542,301,bentley,uae,4,1.7056225421283246
-Lamborghini Huracan 2021 EVO Spyder RWD,5.2,10,602,324,lamborghini,uae,2,1.7182053791335141
-Aston Martin DB11 2021 4.0T V8 Volante,4.0,8,503,322,aston-martin,uae,4,1.706588904010323
-BMW M8 Convertible 2021 4.4T V8 Competition xDrive (625 Hp),4.4,8,625,250,bmw,uae,4,1.668629001333067
-Mercedes-Benz S 63 AMG Coupe 2021 4.0L 4MATIC+,4.0,4,601,250,mercedes-benz,uae,4,1.7056225421283246
-Mercedes-Benz S Class Cabriolet 2021 S 65,6.0,12,630,250,mercedes-benz,uae,4,1.793702401164652
-Aston Martin DB11 AMR 2021 5.2T V12,5.2,12,700,221,aston-martin,uae,5,1.953597544124399
-BMW M8 Coupe 2021 4.4T V8 Competition xDrive (625 Hp),4.4,8,625,250,bmw,uae,4,1.6072247567477416
-Bentley Bentayga 2021 6.0L W12,6.0,12,600,301,bentley,uae,5,1.8566165861906003
-Lamborghini Urus 2021 4.0T V8,4.0,8,650,305,lamborghini,uae,4,1.8377423306828158
-Ferrari F8 Spider 2021 3.9T V8,3.9,8,710,340,ferrari,uae,2,1.9460805572974986
-Rolls Royce Ghost 2021 6.75T Short Wheelbase,6.8,12,571,250,rolls-royce,uae,5,2.2215188593411
-Rolls Royce Dawn 2021 6.6L V12,6.6,12,563,250,rolls-royce,uae,4,2.5990039694967892
-Bentley Flying Spur 2021 6.0T W12,6.0,12,626,333,bentley,uae,5,2.5990039694967892
-Bentley Continental GT 2021 6.0L W12 (626 HP),6.0,12,626,333,bentley,uae,4,2.0956904892892037
-Ferrari 812 Superfast 2021 6.5L V12,6.5,12,800,340,ferrari,uae,2,2.485129294599823
-Mercedes-Benz S 65 AMG Coupe 2021 6.0L,6.0,4,630,250,mercedes-benz,uae,4,2.0956904892892037
-Aston Martin DBS Superleggera Volante 2021 5.2T V12,5.2,12,900,221,aston-martin,uae,5,2.7345085412056767
-Lamborghini Huracan 2021 STO,5.2,10,640,310,lamborghini,uae,2,2.3473472293929967
-Rolls Royce Ghost 2021 6.75T Extended Wheelbase,6.8,12,571,250,rolls-royce,uae,4,2.5990039694967892
-McLaren 720S 2021 4.0T Coupe,4.0,8,770,221,mclaren,uae,5,2.3435723782914395
-Aston Martin DBS Superleggera 2021 5.2T V12,5.2,12,900,221,aston-martin,uae,5,2.5515742236894274
-Ferrari 812 GTS 2021 6.5L V12,6.5,12,718,221,ferrari,uae,5,2.8101439744438714
-Bentley Continental GT Convertible 2021 W12,6.0,12,567,314,bentley,uae,4,2.3473472293929967
-McLaren 720S 2021 4.0T Spider,4.0,8,770,221,mclaren,uae,5,2.588686043152534
-Lamborghini Huracan 2021 EVO Coupe,5.2,10,640,325,lamborghini,uae,2,2.3473472293929967
-Lamborghini Aventador S Roadster 2021 6.5L V12 (740 HP),6.5,12,740,350,lamborghini,uae,2,3.8572876700157543
-McLaren 765LT 2021 4.0T V8,4.0,8,755,330,mclaren,uae,2,3.1035757334048943
-Rolls Royce Wraith 2021 6.6L Black Badge,6.6,12,624,250,rolls-royce,uae,4,3.3539741898081683
-Rolls Royce Dawn 2021 6.6L V12 Black Badge,6.6,12,593,250,rolls-royce,uae,4,3.1023174497043753
-Lamborghini Huracan 2021 EVO Spyder,5.2,10,640,325,lamborghini,uae,2,2.8506607096005823
-Lamborghini Aventador SVJ 2021 LP770-4 Coupe,6.5,12,770,350,lamborghini,uae,2,4.33543547621296
-Ferrari SF90 Stradale 2021 4.0T V8 Plug-in-Hybrid,4.0,8,25,800,ferrari,uae,5,3.7719760351205687
-Rolls Royce Wraith 2021 6.6L Base,6.6,12,624,250,rolls-royce,uae,4,2.8506607096005823
-Lamborghini Aventador S 2021 6.5L V12 Coupe,6.5,4,740,350,lamborghini,uae,2,3.4798025598600653
