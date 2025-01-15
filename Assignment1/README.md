@@ -56,7 +56,6 @@ The project report (`report.pdf`) includes detailed discussions on:
 This project is for academic use only as part of the ENCS5341 course at the Electrical and Computer Engineering Department.
 
 
-
 ## 🔗 Links
 
 [![facebook](https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/qossay.rida?mibextid=2JQ9oc)
