@@ -1,5 +1,3 @@
-# MachineLearning-DataScience
-
 # Machine Learning and Data Science Projects
 
 This repository contains a collection of machine learning and data science projects, each demonstrating various techniques and methodologies in the field.
